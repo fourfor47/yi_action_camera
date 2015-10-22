@@ -1,0 +1,870 @@
+/* 
+  Localizable.strings
+  MoveApp
+
+  Created by li.gang on 14-4-24.
+  Copyright (c) 2014年 LG. All rights reserved.
+*/
+
+
+/**
+ *  广场
+ */
+"sns_home_found" = "发现";
+
+"sns_video_download_file"           = "您没有下载任何视频，快去下载吧~~~~~";
+"sns_video_mine"                    = "我的视频";
+"sns_error_get_user_info"           = "未能成功获取用户数据";
+"sns_loading"                       = "正在加载中";
+"sns_recommend"                     = "推荐";
+//"sns_second_square_failed_get" = "第二广场A请求发生错误%@";
+"sns_network_error"                 = "无法连接到网络";
+"sns_nothing_in_server"             = "服务器里没放东西呢";
+//"" = "您没有连接网络,或者服务器挂了";
+"sns_hot_photo"                     = "热门照片";
+"sns_download_firmware_renew"       = "下载";
+"sns_cancel"                        = "取消";
+"sns_todo_download_firmware_renew"  = "请下载固件升级包";
+"sns_camera_firmware_renew"         = "xiaoyiGuJian%@.bin";
+"sns_exit_firmware_renew_file"      = "固件升级包已经存在,校验中...";
+"sns_exit_connect_camera"           = "固件升级包已经存在,请连接相机Wi-Fi进行固件升级";
+"sns_success"                       = "完成";
+"sns_download_firmware_renew_again" = "您所下载的安装包已经被破坏,请重新下载";
+"sns_firmware_no_md5"               = "该固件升级包不存在md5,请重新下载";
+
+"sns_take_care"              = "注意";
+"sns_download_alert_message" = "您正在使用流量,下载将消耗大量流量";
+"sns_download_go_on"         = "继续";
+"sns_download_cancel"        = "否";
+
+"sns_no_network"                        = "无网络";
+"sns_button_confirm"                    = "确定";
+"sns_unknow_network_link"               = "未知的特殊网络状况";
+//"" = "确定";
+"sns_accomplish"                        = "完成";
+"sns_can_not_link_server"               = "固件升级的网址挂了,请稍后再试";
+"sns_keep_live_download"                = "下载中,请勿退出";
+"sns_failed_download_again"             = "下载中断,请重新下载";
+"sns_check_firmware_renew_file"         = "校验安装包是否完整中...";
+"sns_download_again"                    = "重新下载";
+"sns_download_successed_connect_camera" = "成功下载,请连接相机Wi-Fi并进行固件升级";
+//"sns_download_file_destory_again" = "您所下载的安装包已经被破坏,请重新下载";
+"sns_unknow"                            = "啊偶,不知道下载到哪儿去了";
+"sns_download_finish_not_save"          = "下载完成,但是无法保存下载的文件";
+"sns_setting"                           = "设置";
+"sns_have_new_edition"                  = "有新版本";
+"sns_app_edition"                       = "APP版本";
+"sns_firmware_edition"                  = "固件版本";
+"sns_firmware_download_title"           = "固件下载";
+"sns_firmware_last_connected_updated"   = "上次连接的相机已更新到最新固件";
+"sns_firmware_no_update"                = "暂无固件更新";
+"sns_firmware_ready"                    = "已下载最新固件\n请连接相机后更新";
+"sns_firmware_new"                      = "有更新";
+"sns_user_use_lead"                     = "使用说明";
+"sns_setting_feedback"                  = "微信客服";
+"sns_setting_about"                     = "关于我们";
+"sns_edition_is_new"                    = "已经是最新版本,无需升级";
+"sns_failed_network_is_bad"             = "暂时无法升级";
+"sns_failed_download_pic"               = "网络不给力，图片下载失败";
+"sns_normal_questions" = "常见问题";
+
+"sns_buy" = "购买";
+
+"sns_content_of_share"            = "分享内容";
+"sns_test"                        = "测试一下";
+"sns_test_message"                = "这是一条测试信息";
+"sns_checkUpdates" = "检查更新中";
+//"sns_no_network" = "无网络";
+//"" = "注意";
+"sns_alert_3g_network"            = "您正在使用流量，观看视频将耗费大量流量，是否继续";
+//"" = "继续";
+//"" = "否";
+//"" = "确定";
+//"" = "未知的特殊网络状况";
+//"" = "确定";
+"sns_watch_finish_download_video" = "您在观看下载好的视频呢~";
+"sns_failed_create_video_file"    = "创建视频文件夹失败";
+"sns_video_file_exit"             = "视频已经存在";
+"sns_download_to_background"      = "进入后台下载中";
+"sns_download_progress"           = "%@下载完成";
+"sns_alert_tapped_again"          = "您已经点击过人家了呢～～";
+"sns_already_download" = "文件已在下载列表中";
+"sns_noDownloading" = "您没有正在下载中的视频";
+
+//"sns_no_network" = "无网络";
+"sns_confirm" = "确认";
+//"" = "未知的特殊网络状况";
+//"" = "确认";
+
+"sns_more" = "更多";
+//"" = "更多";
+
+"sns_video_play_alert" = "正在加载...";
+
+//"" = "您没有连接网络,或者服务器挂了";
+//"" = "啊偶，服务器没放数据呢";
+"sns_file_all_video" = " 所有视频";
+
+"sns_square_title"          = "首页";
+"sns_network_can_not_used"   = "当前网络不可用";
+"sns_link_network_try_again" = "请检查网络连接";
+"sns_try_again"              = "重试";
+"sns_send_message_failed"    = "当前网络不可用";
+"sns_classify"               = "分类";
+"sns_not_login"              = "未登录";
+"sns_login_button"           = "点击头像登录";
+//"" = "未登录";
+//"" = "点击头像登录";
+"sns_content_personal"       = "我的内容";
+"sns_download_management" = "下载管理";
+/**
+ *  引导页面
+ */
+"sns_header_one" = "开启相机";
+"sns_header_two" = "打开Wi-Fi";
+"sns_header_three" = "连接Wi-Fi";
+"sns_detail_one" = "短按电源键，光圈亮起";
+"sns_detail_two" = "短按Wi-Fi键，等待蓝灯闪烁";
+"sns_detail_three" = "在手机Wi-Fi设置中，选择小蚁运动相机连接";
+"sns_next" = "下一步";
+"sns_set" = "去设置吧";
+"sns_attention" = "默认相机名称为YDXJ+相机SN号后7位\n（SN号可在相机的电池仓中找到）\n默认密码为1234567890";
+"sns_phone_pic" = "ywc_iphone";
+"sns_attention_tail" = "\n不对？";
+
+"sns_restore_tutor_title" = "恢复出厂设置";
+"sns_restore_tutor_detail1" = "长按%@指示灯蓝灯闪烁时，\n听到滴的一声松手即可。\n相机将自动重启，请重新连接相机。\n\n\n%@";
+"sns_restore_tutor_key" = "电源键+Wi-Fi键";
+"sns_restore_tutor_detail2" = "相机密码恢复成:1234567890\n相机名称恢复成:YDXJ+相机SN号后7位\nSN号可在相机的电池仓中找到";
+/**
+ *  上拉刷新
+ */
+"refresh_FooterPullToRefresh" = "上拉可以加载更多数据";
+"refresh_FooterReleaseToRefresh" = "松开立即加载更多数据";
+"refresh_FooterRefreshing" = "正在加载数据";
+"refresh_Footer_All_Data_Loaded" = "已经全部加载完毕";
+"refresh_HeaderPullToRefresh" = "下拉可以刷新";
+"refresh_HeaderReleaseToRefresh" = "松开立即刷新";
+"refresh_HeaderRefreshing" = "正在刷新...";
+
+/**
+ *  保存到相册
+ */
+"save_image_success" = "成功保存到相册";
+"save_image_notExist" = "图片不存在";
+"save_image_fail" = "保存到相册失败";
+"save_cannot_get" = "无权限访问相册";
+"save_saveBtn" = "保存";
+"save_toPhotoAlbum" = "保存到相册";
+/**
+ *  意见反馈
+ */
+"feedback_contactWay" = "联系方式:";
+"feedback_feedbackContent" = "反馈内容:";
+"feedback_contactWayDetail" = "您的qq/邮箱/手机号";
+"feedback_feedbackContentDetail" = "请输入您的宝贵意见";
+"feedback_cancel" = "取消";
+"feedback_submit" = "提交";
+"feedback_submitSuccess" = "成功提交";
+"feedback_thanks" = "非常感谢您的意见,我们会慎重考虑,并尽力改善";
+"feedback_confirm" = "确认";
+"feedback_fail" = "网络不佳,提交失败";
+"feedback_failForOtherReasons" = "失败,可能是因为重复提交";
+
+"ywc_xiaoyi_qrcode" = "ywc_xiaoyi_qrcode";
+"ywc_step_one_scan" = "ywc_step_one_scan";
+"ywc_step_two_ablum" = "ywc_step_two_ablum";
+"ywc_step_three_public" = "ywc_step_three_public";
+
+"wechat_iknow_title" = "我知道了";
+/**
+ *  faq
+ */
+"faq_camera" = "相机常识";
+"faq_connection" = "连接问题";
+"faq_takingPhotos" = "拍照摄像";
+"faq_battery" = "电池问题";
+"faq_sdCard" = "SD卡问题";
+"faq_on_off" = "开关机";
+"faq_others" = "其他";
+"faq_logo_title" = "用户问题解答";
+/**
+ *  快拍
+ */
+"original"    = "无";
+"brightbeau"  = "惊艳";
+"curvelevel"  = "靓丽";
+"deepquit"    = "黑白系";
+"retro"       = "复古";
+"sepia"       = "红晕";
+"_8mmfilm"    = "光阴";
+"documentary" = "心跳";
+"template"    = "模板";
+"effect"      = "滤镜";
+"effect_edit_format_choose" = "格式选择";
+"effect_edit_format_MP4"    = "MP4格式";
+"effect_edit_format_GIF"    = "GIF格式";
+"effect_edit_back_button"   = "返回";
+"effect_edit_share_button"  = "分享";
+"generate_MP4" = "视频生成";
+"generate_GIF" = "GIF生成";
+
+"effect_save_file_error"         = "获取相册权限失败";
+"effect_save_file_error_message" = "请打开 设置-隐私-照片 来进行设置";
+"effect_save_file_error_cancel"  = "确定";
+
+"effect_shareVieo" = "暂不支持分享";
+
+"effect_video_load_again" = "重新加载快拍";
+
+"effect_not_support" = "暂不支持";
+
+
+/**
+ *  相机设置
+ */
+"tvVideoSetting" = "视频设置";
+
+"setting_video"             = "视频";
+"setting_video_quality"     = "视频质量";
+"setting_video_time_stamp"  = "视频时间戳";
+"setting_video_resolution"  = "视频分辨率";
+"setting_video_standard"    = "制式";
+"setting_meter_mode"        = "测光模式";
+
+"setting_photo"                 = "拍照";
+"setting_photo_size"            = "照片分辨率";
+"setting_capture_default_mode"  = "开机拍照模式";
+"setting_system_default_mode"   = "开机默认模式";
+"setting_photo_stamp"           = "照片时间戳";
+
+"setting_camera"                  = "相机";
+"setting_preview_status"          = "预览开关";
+"setting_auto_low_light"          = "自动低光";
+"setting_loop_record"             = "循环摄像";
+"setting_warp_enable"             = "镜头畸变校正";
+"setting_start_wifi_while_booted" = "开机启动Wi-Fi";
+"setting_av_output"               = "AV输出";
+"setting_video_rotate"            = "视频图像翻转";
+"emergency_file_backup"           = "紧急备份";
+"setting_buzzer_volume"           = "蜂鸣器音量";
+"setting_default_record_mode"     = "开机录像模式";
+"setting_wifi"                    = "Wi-Fi信息设置";
+"setting_led_mode"                = "LED模式";
+"setting_camera_clock"            = "相机时间";
+"setting_auto_power_off"          = "自动关机";
+
+"setting_device" = "设备";
+//"setting_bluetooth"                = "配件";
+"setting_hw_version"               = "型号";
+"setting_serial_number"            = "序列号";
+"setting_sw_version"               = "固件版本";
+"setting_sdcard"                   = "SD卡";
+"setting_buzzer_ring"              = "查找相机";
+"setting_restore_factory_settings" = "恢复出厂设置";
+"setting_save_log"                 = "相机日志";
+"setting_failed"                   = "设置失败";
+"setting_unsupported_resolution"   = "当前分辨率不支持自动低光";
+
+"format_SD_error" = "有未完成的下载任务，是否格式化";
+
+/**
+ *  相机设置参数
+ */
+"videoquality_fine"      = "中";
+"videoquality_superfine" = "高";
+"videoquality_normal"    = "低";
+"auto_low_light"         = "自动低光";
+"loop_record"            = "循环摄像";
+"wrap_enable"            = "镜头畸变校正";
+"set_on"                 = "开启";
+"set_off"                = "关闭";
+"date"                   = "日期";
+"date_and_time"          = "日期/时间";
+"time"                   = "时间";
+"buzzer_volume_high"     = "高";
+"buzzer_volume_low"      = "低";
+"buzzer_volume_mute"     = "关闭";
+"second"                 = "秒";
+"pic_second"             = "张/秒";
+"pic_two_second"         = "张/2秒";
+"single_pic"             = "普通拍照";
+"nomal_pic"              = "拍照";
+"cont_pic"               = "运动轨迹拍照";
+"time_lapes_photo"       = "延时";
+"time_lapse_pic"         = "延时拍照";
+"keep_cont_pic"          = "持续连拍";
+"meter_spot"             = "点测光";
+"meter_center"           = "中央测光";
+"meter_average"          = "平均测光";
+"meter_manual"           = "手动测光";
+"led_all_enable"         = "全部开启";
+"led_all_disable"        = "全部关闭";
+"led_status_enable"      = "仅状态灯亮";
+"sd_hc"                  = "低速卡";
+"sd_xc"                  = "高速卡";
+"none"                   = "未知类型";
+"sd_error"               = "卡不存在";
+"record"                 = "摄像";
+"capture"                = "拍照";
+
+"sdcard_size"           = "可用%@/总共%@";
+"sdcard_size_available" = "可用";
+"sdcard_size_total"     = "总共";
+
+"camera_setting_alertlabel"   = "设置中";
+"camera_setting_alertmessage" = "听到响三声滴滴之后重启相机";
+
+
+
+/**
+ *  相机连接过度界面
+ */
+"camera_connect_head_label"  = "连接相机";
+"camera_connect_alert_label" = "请保持相机Wi-Fi打开，并靠近手机";
+"camera_connect_back_button" = "返回";
+
+"camera_connect_failed_search"        = "连接失败";
+"camera_connect_failed_label_message" = "当Wi-Fi指示灯蓝灯闪烁时，尝试重新连接";
+"camera_connect_failed_again"         = "重新连接";
+"camera_connect_failed_by_other"      = "相机已被其他手机连接";
+"camera_connect_failed"      = "连接失败";
+"camera_connect_failed_back_square"   = "返回主页";
+
+
+"camera_connect_button" = "连接相机";
+
+
+/**
+ *  Wifi界面
+ */
+"wifi_name_label"                  = "Wi-Fi名称: ";
+"wifi_name_placeholder"            = "请输入SSID";
+"wifi_password_lalbel"             = "Wi-Fi密码: ";
+"wifi_password_placeholder"        = "请输入新密码";
+"wifi_password_show_label"         = "显示密码";
+"wifi_alert_nothing_change"        = "没有任何修改";//iOS专有
+"wifi_alert_enter_right_name"      = "名称只能由1-32位数字或字母组成";
+//"wifi_alert_name_count_failed"     = "wifi名称位数不正确";
+"wifi_alert_enter_right_password"  = "密码只能由8-64位数字或字母组成";
+//"wifi_alert_password_count_failed" = "wifi密码位数不正确";
+"wifi_alert_restart_wifi"          = "Wi-Fi信息修改后将自动重启Wi-Fi，是否继续？";
+"wifi_camera_state_message"        = "相机可能在摄像拍照，暂不能设置";
+"wifi_content_alter_success"       = "Wi-Fi信息修改成功，请重新连接相机!";
+
+/**
+ *  ShareSDK分享
+ */
+"share_iWantToShare" = "我在小蚁运动相机的广场上发现了一个很有趣的内容";
+"share_myShare" = "我的小蚁运动相机分享";
+"share_opening" = "正在打开app,准备进行分享";
+"share_success" = "分享成功";//国际化
+"share_fail" = "分享失败";//国际化
+"share_fail_code" = "错误码";//国际化
+"share_fail_desc" = "错误描述";//国际化
+"share_local_video" = "本地视频不支持分享";
+
+/**
+ *  固件升级
+ */
+"camera_firmware_upgrade"            = "固件升级";
+"please_select_wifi"                 = "选取Wi-Fi";
+"wifi_password_hint"                 = "请输入Wi-Fi密码";
+"no_new_version"                     = "没有新版本";
+"no_new_firmware_version"            = "没有新固件";
+"firmware_download_failed"           = "固件下载失败！";
+"firmware_upgrade_switch_wifi"       = "正在切换Wi-Fi...";
+"firmware_upgrade_download_firmware" = "正在下载固件...";
+"firmware_upgrade_tip"               = "固件上传期间，请勿关闭相机Wi-Fi";
+"sure_to_cancel_firmware_upgrade"    = "确定取消固件升级吗";
+"should_connect_to_outside_wifi"     = "固件升级需要先连接外部Wi-Fi进行下载，确认断开与相机的连接吗？";
+"video_ratio"                        = "4:3";
+"video_format"                       = "MP4";
+"new_video"                          = "新建快拍视频";
+"video_filter"                       = "滤镜";
+"video_musicbg"                      = "音乐";
+"firmware_no_sdcard"                 = "请插入SD卡";
+
+
+
+
+/**
+ *  相机模式
+ */
+"tvRecordMode"     = "摄像";
+"tvQuickShotMode"  = "快拍";
+"tvPhotographMode" = "拍照";
+
+
+/**
+ *  相机、手机状态显示
+ */
+"caera_battery_level" = "相机\n电量";
+"phone_battery_level" = "手机\n电量";
+
+
+/**
+ *  相机的主要活跃状态
+ */
+"camera_activity_mode_record"     = "摄像";
+"camera_activity_mode_quick_shot" = "快拍";
+"camera_activity_mode_photograph" = "拍照";
+
+
+
+"alert_user_label"          = "双击屏幕即可返回到预览界面";
+"photo_edit_download_label" = "下载";
+"photo_edit_delete_label"   = "删除";
+"photo_edit_edit_label"     = "编辑";
+"photo_button_cancel"       = "取消";
+"photo_choose_count"        = "已选择1张";
+
+
+/**
+ *  相机拍照模式
+ */
+"tv_normal"    = "普通拍照";
+"tv_timelapes" = "延时拍照";
+"tv_timer"     = "定时拍照";
+"tv_burst"     = "运动轨迹";
+
+"tv_record_normal"     = "普通摄像";
+"tv_record_time_lapse"     = "延时摄像";
+"tv_record_photo"     = "摄像+拍照";
+
+/**
+ * 文件管理
+ */
+"tvPhoto"    = "相册";
+"tvVideo"    = "视频";
+"tvDownLoad" = "下载";
+
+"camer_file_loading_not_delete" = "有文件正在下载，请先暂停下载";
+
+
+"camer_file_downloading" = "下载中";
+"camer_file_downloaded"  = "已完成";
+
+"camer_file_downloading_exit_or_not"  = "退出会暂停下载，是否继续？";
+
+
+"camera_file_no_photo"            = "没有照片文件";
+"camera_file_no_video"            = "没有视频文件";
+"camera_file_get_file"            = "获取文件中";
+"camera_file_SDCard_remove"       = "SD卡已拔出";
+"camera_file_not_support_effect"  = "暂不支持编辑";
+"camera_file_selected"            = "已选择%d项";
+"camera_file_can_select"          = "请选择文件";
+"camera_file_have_download_photo" = "有已经下载的照片";
+"camera_file_select_is_download"  = "所选中的照片有的正在被下载";
+"camera_file_video_is_download"   = "视频文件正在被下载";
+"camera_file_video_delete_loading"= "正在下载选中的视频，是否确认删除？";
+//"camera_file_not_delete"          = "暂时不删";
+//"camera_file_sure_delete"         = "确认删除";
+"camera_file_not_delete"          = "取消";
+"camera_file_sure_delete"         = "确认";
+
+"camera_http_wwan_alert_message"  = "如果无法下载或者预览图片，请尝试关闭蜂窝网络后重试。";
+
+"camera_download_file_cancel_button" = "取消下载";
+
+"camera_file_video_formate" = "视频格式";
+"camera_file_video_cancel"  = "返回";
+"camera_file_video_high"    = "高清";
+"camera_file_video_middle"  = "标清";
+
+"camera_file_download_add"  = "加入下载";
+"camera_file_download_exit" = "下载中";
+"camera_file_download"      = "已下载";
+"file_deleted_loading"      = "下载已被删除";
+"camera_file_download_error"= "手机存储空间不足";
+"camera_file_system_space"  = "空间剩余%@，共%@";
+
+"camera_file_video_not_suport_play" = "该文件不支持在线播放";
+"camera_file_save_video_failed" = "%@不支持当前视频保存至相册，您可以在我的內容中查看本视频。";
+
+
+/**
+ *  相机界面
+ */
+"camera_main_caching"                     = "正在缓冲";
+"camera_main_piv_complete"                = "抓拍成功";
+"camera_main_piv_failed"                  = "抓拍失败";
+"camera_main_prompt"                      = "提示";
+"camera_main_sure_disconnect_from_camera" = "确认断开相机连接吗？";
+"camera_main_disconnect_yes"              = "确认";
+"camera_main_disconnect_no"               = "取消";
+"camera_main_not_exit_SD_card"            = "没有SD卡";
+
+"camera_main_set_model_defeat"            = "相机模式切换失败";
+
+
+/**
+ *  相机工作状态
+ */
+"camera_take_photo_timelapse" = "延时拍照中";
+"camera_take_photo_burst"     = "运动轨迹拍照中";
+"camera_take_photo_normal"    = "普通拍照中";
+"camera_take_photo_timing"    = "定时拍照中";
+
+"camera_camera" = "相机";
+
+
+
+/**
+ *  相机错误返回信息
+ */
+"camera_error_unknow"             = "未知错误";
+"camera_error_session"            = "session失败";
+"camera_error_token"              = "错误的token";
+"camera_error_no_more_space"      = "SD卡已满";
+"camera_error_no_more_save_space" = "没有存储空间";
+"camera_error_system_busy"        = "系统繁忙";
+"camera_error_no_sd_card"         = "没有SD卡";
+
+"camera_error_save_error"       = "存储错误";
+"camera_error_sd_hc"            = "低速卡";
+"camera_error_index_limit"      = "索引限制";
+"camera_error_file_limit"       = "文件限制";
+"camera_error_sd_card_remove"   = "SD卡移除";
+"camera_error_sd_card_inserd"   = "SD卡插入";
+"camera_error_piv_error"        = "当前分辨率不支持抓拍";
+"camera_error_sd_card_not_exit" = "没有SD卡";
+
+"camera_error_sd_card_not_support" = "不支持小于4G的卡";
+
+
+
+
+
+
+
+/**
+ *  父类VC提示
+ */
+
+"camera_enter_usb_storage" = "进入U盘模式";
+
+//title
+"Back" = "返回";
+"Home" = "首页";
+"OK" = "确认";
+"Nothing" = "没有文件";
+"Notice" = "提示";
+"Cancel" = "取消";
+"Save" = "保存";
+"Edit" = "编辑";
+"Square" = "广场";
+"Camera" = "摄像";
+"TakePhoto" = "拍照";
+"Cameras" = "相机";
+"All_Select" = "全选";
+"No_Select" = "反选";
+"Me" = "我";
+"FileManage" = "文件管理";
+"LocalFile" = "本地文件";
+"EquipManage" = "设备管理";
+"SDCard" = "SD卡";
+"Setting" = "设置";
+"Manager" = "管理";
+
+
+
+// Operation
+"TryAgain" = "重试";
+"DeleteConfirm" = "确认删除？";
+"FormatSDCard" = "格式化SD卡";
+"Format SDCard or not" = "确定格式化SD卡吗？";
+"TotalCapacity" = "总存储容量";
+"AvailableCapacity" = "可用容量";
+"SDCardCapacity" = "SD卡";
+"Camert Time" = "相机时间";
+"Same Time" = "同步手机时间";
+
+
+
+"video_quality" = "视频质量";
+"video_stamp" = "视频戳";
+"video_resolution" = "视频分辨率";
+"video_standard" = "制式";
+"meter_mode" = "测光模式";
+"photo_size" = "照片分辨率";
+"capture_default_mode" = "开机拍照模式";
+"photo_stamp" = "照片戳";
+"capture_mode" = "拍照模式选择";
+"buzzer_volume" = "蜂鸣器音量";
+"precise_cont_time" = "延时拍照间隔";
+"burst_capture_number" = "连拍张数";
+"restore_factory_settings" = "恢复出厂设置";
+"led_mode" = "LED模式";
+"usb_storage_enable" = "USB存储";
+"serial_number" = "序列号";
+"Preview Switch" = "预览开关";
+"CameraSetting" = "拍摄设置";
+"Single" = "单 拍";
+"Continu" = "连 拍";
+"Delay" = "延时拍";
+
+"FailedToStart" = "1. 请确保您的设备Wi-Fi已开启；\n\n2. 请确保您的手机Wi-Fi已连接至摄像机的热点；\n\n3. 请确保无其他人连接您的设备；\n\n4. 如果30秒内仍连接不上，请重启您的设备再次尝试。\n\n";
+"NetFail" = "摄像机wifi连接失败，请检查摄像机wifi是否正常！";
+"Photo" = "照片";
+"Vidoe" = "视频";
+"Download" = "下载";
+"SettingSuccess" = "设置成功";
+"SettingFailed" = "设置失败";
+"operation_failed" = "操作失败";
+
+//tips
+
+"Camera Recording" = "正在摄像中";
+"Taking Photo" = "正在拍照中";
+
+"PleaseCloseTheCamera" = "请先停止摄像";
+"PleaseStopPhoto" = "请停止拍照";
+"Preview is Closed" = "预览已关闭";
+"Precise Quality Conting" = "正在延时拍照中";
+"Burst Quality photoing" = "正在运动轨迹拍照中";
+"Timelapse Record" = "正在延时摄像中";
+
+"Does not support Preview" = "当前分辨率不支持预览";
+"Resolution not support Capture" = "当前分辨率不支持抓拍";
+"not_support_automatic_low_light" = "当前分辨率不支持自动低光";
+
+
+"file_saving" = "正在保存中";
+
+
+
+"TFCardIsFull" = "TF卡已满";
+"stdDefVideo" = "没有直播视频";
+
+"This resolution video no preview and side stream" = "此分辨率下摄像没有预览和副码流";
+
+"no preview" = "没有预览";
+
+
+"This resolution has no side stream video" = "此分辨率下摄像没有副码流";
+
+
+
+//UI title
+"Connect Success" = "连接成功";
+"Connect failed" = "连接失败";
+"Connectting" = "连接中";
+
+
+"VidoeMode" = "摄像模式";
+"PhotoMode" = "拍照模式";
+
+
+
+
+"Photo Success" = "拍照成功";
+"Photo Failed" = "拍照失败";
+"No File" = "没有文件";
+"Delete" = "删除";
+"Deleteing" = "正在删除中";
+
+"System Busy" = "系统繁忙";
+"Clear Cache" = "清理缓存";
+
+"Saving" = "保存中";
+"Finished" = "完成";
+
+
+
+
+
+
+
+"Find Camera" = "查找相机";
+"Camera connection failed, please check your WiFi connection is normal" = "摄像机连接失败，请检查Wi-Fi连接是否正常";
+"No Select File" = "没有选中文件";
+"Delete Success" = "删除成功";
+"Delete Failed" = "删除失败";
+"Restore Factory Or Not ?" = "确定恢复出厂设置？";
+"Unbind bluetooth controller Or Not ?" = "确定解除绑定蓝牙遥控器";
+"Time synchronous camera" = "确定同步相机时间？";
+"btc_delete_all_binded_dev" = "解除绑定蓝牙遥控器";
+"Fetch log from camera" = "确定下载相机日志？";
+"Upload_camera_log" = "确定上传相机日志？";
+
+"Wifi Message" = "Wi-Fi信息设置";
+"Confirm ?" = "确定设置？";
+"Restart Camera ?" = "重启相机？";
+"SDCardType" = "SD卡类型";
+"SDCardSpeed" = "SD卡测速";
+"SD Card remove" = "SD卡拨出";
+"SD Card insert" = "SD卡插入";
+"video_output_dev_type" = "视频输出模式";
+"Please Click To Get" = "请点击获取";
+"Speeding" = "正在测速";
+"Version information" = "型号";
+"Hardware Version" = "固件版本";
+"Software Version" = "软件版本信息:";
+
+"warp_enable" = "镜头畸变校正";
+"start_wifi_while_booted" = "开机自动打开Wi-Fi";
+"auto_power_off" = "自动关机";
+
+// alert tips
+"video_record_complete" = "摄像完成";
+"start_video_record" = "摄像开始";
+"No SDCard" = "没有SD卡";
+"Photo Start" = "开始拍照";
+"SDCard-16K" = "SD卡格式化错误，重新格式化？";
+//请求返回提示
+
+"Failed" = "失败";
+"Success" = "成功";
+"Loading" = "连接中";
+"Get Wifi Failed" = "获取Wi-Fi信息失败";
+
+"Command Failed" = "命令返回失败";
+
+
+
+
+
+//相机参数转化值
+"on" = "开启";
+"off" = "关闭";
+"S.Fine" = "高";
+"Fine" = "中";
+"Normal" = "低";
+"date/time" = "日期/时间";
+"high" = "高";
+"low" = "低";
+"mute" = "关闭";
+"center" = "中央测光";
+"average" = "平均测光";
+"spot" = "点测光";
+"precise quality" = "普通拍照";
+"precise quality cont." = "延时拍照";
+"precise self quality" = "定时拍照";
+"burst quality" = "运动轨迹拍照";
+"status_error" = "获取卡状态错误";
+"slot_error" = "系统错误";
+"all enable" = "全部开启";
+"all disable" = "全部关闭";
+"status enable" = "仅状态灯亮";
+
+"firm_upload_percentage" = "已上传%.0f%%";
+"firm_diary" = "更新日志";
+"firm_startUpdate" = "上传固件到相机";
+"firm_updating" = "固件包上传到相机中,请保持相机靠近手机";
+"firm_connecting" = "准备上传,正在建立连接";
+"firm_start_fw_update" = "开始升级";
+"firm_not_supported" = "该相机不支持升级";
+"firm_quit" = "正在升级中，请耐心等待";
+"firm_error_unknownError" = "重命名文件时出现异常";
+"firm_error_invalidParam" = "param参数无效";
+"firm_error_invalidPath" = "指定的文件不存在";
+"firm_error_cardNotExist" = "SD卡不存在";
+"firm_error_title" = "固件升级出错";
+"firm_success_title" = "成功";
+"firm_success_message" = "升级过程中,相机会发出持续的蜂鸣声\n成功后,相机将在急促的滴滴声后关机";
+"firm_alreadyNewest" = "无需升级";
+"firm_lowBattery" = "相机当前电量不足,请连接电源线后进行固件升级";
+
+"firm_unsupported" = "相机固件更新";
+"firm_finishDownload" = "已下载v%@";
+"firm_warning" = "警告";
+"firm_wwan" = "当前不是Wi-Fi网络，下载将产生数据流量，确认继续下载？";
+"firm_notDownload" = "取消";
+"firm_continueDownload" = "下载";
+"firm_wifiWillDownload" = "连接Wi-Fi会自动下载";
+"firm_willUpdateIn5s" = "5秒内，相机会自动升级";
+"firm_mistake" = "错误";
+"firm_sure" = "确认";
+"firm_prompt" = "提示";
+"firm_newFirmToUpdate" = "有新的固件版本，是否升级";
+"firm_nextTime" = "下次再说";
+"firm_updateNow" = "立即更新";
+"firm_downloadNow" = "立即下载";
+"firm_tryAgain" = "再试一次";
+"firm_help_message" = "检测到上次固件升级意外失败，重新升级前，请参考以下注意事项：\n\n1. 固件升级前请保证电量大于50%\n2.上传固件时请耐心等待固件上传完成\n3. 不要主动关闭相机和相机Wi-Fi 4. 固件更新期间，请不要挪动相机\n\n如果不是上述原因导致的，建议你尝试通过连接PC/Mac进行手动升级。\n指引链接：http://www.xiaoyi.com/update/sports";
+"firm_uploadAgain" = "重新上传";
+"firm_goHelp" = "查看帮助";
+"firm_recommendDownload_message" = "当前相机固件版本较低，为了您的正常使用，建议更新到最新版本。";
+"firm_forceUpdate_message" = "已准备好新的固件升级包，立即更新只需要几分钟。";
+"firm_tip_message" = "上次固件升级意外中断，建议您查看帮助以完成升级。";
+"firm_recommendUpdate_message" = "已准备好新的固件升级包，立即更新只需要几分钟。";
+"firm_downloading" = "正在下载中";
+"firm_finishDownloading" = "请连接相机";
+"firm_putFileFail" = "上传固件失败";
+"firm_putFileFailToDo" = "请稍后重试";
+"firm_updateFirmwareFail" = "升级固件失败";
+"firm_wrongMD5" = "MD5验证错误,请重新下载";
+"firm_finishDownloadShort" = "下载完成";
+"firm_no_infomation" = "当前的固件版本较低，为了你的正常使用，\n请打开移动数据或Wi-Fi后下载最新版本。";
+"firm_network_refresh" = "刷新";
+"firm_version_title" = "版本号：%@";
+"firm_pause_download" = "暂停下载";
+"setting_timeout" = "设置超时";
+"unbind_bluetooth_failed" = "解除绑定失败！";
+"unbind_bluetooth_succeeded" = "解除绑定成功！";
+"unbind_bluetooth_unbinded" = "没有配对记录！";
+
+"new_noSound" = "当前视频分辨率不支持录制声音";
+"new_joinNow" = "立刻参加";
+"new_jump" = "跳过 >>";
+"new_wechat" = "微信好友";
+"new_moments" = "朋友圈";
+"new_collection" = "微信收藏";
+"new_weibo" = "新浪微博";
+"new_qq" = "QQ";
+"new_qzone" = "QQ空间";
+"new_more" = "更多";
+"new_sharePhoto" = "照片分享";
+"new_shareVideo" = "视频分享";
+
+
+
+"lead_image_click_camera"         = "点这里连接相机";
+"lead_image_file_manger"          = "图库";
+"lead_image_button_capture"       = "拍照按钮";
+"lead_image_button_record"        = "摄像按钮";
+"lead_image_capture_model_change" = "拍照模式切换";
+"lead_image_capture_model"        = "普通、定时、延时、运动轨迹";
+"lead_image_record_model_change"  = "录像模式切换";
+"lead_image_record_model"         = "普通、延时、摄像+拍照";
+"lead_image_button_zhuapai"       = "抓拍按钮";
+"lead_image_lead_message"         = "摄像过程中可以抓拍";
+"lead_image_mode_message"         = "所有模式都在这里切换啦";
+
+"3 minutes"         = "3分钟";
+"5 minutes"         = "5分钟";
+"10 minutes"        = "10分钟";
+
+"Thank_you_for_your_corporation" = "谢谢合作";
+
+"timelapse_duration_title" = "视频长度";
+"timelapse_interval_title" = "间隔时间";
+"timelapse_speed_massage"  = "%d倍速";
+"timelapse_shootingtime_off" = "不自动停止";
+"timelapse_shootingtime_label" = "实际拍摄";
+"timelapse_shootingtime_day" = "%ld天";
+"timelapse_shootingtime_hour" = "%ld小时";
+"timelapse_shootingtime_minute" = "%ld分";
+"timelapse_shootingtime_second" = "%ld秒";
+
+//自动取帧
+"auto_sample_title"       = "精彩瞬间";
+"auto_sampling_uploading" = "上传中...";
+"auto_sampling_checkInternet" = "请检查你的网络连接";
+"auto_sampling_not_support" = "2K视频暂不支持%@";
+
+"file_manager_loading_file" = "正在刷新相册";
+
+"sns_login" = "登录";
+"sns_quit_login" = "退出登录";
+"sns_sure_quit" = "确定退出";
+"sns_xiaomi_login" = "小米账号登录";
+
+"open_log_save_alert" = "确定开启相机日志？";
+
+"connect_see_tutorial" = "查看教程";
+
+"float_setting_countdown" = "倒计时";
+"float_setting_frequency" = "频率";

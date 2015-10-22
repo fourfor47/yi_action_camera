@@ -1,0 +1,845 @@
+/*
+ Localizable.strings
+ MoveApp
+ 
+ Created by li.gang on 14-4-24.
+ Copyright (c) 2014年 LG. All rights reserved.
+ */
+
+
+/**
+ *  Square
+ */
+"sns_home_found" = "Найти";
+
+"sns_video_download_file"           = "Вы еще не скачали ни одного видео со своей камеры.";
+"sns_video_mine"                    = "Мои видео";
+"sns_error_get_user_info"           = "Не удалось загрузить данные профиля";
+"sns_loading"                       = "Загрузка...";
+"sns_recommend"                     = "Рекомендовать";
+"sns_network_error"                 = "Сеть недоступна";
+"sns_nothing_in_server"             = "Нет файлов на сервере";
+"sns_hot_photo"                     = "Популярные фото";
+"sns_download_firmware_renew"       = "Скачать";
+"sns_cancel"                        = "Отмена";
+"sns_todo_download_firmware_renew"  = "Скачать обновление прошивки";
+"sns_camera_firmware_renew"         = "xiaoyiGuJian%@.bin";
+"sns_exit_firmware_renew_file"      = "Обновление прошивки уже существует, проверка...";
+"sns_exit_connect_camera"           = "Обновление прошивки уже существует, подсоедините камеру и обновите";
+"sns_success"                       = "Закончено";
+"sns_download_firmware_renew_again" = "Ошибка при обновлении прошивки, попробуйте еще раз";
+"sns_firmware_no_md5"               = "MD5 не найден, загрузите обновление еще раз";
+
+"sns_take_care"              = "Внимение";
+"sns_download_alert_message" = "Вы используете трафик мобильного телефона. При скачивании вы будете использовать трафик телефона.";
+"sns_download_go_on"         = "Продолжить";
+"sns_download_cancel"        = "Отменить";
+
+"sns_no_network"                        = "Нет сети";
+"sns_button_confirm"                    = "Подтвердить";
+"sns_unknow_network_link"               = "Неизвестная ошибка сети";
+"sns_accomplish"                        = "Закончено";
+"sns_can_not_link_server"               = "Сервер занят, попробуйте позже";
+"sns_keep_live_download"                = "Идет скачивание, подождите";
+"sns_failed_download_again"             = "Скачивание не удалось, попробуйте еще раз";
+"sns_check_firmware_renew_file"         = "Проверка данных...";
+"sns_download_again"                    = "Скачать еще раз";
+"sns_download_successed_connect_camera" = "Скачивание закончено, подключите камеру и обновите прошивку";
+"sns_unknow"                            = "Скачанный файл не найден";
+"sns_download_finish_not_save"          = "Не удалось сохранить скачанный файл";
+"sns_setting"                           = "Настройки";
+"sns_have_new_edition"                  = "Новая версия";
+"sns_app_edition"                       = "Версия приложения";
+"sns_firmware_edition"                  = "Прошивка";
+"sns_firmware_download_title"           = "Прошивка";
+"sns_firmware_last_connected_updated"   = "Последняя подключенная камера уже имеет обновление.";
+"sns_firmware_no_update"                = "Прошивка отсутствует";
+"sns_firmware_ready"                    = "Новейшая прошивка уже скачана\nПодключите камеру и обновите";
+"sns_firmware_new"                      = "Доступно обновление";
+"sns_user_use_lead"                     = "Руководство пользователя";
+"sns_setting_feedback"                  = "Служба поддержки";
+"sns_setting_about"                     = "О нас";
+"sns_edition_is_new"                    = "Ваше приложение самой последней версии";
+"sns_failed_network_is_bad"             = "Обновление не удалось";
+"sns_failed_download_pic"               = "Скачивание фото не удалось";
+"sns_normal_questions" = "ЧаВО";
+
+"sns_buy" = "Покупка";
+
+"sns_content_of_share"            = "Поделиться";
+"sns_test"                        = "Проверка";
+"sns_test_message"                = "Это проверочное сообщение";
+"sns_checkUpdates" = "Проверка обновлений";
+"sns_alert_3g_network"            = "Вы подключены через мобильную связь. При скачивании вы будете использовать трафик телефона, продолжить?";
+"sns_watch_finish_download_video" = "Вы смотрите локальное видео";
+"sns_failed_create_video_file"    = "Не удалось создать папку для видео";
+"sns_video_file_exit"             = "Видео уже существует";
+"sns_download_to_background"      = "Фоновое скачивание";
+"sns_download_progress"           = "%@закончено";
+"sns_alert_tapped_again"          = "Вы нажали…";
+"sns_already_download" = "Файл уже существует в списке загрузок";
+"sns_noDownloading" = "Нет скачивания";
+
+"sns_confirm" = "Подтверждение";
+
+"sns_more" = "Еще";
+
+"sns_video_play_alert" = "Загрузка...";
+
+"sns_file_all_video" = "Все видео";
+
+"sns_square_title"          = "Дом";
+"sns_network_can_not_used"   = "Нет сети";
+"sns_link_network_try_again" = "Проверьте сетевое соединение";
+"sns_try_again"              = "Повторная попытка";
+"sns_send_message_failed"    = "Текущая сеть недоступна";
+"sns_classify"               = "Категория";
+"sns_not_login"              = "Аноним";
+"sns_login_button"           = "Чтобы войти, нажмите на фото профиля";
+"sns_content_personal"       = "Моя лента";
+"sns_download_management" = "Управления загрузками";
+/**
+ *  引导页面
+ */
+"sns_header_one" = "Включите камеру";
+"sns_header_two" = "Включите Wi-Fi камеры";
+"sns_header_three" = "Подключите к камере";
+"sns_detail_one" = "Нажмите кнопку питания, чтобы включить камеру";
+"sns_detail_two" = "Нажмите боковую кнопку чтобы включить Wi-Fi камеры";
+"sns_detail_three" = "Соединиться с Wi-Fi камеры XiaoYi";
+"sns_next" = "Далее";
+"sns_set" = "Перейти к системным настройкам";
+"sns_attention" = "Имя по умолчанию YDXJ + последние 7 цифр серийного номера\nПароль по умолчанию: 1234567890";
+"sns_phone_pic" = "ywc_en_iphone";
+"sns_attention_tail" = "\nНеверно?";
+
+"sns_restore_tutor_title" = "Восстановить фабричные настройки";
+"sns_restore_tutor_detail1" = "Нажмите долго %@ пока не услышите гудок.\nСнова соедините камеру после перезагрузки.\n\n\n%@";
+"sns_restore_tutor_key" = "Питание и Wi-Fi";
+"sns_restore_tutor_detail2" = "Посстановить пароль: 1234567890\nВосстановить имя: YDXJ + последние 7 цифр серийного номера\nСерийный номер находится в отделении для батареек";
+/**
+ *  上拉刷新
+ */
+"refresh_FooterPullToRefresh" = "Прокрутите вверх чтобы загрузить еще";
+"refresh_Footer_All_Data_Loaded" = "Все данные загружены";
+"refresh_FooterReleaseToRefresh" = "Отпустите чтобы загрузить еще";
+"refresh_FooterRefreshing" = "Загрузка...";
+"refresh_HeaderPullToRefresh" = "Прокрутите вниз чтобы обновить";
+"refresh_HeaderReleaseToRefresh" = "Отпустите чтобы обновить";
+"refresh_HeaderRefreshing" = "Обновление...";
+
+/**
+ *  保存到相册
+ */
+"save_image_success" = "Сохранено в альбом";
+"save_image_notExist" = "Фото не существовало";
+"save_image_fail" = "Не удалось сохранить фото";
+"save_cannot_get" = "Нет прав доступа";
+"save_saveBtn" = "Сохранить";
+"save_toPhotoAlbum" = "Сохранить в альбом";
+/**
+ *  意见反馈
+ */
+"feedback_contactWay" = "Контакт:";
+"feedback_feedbackContent" = "Обратная связь:";
+"feedback_contactWayDetail" = "qq/е-мэйл/моб.тел.";
+"feedback_feedbackContentDetail" = "Ваше предолжение";
+"feedback_cancel" = "Отмена";
+"feedback_submit" = "Подать";
+"feedback_submitSuccess" = "Подано успешно";
+"feedback_thanks" = "Мы с вниманием рассмотрим ваше предложение, большое спасибо за уделенное время";
+"feedback_confirm" = "Подтверждение";
+"feedback_fail" = "Проблема связи, посылка не удалась";
+"feedback_failForOtherReasons" = "Не удалось, возможно из-за дублировонной подачи";
+
+"ywc_xiaoyi_qrcode" = "ywc_xiaoyi_qrcode_en";
+"ywc_step_one_scan" = "ywc_step_one_scan_en";
+"ywc_step_two_ablum" = "ywc_step_two_ablum_en";
+"ywc_step_three_public" = "ywc_step_three_public_en";
+
+"wechat_iknow_title" = "OK";
+/**
+ *  faq
+ */
+"faq_camera" = "Общее";
+"faq_connection" = "Подключение";
+"faq_takingPhotos" = "Фотографии/видео";
+"faq_battery" = "Батарея";
+"faq_sdCard" = "Карта SD";
+"faq_on_off" = "Включение/выключение";
+"faq_others" = "Прочее";
+"faq_logo_title" = "ЧаВО";
+/**
+ *  快拍
+ */
+"original"    = "Ничего";
+"brightbeau"  = "Brightbeau";
+"curvelevel"  = "Curvelevel";
+"deepquit"    = "Deepquit";
+"retro"       = "Ретро";
+"sepia"       = "Сепиа";
+"_8mmfilm"    = "пленка";
+"documentary" = "Документальное";
+"template"    = "Шаблон";
+"effect"      = "Эффект";
+"effect_edit_format_choose" = "Выбрать формат";
+"effect_edit_format_MP4"    = "Формат MP4";
+"effect_edit_format_GIF"    = "Формат GIF";
+"effect_edit_back_button"   = "Вернуться";
+"effect_edit_share_button"  = "Поделиться";
+"generate_MP4" = "Создание видео";
+"generate_GIF" = "Создание GIF";
+
+"effect_save_file_error"         = "Не удалось получить права доступа к альбому";
+"effect_save_file_error_message" = "Измените настройки в Настройки-Конфиденциальность-Фотографии";
+"effect_save_file_error_cancel"  = "OK";
+
+"effect_shareVieo" = "В данный момент возможность поделиться не поддерживается";
+
+"effect_video_load_again" = "Перезагрузить снимок";
+
+"effect_not_support" = "Не поддерживается в данный момент";
+
+
+/**
+ *  相机设置
+ */
+"tvVideoSetting" = "Настройки видео";
+
+"setting_video"             = "Видео";
+"setting_video_quality"     = "Качество видео";
+"setting_video_time_stamp"  = "Титры времени";
+"setting_video_resolution"  = "Разрешение видео";
+"setting_video_standard"    = "Стандарт видео";
+"setting_meter_mode"        = "Режим замера экспозиции";
+
+"setting_photo"                 = "Фотографии";
+"setting_photo_size"            = "Разрешение";
+"setting_capture_default_mode"  = "Режим съемки по-умолчанию";
+"setting_system_default_mode"   = "Режим старта камеры";
+"setting_photo_stamp"           = "Титры времени";
+
+"setting_camera"                  = "Камера";
+"setting_preview_status"          = "Предварительный просмотр в прямом эфире";
+"setting_auto_low_light"          = "Автоматический рефим низкого освещения";
+"setting_loop_record"             = "Циклическая запись";
+"setting_warp_enable"             = "Коррекция оптических аберраций";
+"setting_start_wifi_while_booted" = "Включать Wi-Fi при запуске";
+"setting_av_output"               = "Выход AV";
+"setting_video_rotate"            = "Перевернуть кадр";
+"emergency_file_backup"           = "Аварийное сохранине резервной копии";
+"setting_buzzer_volume"           = "Громкость камеры";
+"setting_default_record_mode"     = "Режим загрузки видео";
+"setting_wifi"                    = "Настройки Wi-Fi";
+"setting_led_mode"                = "Режим LED";
+"setting_camera_clock"            = "Часы камеры";
+"setting_auto_power_off"          = "Автоматическое выключение";
+
+"setting_device" = "Устройство";
+//"setting_bluetooth"                = "Аксессуары";
+"setting_hw_version"               = "Версия камеры";
+"setting_serial_number"            = "Серийный номер";
+"setting_sw_version"               = "Версия прошивки";
+"setting_sdcard"                   = "Карточка MicroSD";
+"setting_buzzer_ring"              = "Найти камеру";
+"setting_restore_factory_settings" = "Вернуть фабричные настройки";
+"setting_save_log"                 = "журнал камеры";
+"setting_failed"                   = "Настройки не удались";
+"setting_unsupported_resolution"   = "Автоматический режим низкого освещения недоступен при данной разрешении видео.";
+
+"format_SD_error" = "Есть незаконченные загрузки, вы точно хотите отформатировать карточку MicroSD?";
+
+/**
+ *  相机设置参数
+ */
+"videoquality_fine"      = "Среднее";
+"videoquality_superfine" = "Высокое";
+"videoquality_normal"    = "Низкое";
+"auto_low_light"         = "Автоматический режим низкого освещения";
+"loop_record"            = "Циклическая запись";
+"wrap_enable"            = "Коррекция оптической аберрации";
+"set_on"                 = "Включить";
+"set_off"                = "Выключить";
+"date"                   = "Дата";
+"date_and_time"          = "Дата/время";
+"time"                   = "Время";
+"buzzer_volume_high"     = "Высокая";
+"buzzer_volume_low"      = "Низкая";
+"buzzer_volume_mute"     = "Тишина";
+"second"                 = "с";
+"pic_second"             = "фото/с";
+"pic_two_second"         = "фото/2с";
+"single_pic"             = "Одна";
+"nomal_pic"              = "Фотография";
+"cont_pic"               = "Серийная съемка";
+"time_lapes_photo"       = "Таймлапс";
+"time_lapse_pic"         = "Режим таймлапс";
+"keep_cont_pic"          = "Серийная съемка";
+"meter_spot"             = "Точечный экспозамер";
+"meter_center"           = "Центральный экспозамер";
+"meter_average"          = "Усредненный экспозамер";
+"meter_manual"           = "Ручная экспозиция";
+"led_all_enable"         = "Все включить";
+"led_all_disable"        = "Все выключить";
+"led_status_enable"      = "Только статусные LED";
+"sd_hc"                  = "Обычная скорость (SDHC)";
+"sd_xc"                  = "Высокая скорость (SDXC)";
+"none"                   = "Неизвестный тип";
+"sd_error"               = "Нет карты";
+"record"                 = "Видео";
+"capture"                = "Фото";
+
+"sdcard_size"           = "%@ свободно / %@ всего";
+"sdcard_size_available" = "Свободно";
+"sdcard_size_total"     = "Всего";
+
+"camera_setting_alertlabel"   = "Настройки...";
+"camera_setting_alertmessage" = "Перезагрузите камеру после трех гудков";
+
+
+
+/**
+ *  相机连接过度界面
+ */
+"camera_connect_head_label"  = "Cоединение";
+"camera_connect_alert_label" = "Подождите...";
+"camera_connect_back_button" = "Назад";
+
+"camera_connect_failed_search"        = "Подключение не удалось";
+"camera_connect_failed_label_message" = "Пытайтесь подсоединиться пока лампочка Wi-Fi не начнет мигать синим светом";
+"camera_connect_failed_again"         = "Повторить";
+"camera_connect_failed_by_other"      = "Уже соединилась с другим телефоном";
+"camera_connect_failed"      = "Подключение не удалось";
+"camera_connect_failed_back_square"   = "Назад домой";
+
+
+"camera_connect_button" = "Cоединение с камерой";
+
+
+/**
+ *  Wifi界面
+ */
+"wifi_name_label"                  = "Имя:";
+"wifi_name_placeholder"            = "Введите имя Wi-Fi сети";
+"wifi_password_lalbel"             = "Пароль:";
+"wifi_password_placeholder"        = "Введите пароль Wi-Fi";
+"wifi_password_show_label"         = "Показать пароль";
+"wifi_alert_nothing_change"        = "Ничего не изменилось ";//iOS专有
+"wifi_alert_enter_right_name"      = "Имя Wi-Fi должно включать 1-32 символов";
+//"wifi_alert_name_count_failed"     = "Неправильный символ в имени Wi-Fi";
+"wifi_alert_enter_right_password"  = "Пароль должен состоять из 8-64 символов";
+//"wifi_alert_password_count_failed" = "Неправильный символ в пароле Wi-Fi";
+"wifi_alert_restart_wifi"          = "Нужно перезагрузить Wi-Fi после изменения параметров, продолжить?";
+"wifi_camera_state_message"        = "Возможно, камера в режиме видео, не могу установить в данный момент";
+"wifi_content_alter_success"       = "Параметры Wi-Fi успешно изменены, подключите камеру снова.";
+
+/**
+ *  ShareSDK分享
+ */
+"share_iWantToShare" = "Я нашел очень интересный контент на Площади XiaoYi";
+"share_myShare" = "Снято моей камерой XiaoYi actiYon";
+"share_opening" = "Открытие апликации";
+"share_success" = "Поделились успешно";//国际化
+"share_fail" = "Не удалось поделиться ";//国际化
+"share_fail_code" = "Неправильный код";//国际化Y
+"share_fail_desc" = "Описание ошибки";//国际化
+"share_local_video" = "Локальный обмен видео не поддерживается";
+
+/**
+ *  固件升级
+ */
+"camera_firmware_upgrade"            = "Обновление прошивки";
+"please_select_wifi"                 = "Выберите Wi-Fi";
+"wifi_password_hint"                 = "Введите пароль Wi-Fi";
+"no_new_version"                     = "Нет более новых версий";
+"no_new_firmware_version"            = "Нет более новых версий";
+"firmware_download_failed"           = "Не удалось скачать обновления!";
+"firmware_upgrade_switch_wifi"       = "Переключение Wi-Fi...";
+"firmware_upgrade_download_firmware" = "Скачивание прошивки...";
+"firmware_upgrade_tip"               = "Загрузка камеры на сервер, не выключайте Wi-Fi камеры";
+"sure_to_cancel_firmware_upgrade"    = "Подтвердить отмену обновления камеры?";
+"should_connect_to_outside_wifi"     = "Для обновления камеры требуется связь с интернетом, подтвердить отсоединение камеры?";
+"video_ratio"                        = "4:3";
+"video_format"                       = "MP4";
+"new_video"                          = "Новое видео";
+"video_filter"                       = "Фильтр";
+"video_musicbg"                      = "Музыка";
+"firmware_no_sdcard"                 = "Вставьте карту SD";
+
+
+
+
+/**
+ *  相机模式
+ */
+"tvRecordMode"     = "Видео";
+"tvQuickShotMode"  = "Быстрая съемка";
+"tvPhotographMode" = "Фото";
+
+
+/**
+ *  相机、手机状态显示
+ */
+"caera_battery_level" = "Батарея камеры ";
+"phone_battery_level" = "Батарея в фото режиме";
+
+
+/**
+ *  相机的主要活跃状态
+ */
+"camera_activity_mode_record"     = "Видео";
+"camera_activity_mode_quick_shot" = "Быстрая съемка";
+"camera_activity_mode_photograph" = "Фото";
+
+
+
+"alert_user_label"          = "Двойное нажатие чтобы вернуться в режим предварительного просмотра";
+"photo_edit_download_label" = "Скачать";
+"photo_edit_delete_label"   = "Удалить";
+"photo_edit_edit_label"     = "Редактировать";
+"photo_button_cancel"       = "Отменить";
+"photo_choose_count"        = "1 выбрано";
+
+
+/**
+ *  相机拍照模式
+ */
+"tv_normal"    = "Одиночное";
+"tv_timelapes" = "Таймлапс";
+"tv_timer"     = "Таймер";
+"tv_burst"     = "Серийная";
+
+"tv_record_normal"     = "Обычное";
+"tv_record_time_lapse"     = "Таймлапс";
+"tv_record_photo"     = "Видео+фото";
+
+/**
+ * 文件管理
+ */
+"tvPhoto"    = "Фото";
+"tvVideo"    = "Видео";
+"tvDownLoad" = "Загрузки";
+
+"camer_file_loading_not_delete" = "Идет скачивание, сначала приостановите";
+
+
+"camer_file_downloading" = "Загрузки";
+"camer_file_downloaded"  = "Скачано";
+"camer_file_downloading_exit_or_not"  = "Скачивание было приостановлено, выйти？";
+
+
+"camera_file_no_photo"            = "Нет фотографий";
+"camera_file_no_video"            = "Нет видео";
+"camera_file_get_file"            = "Загрузка...";
+"camera_file_SDCard_remove"       = "Карта SD извлечена";
+"camera_file_not_support_effect"  = "Редактирование недоступно";
+"camera_file_selected"            = "%d выбрано";
+"camera_file_can_select"          = "Выбрать файл";
+"camera_file_have_download_photo" = "Часть фото уже скачаны";
+"camera_file_select_is_download"  = "Часть фото в процессе скачивания";
+"camera_file_video_is_download"   = "Видео файлы загружаются";
+"camera_file_video_delete_loading"= "Файлы были в процессе скачивания, удалить?";
+//"camera_file_not_delete"          = "Отмена";
+//"camera_file_sure_delete"         = "Удалить";
+"camera_file_not_delete"          = "Отмена";
+"camera_file_sure_delete"         = "Удалить";
+
+"camera_http_wwan_alert_message"  = "Если предварительный просмотр и скачивание не работают, отключите мобильную сеть и попробуйте снова.";
+
+"camera_download_file_cancel_button" = "Отмена";
+
+"camera_file_video_formate" = "Видео формат";
+"camera_file_video_cancel"  = "Назад";
+"camera_file_video_high"    = "Высокое разрешение";
+"camera_file_video_middle"  = "Низкое разрешение";
+
+"camera_file_download_add"  = "Добавить в список скачивания";
+"camera_file_download_exit" = "Сохранение";
+"camera_file_download"      = "Сохранено";
+"file_deleted_loading"      = "Список скачивания ";
+"camera_file_download_error"= "Недостаточно места на телефоне";
+"camera_file_system_space"  = "%@ свободно, %@ всего";
+
+"camera_file_video_not_suport_play" = "Проигрывание этого файла не поддерживается";
+"camera_file_save_video_failed" = "Сохранение видео в альбом не поддерживается на %@. Вы можете найти его в Моя лента.";
+
+
+
+/**
+ *  相机界面
+ */
+"camera_main_caching"                     = "Кэширование";
+"camera_main_piv_complete"                = "Снимок успешен";
+"camera_main_piv_failed"                  = "Снимок не удался";//?
+"camera_main_prompt"                      = "Внимание";
+"camera_main_sure_disconnect_from_camera" = "Отключиться от камеры?";
+"camera_main_disconnect_yes"              = "Да";
+"camera_main_disconnect_no"               = "Нет";
+"camera_main_not_exit_SD_card"            = "Нет SD карты";
+
+"camera_main_set_model_defeat"            = "Не удалось установить режим";
+
+
+/**
+ *  相机工作状态
+ */
+"camera_take_photo_timelapse" = "Таймлапс";//?
+"camera_take_photo_burst"     = "Серийная съемка";
+"camera_take_photo_normal"    = "Фотографирование";
+"camera_take_photo_timing"    = "Таймирование";
+
+"camera_camera" = "Камера";
+
+
+
+/**
+ *  相机错误返回信息
+ */
+"camera_error_unknow"             = "Неизвестная ошибка";
+"camera_error_session"            = "Ошибка сессии";
+"camera_error_token"              = "Ошибка маркера";
+"camera_error_no_more_space"      = "Не осталось места на карте SD";
+"camera_error_no_more_save_space" = "Не осталось места на телефоне";
+"camera_error_system_busy"        = "Система занята";
+"camera_error_no_sd_card"         = "Нет SD карты";
+
+"camera_error_save_error"       = "Ошибка сохранения";
+"camera_error_sd_hc"            = "Маленькая скорость SD карты";
+"camera_error_index_limit"      = "Достигнут лимит индексов";
+"camera_error_file_limit"       = "Достигнут лимит файлов";
+"camera_error_sd_card_remove"   = "SD карта извлечена";
+"camera_error_sd_card_inserd"   = "SD карта вставлена";
+"camera_error_piv_error"        = "Съемка в текущем разрешении не поддерживается";
+"camera_error_sd_card_not_exit" = "Нет SD карты";
+
+"camera_error_sd_card_not_support" = "SD карты меньше 4G не поддерживаются";
+
+
+
+
+
+
+
+/**
+ *  父类VC提示
+ */
+
+"camera_enter_usb_storage" = "Режим накопителя USB";
+
+//title
+"Back" = "Назад";
+"Home" = "Домой";
+"OK" = "OK";
+"Nothing" = "Нет файлов";
+"Notice" = "Внимание";
+"Cancel" = "Отмена";
+"Save" = "Сохранение";
+"Edit" = "Редактирование";
+"Square" = "Площадь";
+"Camera" = "Камера";
+"TakePhoto" = "Фото";
+"Cameras" = "Камеры";
+"All_Select" = "весь";
+"No_Select" = "обратный";
+"Me" = "Я";
+"FileManage" = "Управление файлами";
+"LocalFile" = "Локальный файл";
+"EquipManage" = "Управление Equip";
+"SDCard" = "SD карта";
+"Setting" = "Настройки";
+"Manager" = "Управление";
+
+
+
+// Operation
+"TryAgain" = "Повторить";
+"DeleteConfirm" = "Подтвердите удаление этого файла？";
+"FormatSDCard" = "Форматирование SD карты";
+"Format SDCard or not" = "Подтвердите форматирование SD карты?";
+"TotalCapacity" = "Общая емкость";
+"AvailableCapacity" = "Доступная емкость";
+"SDCardCapacity" = "SD карта";
+"Camert Time" = "Время камеры";
+"Same Time" = "Установить дату и время";
+
+
+
+"video_quality" = "Качество видео";
+"video_stamp" = "Штамп в видео";
+"video_resolution" = "Разрешение видео";
+"video_standard" = "Формат видео";
+"meter_mode" = "Режим экспозамера";
+"photo_size" = "Разрешение фото";
+"capture_default_mode" = "Режим съемки по умолчанию";
+"photo_stamp" = "Штамп на фото";
+"capture_mode" = "Режим съемки";
+"buzzer_volume" = "Громкость зуммера";
+"precise_cont_time" = "Отсрочка фото-съемки с использованием таймера";
+"burst_capture_number" = "Количество кадров в серии";
+"restore_factory_settings" = "Восстановить фабричные настройки";
+"led_mode" = "Режим LED";
+"usb_storage_enable" = "Включить накопитель USB";
+
+"serial_number" = "Серийный номер";
+"Preview Switch" = "Переключить предварительный просмотр";
+"CameraSetting" = "Настройки камеры";
+
+"Single" = "Одиночная";
+"Continu" = "Серийная";
+"Delay" = "Обратный отсчет";
+
+"FailedToStart" = "1. Включите Wi-Fi камеры;\n\n2. Убедитесь, что телефон подключился к Wi-Fi камеры;\n\n3. Убедитесь, что больше никто не подсоединен к Вашей камере;\n\n4. Перезагрузите камеру если не удалось подключиться в течение 30 секунд.\n\n";
+
+"NetFail" = "Не удалось подключиться к Wi-Fi камеры, проверьте статус Wi-Fi на камере.";
+"Photo" = "Фото";
+"Vidoe" = "Видео";
+"Download" = "Загрузки";
+"SettingSuccess" = "Успешное изменение настроек";
+"SettingFailed" = "Не удалось изменить настройки";
+"operation_failed" = "Действие не удалось";
+
+//tips
+
+"Camera Recording" = "Съемка видео";
+"Taking Photo" = "Фотосъемка";
+
+"PleaseCloseTheCamera" = "Остановите съемку видео";
+"PleaseStopPhoto" = "Остановите фотосъемку";
+"Preview is Closed" = "Предварительный просмотр выключен";
+"Precise Quality Conting" = "Фотосъемка по таймеру...";
+"Burst Quality photoing" = "Серийная фотосъемка...";
+"Timelapse Record" = "Съемка таймлапс...";
+
+"Does not support Preview" = "Текущее разрешение не поддерживает предварительный просмотр.";
+"Resolution not support Capture" = "Текущее разрешение не поддерживает съемку.";
+"not_support_automatic_low_light" = "Текущее разрешение не поддерживает автоматический режим низкого освещения.";
+
+
+"file_saving" = "Сохранение файла";
+
+
+
+"TFCardIsFull" = "SD карта заполнена";
+"stdDefVideo" = "Нет предварительного просмотра";
+
+"This resolution video no preview and side stream" = "В данной резолюции нет побочного видео и предварительного просмотра.";
+
+"no preview" = "Нет предварительного просмотра";
+
+
+"This resolution has no side stream video" = "В данной резолюции нет побочного видео";
+
+
+
+//UI title
+"Connect Success" = "Подключение успешно";
+"Connect failed" = "Подключение не удалось";
+"Connectting" = "Подключение";
+
+
+"VidoeMode" = "Режим видео";
+"PhotoMode" = "Режим фото";
+
+
+
+
+"Photo Success" = "Фотосъемка успешна";
+"Photo Failed" = "Фотосъемка не удалась";
+"No File" = "Файл не существует.";
+"Delete" = "Удалить";
+"Deleteing" = "Удаление";
+
+"System Busy" = "Система занята";
+"Clear Cache" = "Опустошить кэш";
+
+"Saving" = "Сохранение";
+"Finished" = "Готово";
+
+"Find Camera" = "Поиск камеры";
+"Camera connection failed, please check your WiFi connection is normal" = "Не удалось подключиться к камере, проверьте настройки Wi-Fi.";
+"No Select File" = "Файлы не выбраны";
+"Delete Success" = "Удаление успешно";
+"Delete Failed" = "Удаление не удалось";
+"Restore Factory Or Not ?" = "Подтвердить восстановление фабричных настроек?";
+"Unbind bluetooth controller Or Not ?" = "Подтвердить удаление всех спаренных устройств bluetooth?";
+"Time synchronous camera" = "Подтвердить синхронизацию времени камеры?";
+"btc_delete_all_binded_dev" = "Удалить все спаренные устройства bluetooth";
+"Fetch log from camera" = "Скачать войти с камеры или нет?";
+"Upload_camera_log" = "ОК Загрузить камера журнал?";
+
+"Wifi Message" = "Настройки Wi-Fi";
+"Confirm ?" = "Подтвердить настройку?";
+"Restart Camera ?" = "Подтвердить перезагрузку камеры?";
+"SDCardType" = "Тип SD карты";
+"SDCardSpeed" = "Тестирование SD карты";
+"SD Card remove" = "SD карта извлечена";
+"SD Card insert" = "SD карта вставлена";
+"video_output_dev_type" = "Режим видео-выхода";
+"Please Click To Get" = "Нажмите, чтобы получить";
+"Speeding" = "Проверка скорости";
+"Version information" = "Версия";
+"Hardware Version" = "Версия прошивки";
+"Software Version" = "Версия программы";
+
+"warp_enable" = "Включить коррекцию оптических искажений";
+"start_wifi_while_booted" = "Включать Wi-Fi при загрузке системы.";
+"auto_power_off" = "Автоматическое выключение";
+
+// alert tips
+"video_record_complete" = "Конец записи";
+"start_video_record" = "Начало записи";
+"No SDCard" = "Нет SD карты";
+"Photo Start" = "Начать фотосъемку";
+//请求返回提示
+"SDCard-16K" = "SD-карта ошибке форматирования, переформатирован?";
+
+"Failed" = "Не удалось";
+"Success" = "Успех";
+"Loading" = "Загрузка";
+"Get Wifi Failed" = "Не удалось получить параметры Wi-Fi";
+
+"Command Failed" = "Сбой команды.";
+
+//相机参数转化值
+"on" = "Включ.";
+"off" = "Выключ.";
+"S.Fine" = "Высокое";
+"Fine" = "Среднее";
+"Normal" = "Низкое";
+"date/time" = "Дата/Время";
+"high" = "Большая";
+"low" = "Маленькая";
+"mute" = "Тишина";
+"center" = "Центрально-взвешенный экспозамер";
+"average" = "Усредненный экспозамер";
+"spot" = "Точечный экспозамер";
+"precise quality" = "Одиночная";
+"precise quality cont." = "Таймлапс";
+"precise self quality" = "Таймер";
+"burst quality" = "Серийная";
+"status_error" = "Ошибка при запросе статуса SD карты";
+"slot_error" = "Системная ошибка";
+"all enable" = "Разрешить все LED";
+"all disable" = "Запретить все LED";
+"status enable" = "Разрешить статусные LED";
+
+"firm_upload_percentage" = "%.0f%% загружено";
+"firm_diary" = "Сообщение об обновлении";
+"firm_startUpdate" = "Загрузить прошивку на камеру";
+"firm_updating" = "Загрузка прошивки,\nдержите камеру близко к телефону";
+"firm_connecting" = "Готов к загрузке, идет соединение";
+"firm_start_fw_update" = "Начало обновления";
+"firm_not_supported" = "Устройство не поддерживается";
+"firm_quit" = "Идет обновление, ждите";
+"firm_error_unknownError" = "Ошибка IO при переименовании файла";
+"firm_error_invalidParam" = "Неверные параметры";
+"firm_error_invalidPath" = "Неверный путь";
+"firm_error_cardNotExist" = "Нет SD карты.";
+"firm_error_title" = "Произошла ошибка во время обновления прошивки";
+"firm_success_title" = "Успех";
+"firm_success_message" = "Во время обновления камера будет издавать сигналы.\nПо окончанию обновления \nкамера выключится автоматически.";
+"firm_alreadyNewest" = "Нет необходимости в обновлении.";
+"firm_lowBattery" = "Низкий уровень заряда батареи, подключите электричество перед началом обновления.";
+
+"firm_unsupported" = "Обновление прошивки камеры";
+"firm_finishDownload" = "v%@ скачано";
+"firm_warning" = "Предупреждение";
+"firm_wwan" = "Wi-Fi не подключен, скачивание прошивки будет использовать ваш лимит данных. Продолжить?";
+"firm_notDownload" = "Отмена";
+"firm_continueDownload" = "Скачать";
+"firm_wifiWillDownload" = "Прошивка будет скачана автоматически при подсоединении интернета Wi-Fi.";
+"firm_willUpdateIn5s" = "Камера будет обновлена через 5 секунд.";
+"firm_mistake" = "Ошибка";
+"firm_sure" = "OK";
+"firm_prompt" = "Сообщение";
+"firm_newFirmToUpdate" = "Есть новая прошивка, хотите обновить?";
+"firm_nextTime" = "Позже";
+"firm_updateNow" = "Обновить сейчас";
+"firm_downloadNow" = "Скачать";
+"firm_tryAgain" = "Повторить";
+"firm_uploadAgain" = "Повторить";
+"firm_goHelp" = "See Help";
+"firm_help_message" = "Вижу, что последняя попытка обновления не удалась. Прочитайте следующее перед новой попыткой:\n\n1. Убедитесь, что камера заряжена по крайней мере на 50%\n2. Не выключайте камеру или Wi-Fi камеры\n3. Держите камеру близко к телефону\n4. Терпеливо ждите окончания процесса обновления, камера выключится самостоятельно\n\nМы также предлагаем вариант ручного обновления через PC/Mac\nСсылка на инструкции: http://www.xiaoyi.com/update/sports";
+"firm_recommendDownload_message" = "Мы рекомендуем обновить Вашу камеру до последней версии.";
+"firm_forceUpdate_message" = "Файл обновления камеры приготовлен, процесс занимает лишь несколько минут.";
+"firm_tip_message" = "Прошлая попытка обновить не удалась, обратитесь к справке для дополнительной информации.";
+"firm_recommendUpdate_message" = "Файл обновления камеры приготовлен, процесс занимает лишь несколько минут.";
+"firm_downloading" = "Идет скачивание...";
+"firm_finishDownloading" = "Подключите камеру";
+"firm_putFileFail" = "Закачивание прошивки не удалось";
+"firm_putFileFailToDo" = "Попытайтесь еще раз";
+"firm_updateFirmwareFail" = "Обновление прошивки не удалось";
+"firm_wrongMD5" = "Контрольная сумма не совпадает, скачайте еще раз.";
+"firm_finishDownloadShort" = "Скачивание закончено";
+"firm_no_infomation" = "Пожалуйста, подключиться к Интернету с помощью Wi-Fi или сотовой сети.";
+"firm_network_refresh" = "Обновление";
+"firm_version_title" = "Версия: %@";
+"firm_pause_download" = "Пауза";
+"setting_timeout" = "Настройка тайм-аут (время вышло)";
+"unbind_bluetooth_failed" = "Удаления спаривания не удалось!";
+"unbind_bluetooth_succeeded" = "Удаления спаривания удалось!";
+"unbind_bluetooth_unbinded" = "Нет спаренных устройств.";
+
+/**
+ *  ywc 我自己翻的
+ */
+"new_noSound" = "Нет аудио в текущем разрешении.";
+"new_joinNow" = "Присоединиться";
+"new_jump" = "Прыгнуть >>";
+"new_wechat" = "Сессия WeChat";
+"new_moments" = "Моменты WeChat";
+"new_collection" = "Избранные WeChat";
+"new_weibo" = "Sina Weibo";
+"new_qq" = "QQ";
+"new_qzone" = "QZone";
+"new_more" = "Еще";
+"new_sharePhoto" = "Поделиться фото";
+"new_shareVideo" = "Поделиться видео";
+
+"lead_image_click_camera"         = "Подсоединить камеру";
+"lead_image_file_manger"          = "Галерея";
+"lead_image_button_capture"       = "Кнопка спуска";
+"lead_image_button_record"        = "Начало съемки";
+"lead_image_capture_model_change" = "Переключение режимов";
+"lead_image_capture_model"        = "Одиночная,Обратный отсчет,Таймлапс&Серийная";
+"lead_image_record_model_change"  = "Переключение режимов";
+"lead_image_record_model"         = "Одиночная,Таймлапс,Видео+фото";
+"lead_image_button_zhuapai"       = "Кнопка спуска";
+"lead_image_lead_message"         = "Сфотографировать во время видеосъемки";
+"lead_image_mode_message"         = "Все переключения режимов здесь";
+
+"3 minutes"         = "3 минуты";
+"5 minutes"         = "5 минуты";
+"10 minutes"        = "10 минуты";
+
+"Thank_you_for_your_corporation" = "Спасибо за сотрудничество";
+
+"timelapse_duration_title" = "Видео- длина";
+"timelapse_interval_title" = "Временной Интервал";
+"timelapse_speed_massage"  = "%dX";
+"timelapse_shootingtime_off" = "OFF";
+"timelapse_shootingtime_label" = "Время съемки: ";
+"timelapse_shootingtime_day" = "%ldD";
+"timelapse_shootingtime_hour" = "%ldH";
+"timelapse_shootingtime_minute" = "%ldM";
+"timelapse_shootingtime_second" = "%ldS";
+
+//自动取帧
+"auto_sample_title"       = "Мелирование";
+"auto_sampling_uploading" = "Загрузка";
+"auto_sampling_checkInternet" = "Пожалуйста, Проверьте  подключение к сети ";
+"auto_sampling_not_support" = "2K видео не поддерживают %@";
+
+"file_manager_loading_file" = "Загрузка альбомов";
+
+"sns_login" = "Логин";
+"sns_quit_login" = "выход";
+"sns_sure_quit" = "определения выход";
+"sns_xiaomi_login" = "войти в аккаунт";
+
+"open_log_save_alert" = "Вы уверены, что повернуть на журнал камеры?";
+
+"connect_see_tutorial" = "См Учебник";
+
+"float_setting_countdown" = "Обратный отсчет";
+"float_setting_frequency" = "Частота";
