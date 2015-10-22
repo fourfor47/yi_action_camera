@@ -1,0 +1,866 @@
+/*
+ Localizable.strings
+ MoveApp
+ 
+ Created by li.gang on 14-4-24.
+ Copyright (c) 2014年 LG. All rights reserved.
+ */
+
+
+/**
+ *  Square
+ */
+"sns_home_found" = "Discover";
+
+"sns_video_download_file"           = "카메라로부터 아직 어떠한 비디오 파일도 다운로드 하지 않았습니다.";
+"sns_video_mine"                    = "내 비디오";
+"sns_error_get_user_info"           = "프로필 데이터를 가져오는데 실패하였습니다.";
+"sns_loading"                       = "로드 중...";
+"sns_recommend"                     = "추천";
+//"sns_second_square_failed_get" = "제2스퀘어 A요청에 대해 %@오류발생.";
+"sns_network_error"                 = "유효한 네트워크가 없습니다.";
+"sns_nothing_in_server"             = "서버에 파일이 존재하지 않습니다.";
+//"" = "아직 연결되지 않았거나 서버가 혼잡합니다.";
+"sns_hot_photo"                     = "핫 포토";
+"sns_download_firmware_renew"       = "다운로드";
+"sns_cancel"                        = "취소";
+"sns_todo_download_firmware_renew"  = "펌웨어 업그레이드 팩 다운로드";
+"sns_camera_firmware_renew"         = "xiaoyiGuJian%@.bin";
+"sns_exit_firmware_renew_file"      = "펌웨어 업그레이드 팩이 존재합니다. 승인 중";
+"sns_exit_connect_camera"           = "펌웨어 업그레이드 팩이 존재합니다. 카메라와 연결하고 업데이트 하겠습니다.";
+"sns_success"                       = "완료";
+"sns_download_firmware_renew_again" = "업그레이드 팩에 오류가 발생하였습니다. 다시 시도해주세요.";
+"sns_firmware_no_md5"               = "MD5를 찾지 못하였습니다. 업그레이드 팩을 다시 다운로드 해주세요.";
+
+"sns_take_care"              = "알림";
+"sns_download_alert_message" = "지금 셀롤러 데이터에 연결 중 입니다. 데이터 패키지를 사용하여 다운로드 합니다.";
+"sns_download_go_on"         = "계속";
+"sns_download_cancel"        = "취소";
+
+"sns_no_network"                        = "네트워크가 존재하지 않습니다.";
+"sns_button_confirm"                    = "확인";
+"sns_unknow_network_link"               = "알수없는 네트워크 오류";
+//"" = "Confirm";
+"sns_accomplish"                        = "완료";
+"sns_can_not_link_server"               = "서버가 혼잡합니다. 잠시 후 다시 시도해주세요.";
+"sns_keep_live_download"                = "다운로드 중 입니다. 잠시만 기다려주세요.";
+"sns_failed_download_again"             = "다운로드에 실패하였습니다. 다시 시도해주세요.";
+"sns_check_firmware_renew_file"         = "데이터를 승인 중 입니다.";
+"sns_download_again"                    = "다시 다운로드 중";
+"sns_download_successed_connect_camera" = "다운로드 완료, 카메라와 연결하고 펌웨어를 업그레이드 해주세요.";
+//"sns_download_file_destory_again" = "설치된 팩키지가 손상되었습니다. 다시 다운로드 해주세요.";
+"sns_unknow"                            = "다운로드 파일을 찾을 수 없습니다.";
+"sns_download_finish_not_save"          = "다운로드한 파일을 저장할 수 없습니다. ";
+"sns_setting"                           = "설정";
+"sns_have_new_edition"                  = "새로운 버전";
+"sns_app_edition"                       = "APP 버전";
+"sns_firmware_edition"                  = "펌웨어";
+"sns_firmware_download_title"           = "펌웨어";
+"sns_firmware_last_connected_updated"   = "이미 최신 펌웨어로 업데이트 되었습니다. ";
+"sns_firmware_no_update"                = "업데이트할 펌웨어가 없습니다.";
+"sns_firmware_ready"                    = "최신 펍웨어가 이미 다운로드 되었습니다. 카메라를 연결하고 업데이트 해주세요.";
+"sns_firmware_new"                      = "새로운 업데이트를 이용할 수 있습니다.";
+"sns_user_use_lead"                     = "사용 메뉴얼";
+"sns_setting_feedback"                  = "고객 서비스";
+"sns_setting_about"                     = "회사 소개";
+"sns_edition_is_new"                    = "최신 앱입니다.";
+"sns_failed_network_is_bad"             = "업그레이드에 실패하였습니다.";
+"sns_failed_download_pic"               = "사진 다운로드에 실패하였습니다.";
+"sns_normal_questions" = "FAQ";
+
+"sns_buy" = "구매";
+
+"sns_content_of_share"            = "공유";
+"sns_test"                        = "테스트";
+"sns_test_message"                = "이것은 테스트 메세지 입니다.";
+"sns_checkUpdates" = "업데이트 확인";
+//"sns_no_network" = "유효한 네트워크가 없습니다.";
+//"" = "Attention";
+"sns_alert_3g_network"            = "지금 셀롤러 데이터에 연결 중입니다. 데이터 패키지를 사용하여 비디오를 재생 합니다. 계속 하시겠습니까?";
+//"" = "계속";
+//"" = "취소";
+//"" = "확인";
+//"" = "알수없는 네트워크 오류";
+//"" = "확인";
+"sns_watch_finish_download_video" = "로컬 비디오를 시청 중입니다.";
+"sns_failed_create_video_file"    = "비디오 폴더를 만드는데 실패하였습니다.";
+"sns_video_file_exit"             = "비디오가 존재합니다.";
+"sns_download_to_background"      = "백그라운드 다운로드 중...";
+"sns_download_progress"           = "%@ 완료";
+"sns_alert_tapped_again"          = "당신이 클릭한~~";
+"sns_already_download" = "다운로드 리스트에 파일이 존재합니다.";
+"sns_noDownloading" = "다운로드 중인 파일이 없습니다.";
+
+//"sns_no_network" = "네트워크가 존재하지 않습니다.";
+"sns_confirm" = "확인";
+//"" = "알수없는 네트워크 에러";
+//"" = "확인";
+
+"sns_more" = "더 많은 자료";
+//"" = "더 많은 자료";
+
+"sns_video_play_alert" = "로드 중...";
+
+//"" = "아직 연결되지 않았거나 서버가 혼잡합니다.";
+//"" = "다운로드 파일을 찾을 수 없습니다.";
+"sns_file_all_video" = "All video";
+
+"sns_square_title"          = "홈";
+"sns_network_can_not_used"   = "네트워크가 존재하지 않습니다.";
+"sns_link_network_try_again" = "네트워크 연결을 확인해주세요.";
+"sns_try_again"              = "재시도";
+"sns_send_message_failed"    = "현재 네트워크는 유효하지 않습니다.";
+"sns_classify"               = "범주";
+"sns_not_login"              = "익명";
+"sns_login_button"           = "프로필 사진을 클릭하여 로그인";
+//"" = "로그인 되지 않았습니다.";
+//"" = "프로필 사진을 클릭하여 로그인";
+"sns_content_personal"       = "내 카메라 롤";
+"sns_download_management" = "다운로드 매니저";
+/**
+ *  引导页面
+ */
+"sns_header_one" = "카메라를 돌려주세요.";
+"sns_header_two" = "카메라 WiFi를 사용할 수 있습니다.";
+"sns_header_three" = "카메라에 연결합니다.";
+"sns_detail_one" = "전원 버튼을 눌러 카메라를 켜주세요.";
+"sns_detail_two" = "사이드 버튼을 눌러서 카메라 WiFi를 사용해주세요.";
+"sns_detail_three" = "XiaoYi 카메라 WiFi에 연결합니다.";
+"sns_next" = "다음";
+"sns_set" = "시스템 설정으로 가기";
+"sns_attention" = "기본 이름은 YDXJ + 시리얼넘버의 마지막 7자리 숫자(시리얼넘버는 배터리 삽입구에서 확인 할 수 있습니다.) 기본 비밀번호는 1234567890";
+"sns_phone_pic" = "ywc_en_iphone";
+"sns_attention_tail" = "\n잘못되었습니까?";
+
+"sns_restore_tutor_title" = "공장 초기화 설정";
+"sns_restore_tutor_detail1" = "%@ 삐~ 소리가 날 때까지 길게 눌러주세요. \n재시작 후 카메라를 다시 연결하세요.\n\n\n%@";
+"sns_restore_tutor_key" = "전원과 WiFi";
+"sns_restore_tutor_detail2" = "초기 비밀번호 : 1234567890\n초기 이름 : YDXJ + 시리얼넘버 마지막 7자리 숫자\n시리얼넘버는 배터리 삽입구에서 확인 할 수 있습니다.";
+/**
+ *  上拉刷新
+ */
+"refresh_FooterPullToRefresh" = "위로 올려서 더 많은 것을 로드";
+"refresh_Footer_All_Data_Loaded" = "모든 데이터를 로드 하였습니다.";
+"refresh_FooterReleaseToRefresh" = "놓아서 더 많은 것을 로드";
+"refresh_FooterRefreshing" = "로드 중...";
+"refresh_HeaderPullToRefresh" = "아래로 내리면 새로고침";
+"refresh_HeaderReleaseToRefresh" = "놓으면 새로고침";
+"refresh_HeaderRefreshing" = "새로고침 중...";
+
+/**
+ *  保存到相册
+ */
+"save_image_success" = "앨범에 저장되었습니다.";
+"save_image_notExist" = "사진이 존재하지 않습니다.";
+"save_image_fail" = "사진 저장에 실패하였습니다.";
+"save_cannot_get" = "권한이 없습니다.";
+"save_saveBtn" = "저장";
+"save_toPhotoAlbum" = "앨범으로 저장";
+/**
+ *  意见反馈
+ */
+"feedback_contactWay" = "연결:";
+"feedback_feedbackContent" = "피드백:";
+"feedback_contactWayDetail" = "QQ/이메일/스마트폰";
+"feedback_feedbackContentDetail" = "당신의 조언";
+"feedback_cancel" = "취소";
+"feedback_submit" = "제출";
+"feedback_submitSuccess" = "제출 성공";
+"feedback_thanks" = "당신의 조언을 잘 전달 하였습니다. 당신의 조언에 깊은 감사를 드립니다.";
+"feedback_confirm" = "확인";
+"feedback_fail" = "연결 문제, 제출 실패";
+"feedback_failForOtherReasons" = "실패 하였습니다.중복 제출로 인한 문제일 수 있습니다.";
+
+"ywc_xiaoyi_qrcode" = "ywc_xiaoyi_qrcode_en";
+"ywc_step_one_scan" = "ywc_step_one_scan_en";
+"ywc_step_two_ablum" = "ywc_step_two_ablum_en";
+"ywc_step_three_public" = "ywc_step_three_public_en";
+
+"wechat_iknow_title" = "OK";
+/**
+ *  faq
+ */
+"faq_camera" = "공동";
+"faq_connection" = "연결";
+"faq_takingPhotos" = "사진/비디오";
+"faq_battery" = "배터리";
+"faq_sdCard" = "SD카드";
+"faq_on_off" = "On/Off";
+"faq_others" = "기타";
+"faq_logo_title" = "FAQ";
+/**
+ *  快拍
+ */
+"original"    = "없음";
+"brightbeau"  = "뷰티";
+"curvelevel"  = "커브 레벨";
+"deepquit"    = "명암비";
+"retro"       = "레트로";
+"sepia"       = "세피아";
+"_8mmfilm"    = "필름";
+"documentary" = "다큐멘터리";
+"template"    = "템플릿";
+"effect"      = "효과";
+"effect_edit_format_choose" = "포멧 선택";
+"effect_edit_format_MP4"    = "MP4 포멧";
+"effect_edit_format_GIF"    = "GIF 포멧";
+"effect_edit_back_button"   = "돌아가기";
+"effect_edit_share_button"  = "공유";
+"generate_MP4" = "비디오 제네레이션";
+"generate_GIF" = "GIF 제네레이션";
+
+"effect_save_file_error"         = "앨범 권한 검색에 실패하였습니다.";
+"effect_save_file_error_message" = "설정 - 개인정보 - 사진 에서 설정을 변경하세요.";
+"effect_save_file_error_cancel"  = "OK";
+
+"effect_shareVieo" = "공유는 현재 지원되지 않습니다.";
+
+"effect_video_load_again" = "스냅샷 새로고침";
+
+"effect_not_support" = "지원되지 않습니다.";
+
+
+/**
+ *  相机设置
+ */
+"tvVideoSetting" = "비디오 설정";
+
+"setting_video"             = "비디오";
+"setting_video_quality"     = "비디오 퀄리티";
+"setting_video_time_stamp"  = "비디오 타임스탬프";
+"setting_video_resolution"  = "비디오 해상도";
+"setting_video_standard"    = "비디오 표준";
+"setting_meter_mode"        = "측광 모드";
+
+"setting_photo"                 = "사진";
+"setting_photo_size"            = "사진 해상도";
+"setting_capture_default_mode"  = "기본 사진 모드";
+"setting_system_default_mode"   = "기본 시작 모드";
+"setting_photo_stamp"           = "사진 타임스탬프";
+
+"setting_camera"                  = "카메라";
+"setting_preview_status"          = "실시간 미리보기";
+"setting_auto_low_light"          = "auto_low_light";
+"setting_loop_record"             = "메모리 오버시 선순위삭제";
+"setting_warp_enable"             = "렌즈 왜곡 보정";
+"setting_start_wifi_while_booted" = "WiFi 시작";
+"setting_av_output"               = "AV 출력";
+"setting_video_rotate"            = "이미지 반전";
+"emergency_file_backup"           = "긴급 백업";
+"setting_buzzer_volume"           = "카메라 볼륨";
+"setting_default_record_mode"     = "기본 녹화 모드";
+"setting_wifi"                    = "WiFi 설정";
+"setting_led_mode"                = "LEd 모드";
+"setting_camera_clock"            = "카메라 시계";
+"setting_auto_power_off"          = "자동 전원Off";
+
+"setting_device" = "Device";
+//"setting_bluetooth"                = "악세사리";
+"setting_hw_version"               = "카메라 버전";
+"setting_serial_number"            = "시리얼 넘버";
+"setting_sw_version"               = "펌웨어 버전";
+"setting_sdcard"                   = "Micro SD 카드";
+"setting_buzzer_ring"              = "카메라 찾기";
+"setting_restore_factory_settings" = "공장 초기화 설정";
+"setting_save_log"                 = "카메라 로그";
+"setting_failed"                   = "설정 실패";
+"setting_unsupported_resolution"   = "오토 로우 라이트는 현재 해상도에서 사용할 수 없습니다.";
+
+"format_SD_error" = "다운로드가 완료되었습니다. Micro SD 카드를 다시 포맷하시겠습니까?";
+
+/**
+ *  相机设置参数
+ */
+"videoquality_fine"      = "미디엄";
+"videoquality_superfine" = "하이";
+"videoquality_normal"    = "로우";
+"auto_low_light"         = "오토 로우 라이트";
+"loop_record"            = "메모리 오버시 선순위삭제";
+"wrap_enable"            = "렌즈 왜곡 보정";
+"set_on"                 = "열기";
+"set_off"                = "닫기";
+"date"                   = "날짜";
+"date_and_time"          = "날짜/시간";
+"time"                   = "시간";
+"buzzer_volume_high"     = "하이";
+"buzzer_volume_low"      = "로우";
+"buzzer_volume_mute"     = "음소거";
+"second"                 = "s";
+"pic_second"             = "p/s";
+"pic_two_second"         = "p/2s";
+"single_pic"             = "사진";
+"nomal_pic"              = "사진";
+"cont_pic"               = "연속촬영 모드";
+"time_lapes_photo"       = "타임 랩스";
+"time_lapse_pic"         = "타임 랩스 모드";
+"keep_cont_pic"          = "연속촬영 샷";
+"meter_spot"             = "스팟 측광";
+"meter_center"           = "센터 측광";
+"meter_average"          = "평균 측광";
+"meter_manual"           = "메뉴얼 측광";
+"led_all_enable"         = "모두 사용";
+"led_all_disable"        = "모두 해제";
+"led_status_enable"      = "상태 LED만 사용";
+"sd_hc"                  = "보통 속도 카드";
+"sd_xc"                  = "빠른 속도 카드";
+"none"                   = "알수없는 유형";
+"sd_error"               = "카드 없음";
+"record"                 = "비디오";
+"capture"                = "사진";
+
+"sdcard_size"           = "%@ 유효 / %@ 토탈";
+"sdcard_size_available" = "유효";
+"sdcard_size_total"     = "토탈";
+
+"camera_setting_alertlabel"   = "설정 중...";
+"camera_setting_alertmessage" = "삐~ 소리가 3번 울리면 카메라를 재시작 해주세요.";
+
+
+
+/**
+ *  相机连接过度界面
+ */
+"camera_connect_head_label"  = "연결";
+"camera_connect_alert_label" = "기다려 주세요.";
+"camera_connect_back_button" = "뒤로";
+
+"camera_connect_failed_search"        = "연결 실패";
+"camera_connect_failed_label_message" = "WiFi 빛이 파란색으로 깜박이면 다시 연결해주세요.";
+"camera_connect_failed_again"         = "다시 연결";
+"camera_connect_failed_by_other"      = "이미 다른 스마트폰과 연결 되었습니다.";
+"camera_connect_failed"      = "연결 실패";
+"camera_connect_failed_back_square"   = "홈으로 돌아가기";
+
+
+"camera_connect_button" = "카메라에 연결";
+
+
+/**
+ *  Wifi界面
+ */
+"wifi_name_label"                  = "이름:";
+"wifi_name_placeholder"            = "WiFi 이름 입력";
+"wifi_password_lalbel"             = "비밀번호:";
+"wifi_password_placeholder"        = "WiFi 비밀번호 입력";
+"wifi_password_show_label"         = "비밀번호 보기";
+"wifi_alert_nothing_change"        = "변경할 수 없습니다. ";
+"wifi_alert_enter_right_name"      = "WiFi 이름은 1~32글자만 지원합니다.";
+//"wifi_alert_name_count_failed"     = "WiFi 이름의 글자수가 잘못 되었습니다.";
+"wifi_alert_enter_right_password"  = "비밀번호는 8~64글자만 지원합니다.";
+//"wifi_alert_password_count_failed" = "비밀번호 글자수가 잘못 되었습니다.";
+"wifi_alert_restart_wifi"          = "WiFi 정보 수정 후, 자동으로 WiFi가 재시작 됩니다. 계속 하시겠습니까?";
+"wifi_camera_state_message"        = "카메라가 비디오 상태에 있으면 설정할 수 없습니다.";
+"wifi_content_alter_success"       = "WiFi 정보 수정에 성공하였습니다. 카메라를 다시 연결 해주세요.";
+
+/**
+ *  ShareSDK分享
+ */
+"share_iWantToShare" = "XiaoYi 스퀘어에서 매우 흥미로운 콘텐츠를 찾았습니다.";
+"share_myShare" = "내가 공유한 XiaoYi 액션캠";
+"share_opening" = "App를 여는 중";
+"share_success" = "공유 성공";
+"share_fail" = "공유 실패";
+"share_fail_code" = "잘못된 코드";
+"share_fail_desc" = "설명 오류";
+"share_local_video" = "로컬 비디오 공유는 지원되지 않습니다.";
+
+/**
+ *  固件升级
+ */
+"camera_firmware_upgrade"            = "펌웨어 업데이트";
+"please_select_wifi"                 = " WiFi 선택";
+"wifi_password_hint"                 = "WiFi 비밀번호를 입력해주세요.";
+"no_new_version"                     = "이미 최신버전 입니다.";
+"no_new_firmware_version"            = "이미 최신버전 입니다.";
+"firmware_download_failed"           = "업그레이드파일 다운로드에 실패하였습니다.";
+"firmware_upgrade_switch_wifi"       = "WiFi 전환 중 ...";
+"firmware_upgrade_download_firmware" = "펌웨어 다운로드 중...";
+"firmware_upgrade_tip"               = "카메라 업로드 중입니다. 카메라 Wi-Fi를 끄지 마세요.";
+"sure_to_cancel_firmware_upgrade"    = "카메라 업그레이드를 취소 하시겠습니까?";
+"should_connect_to_outside_wifi"     = "카메라 업그레이드는 인터넷 연결을 필요로 합니다.카메라와의 연결을 끊으시겠습니까?";
+"video_ratio"                        = "4:3";
+"video_format"                       = "MP4";
+"new_video"                          = "새로운 스냅샷 비디오";
+"video_filter"                       = "필터";
+"video_musicbg"                      = "음악";
+"firmware_no_sdcard"                 = "SD카드를 삽입해주세요.";
+
+
+
+
+/**
+ *  相机模式
+ */
+"tvRecordMode"     = "비디오";
+"tvQuickShotMode"  = "스냅샷";
+"tvPhotographMode" = "사진";
+
+
+/**
+ *  相机、手机状态显示
+ */
+"caera_battery_level" = "카메라 배터리";
+"phone_battery_level" = "스마트폰 배터리";
+
+
+/**
+ *  相机的主要活跃状态
+ */
+"camera_activity_mode_record"     = "비디오";
+"camera_activity_mode_quick_shot" = "스냅샷";
+"camera_activity_mode_photograph" = "사진";
+
+
+
+"alert_user_label"          = "더블클릭하여 카메라 미리보기";
+"photo_edit_download_label" = "다운로드";
+"photo_edit_delete_label"   = "삭제";
+"photo_edit_edit_label"     = "편집";
+"photo_button_cancel"       = "취소";
+"photo_choose_count"        = "선택";
+
+
+/**
+ *  相机拍照模式
+ */
+"tv_normal"    = "사진";
+"tv_timelapes" = "타입랩스";
+"tv_timer"     = "타이머";
+"tv_burst"     = "연속촬영";
+
+"tv_record_normal"     = "비디오";
+"tv_record_time_lapse"     = "타임랩스";
+"tv_record_photo"     = "+사진";
+
+/**
+ * 文件管理
+ */
+"tvPhoto"    = "사진";
+"tvVideo"    = "비디오";
+"tvDownLoad" = "다운로드";
+
+"camer_file_loading_not_delete" = "다운로드 중, 먼저 정지해주세요.";
+
+
+"camer_file_downloading" = "다운로드 중";
+"camer_file_downloaded"  = "다운로드";
+
+"camer_file_downloading_exit_or_not"  = "다운로드 하면 정지됩니다. 취소하시겠습니까?";
+
+
+"camera_file_no_photo"            = "사진이 없습니다.";
+"camera_file_no_video"            = "비디오가 없습니다.";
+"camera_file_get_file"            = "로딩 중...";
+"camera_file_SDCard_remove"       = "SD카드를 제거하였습니다.";
+"camera_file_not_support_effect"  = "편집할 수 없습니다.";
+"camera_file_selected"            = "%d 선택";
+"camera_file_can_select"          = "파일 선택";
+"camera_file_have_download_photo" = "사진이 이미 다운로드 되었습니다.";
+"camera_file_select_is_download"  = "사진을 다운로드 중입니다";
+"camera_file_video_is_download"   = "비디오 파일이 다운로드되고있다";
+"camera_file_video_delete_loading"= "선택파일이 현재 다운로드 중입니다, 기존파일을 삭제 하시겠습니까?";
+//"camera_file_not_delete"          = "취소";
+//"camera_file_sure_delete"         = "삭제";
+"camera_file_not_delete"          = "취소";
+"camera_file_sure_delete"         = "삭제";
+
+"camera_http_wwan_alert_message"  = "만약 미리보기와 다운로드가 되지 않는다면, 셀롤러 네트워크를 끄고 다시 시도해주세요.";
+
+"camera_download_file_cancel_button" = "취소";
+
+"camera_file_video_formate" = "비디오 포멧";
+"camera_file_video_cancel"  = "뒤로";
+"camera_file_video_high"    = "높은 해상도";
+"camera_file_video_middle"  = "낮은 해상도";
+
+"camera_file_download_add"  = "다운로드 추가";
+"camera_file_download_exit" = "저장 중";
+"camera_file_download"      = "저장";
+"file_deleted_loading"      = "다운로드";
+"camera_file_download_error"= "스마트폰에 충분한 공간이 없습니다.";
+"camera_file_system_space"  = "%@ 프리, %@ 토탈";
+
+"camera_file_video_not_suport_play" = "이 파일은 재생기능을 지원하지 않습니다.";
+"camera_file_save_video_failed" = "%@에서는 이 비디오를 앨범에 저장하는 것을 지원하지 않습니다. 내카메라롤에서 해당 비디오 파일을 확인할 수 있습니다.";
+
+
+
+/**
+ *  相机界面
+ */
+"camera_main_caching"                     = "캡쳐";
+"camera_main_piv_complete"                = "캡쳐 성공";
+"camera_main_piv_failed"                  = "캡쳐 실패";
+"camera_main_prompt"                      = "공지";
+"camera_main_sure_disconnect_from_camera" = "정말로 카메라와 연결을 끊으시겠습니까?";
+"camera_main_disconnect_yes"              = "네";
+"camera_main_disconnect_no"               = "아니오";
+"camera_main_not_exit_SD_card"            = "SD카드가 없습니다.";
+
+"camera_main_set_model_defeat"            = "모드 설정 실패";
+
+
+/**
+ *  相机工作状态
+ */
+"camera_take_photo_timelapse" = "타입랩스 중";//?
+"camera_take_photo_burst"     = "연속촬영 중";
+"camera_take_photo_normal"    = "일반 사진 촬영 중";
+"camera_take_photo_timing"    = "타이머 중";
+
+"camera_camera" = "카메라";
+
+
+
+/**
+ *  相机错误返回信息
+ */
+"camera_error_unknow"             = "알수없는 에러";
+"camera_error_session"            = "세션 에러";
+"camera_error_token"              = "토큰 에러";
+"camera_error_no_more_space"      = "SD카드에 남은 공간이 없습니다.";
+"camera_error_no_more_save_space" = "스마트폰에 남은 공간이 없습니다.";
+"camera_error_system_busy"        = "시스템 과부하";
+"camera_error_no_sd_card"         = "SD카드가 없습니다.";
+
+"camera_error_save_error"       = "저장 에러";
+"camera_error_sd_hc"            = "SD카드 속도가 낮습니다.";
+"camera_error_index_limit"      = "인덱스 제한";
+"camera_error_file_limit"       = "파일 제한";
+"camera_error_sd_card_remove"   = "SD카드를 제거하였습니다.";
+"camera_error_sd_card_inserd"   = "SD카드를 삽입하였습니다. ";
+"camera_error_piv_error"        = "현재 해상도에서는 캡쳐를 지원하지 않습니다.";
+"camera_error_sd_card_not_exit" = "SD카드가 없습니다.";
+
+"camera_error_sd_card_not_support" = "4G보다 작은 SD카드는 지원하지 않습니다.";
+
+
+
+
+
+
+
+/**
+ *  父类VC提示
+ */
+
+"camera_enter_usb_storage" = "USB 저장 모드";
+//title
+"Back" = "뒤로";
+"Home" = "홈";
+"OK" = "OK";
+"Nothing" = "파일이 없습니다.";
+"Notice" = "공지";
+"Cancel" = "취소";
+"Save" = "저장";
+"Edit" = "편집";
+"Square" = "스퀘어";
+"Camera" = "카메라";
+"TakePhoto" = "사진";
+"Cameras" = "카메라";
+"All_Select" = "전부 선택";
+"No_Select" = "선택반전";
+"Me" = "나의";
+"FileManage" = "파일 매니저";
+"LocalFile" = "로컬 파일";
+"EquipManage" = "장치 매니저";
+"SDCard" = "SD카드";
+"Setting" = "설정";
+"Manager" = "매니저";
+
+// Operation
+"TryAgain" = "다시 시도하세요.";
+"DeleteConfirm" = "정말로 이 파일을 삭제하시겠습니까?";
+"FormatSDCard" = "SD카드 포멧";
+"Format SDCard or not" = "정말로 SD카드를 포맷하시겠습니까?";
+"TotalCapacity" = "총 용량";
+"AvailableCapacity" = "사용 가능한 용량";
+"SDCardCapacity" = "SD카드";
+"Camert Time" = "카메라 시간";
+"Same Time" = "날짜와 시간 설정";
+
+"video_quality" = "비디오 퀄리티";
+"video_stamp" = "비디오 스탬프";
+"video_resolution" = "비디오 해상도";
+"video_standard" = "비디오 포멧";
+"meter_mode" = "측광 모드";
+"photo_size" = "사진 해상도";
+"capture_default_mode" = "기본 캡쳐 모드";
+"photo_stamp" = "사진 스탬프";
+"capture_mode" = "캡쳐 모드";
+"buzzer_volume" = "버저 볼륨";
+"precise_cont_time" = "타이머 촬영 시간 연장.";
+"burst_capture_number" = "연속촬영 샷의 숫자";
+"restore_factory_settings" = "공장 초기화 설정";
+"led_mode" = "LED 모드";
+"usb_storage_enable" = "USB 저장 사용";
+
+"serial_number" = "시리얼 넘버";
+"Preview Switch" = "미리보기 스위치";
+"CameraSetting" = "카메라 설정";
+
+"Single" = "기본";
+"Continu" = "연속촬영";
+"Delay" = "카운트다운";
+
+"FailedToStart" = "1. 카메라 WiFi를 사용해주세요;\n\n2. 스마트폰과 카메라의 연결을 확인해주세요;\n\n3.다른 장비가 카메라와 연결 되어있지 않은지 확인 해주세요;\n\n4. 30초 이내에 연결되지 않으면 카메라를 다시시작 해주세요.\n\n";
+
+"NetFail" = "카메라 WiFi 연결에 실패하면, 카메라의 상태를 확인해주세요.";
+"Photo" = "사진";
+"Vidoe" = "비디오";
+"Download" = "다운로드";
+"SettingSuccess" = "설정 변경에 성공하였습니다.";
+"SettingFailed" = "설정 변경에 실패 하였습니다.";
+"operation_failed" = "작업이 실패 하였습니다.";
+
+//tips
+
+"Camera Recording" = "비디오 녹화 중";
+"Taking Photo" = "사진 촬영 중";
+
+"PleaseCloseTheCamera" = "비디오 녹화를 정지 해주세요.";
+"PleaseStopPhoto" = "사진 촬영을 정지 해주세요.";
+"Preview is Closed" = "비디오 미리보기 사용안함";
+"Precise Quality Conting" = "타임랩스 사진 촬영 중...";
+"Burst Quality photoing" = "연속촬영 중...";
+"Timelapse Record" = "타임랩스 비디오 녹화 중...";
+
+"Does not support Preview" = "현재 해상도에서는 미리보기를 지원하지 않습니다.";
+"Resolution not support Capture" = "현재 해상도에서는 스냅샷을 지원하지 않습니다.";
+"not_support_automatic_low_light" = "현재 해상도에서는 오토 로우 라이트를 지원하지 않습니다.";
+
+
+"file_saving" = "파일 저장 중";
+
+
+
+"TFCardIsFull" = "SD카드에 남은 용량이 없습니다";
+"stdDefVideo" = "비디오 미리보기가 없습니다.";
+
+"This resolution video no preview and side stream" = "현재 해상도에서는 사이드 스트림이나 비디오 미리보기가 없습니다.";
+
+"no preview" = "미리보기 없음";
+
+
+"This resolution has no side stream video" = "현재 해상도에서는 사이드 스트림 비디오가 없습니다.";
+
+
+
+//UI title
+"Connect Success" = "연결 성공";
+"Connect failed" = "연결 실패";
+"Connectting" = "연결 중";
+
+
+"VidoeMode" = "비디오 모드";
+"PhotoMode" = "사진 모드";
+
+"Photo Success" = "사진 촬영 성공";
+"Photo Failed" = "사진 촬영 실패";
+"No File" = "파일이 존재하지 않습니다.";
+"Delete" = "삭제";
+"Deleteing" = "삭제 중";
+
+"System Busy" = "시스템 과부하";
+"Clear Cache" = "캐시 지우기";
+
+"Saving" = "저장중";
+"Finished" = "완료";
+
+"Find Camera" = "카메라 검색 중";
+"Camera connection failed, please check your WiFi connection is normal" = "카메라 연결에 실패하였습니다. WiFi 설정을 확인 해주세요.";
+"No Select File" = "선택된 파일이 없습니다.";
+"Delete Success" = "삭제 성공";
+"Delete Failed" = "삭제 실패";
+"Restore Factory Or Not ?" = "정말로 공장 초기화 설정을 하시겠습니까?";
+"Unbind bluetooth controller Or Not ?" = "정말로 모든 블루투스 장비와 연결을 해제 하시겠습니까?";
+"Time synchronous camera" = "정말로 카메라 설정 시간을 동기화 하시겠습니까?";
+"btc_delete_all_binded_dev" = "블루투스 장비와 연결 해제";
+"Fetch log from camera" = "카메라의 여부를 로그 다운로드?";
+"Upload_camera_log" = "확인을 업로드 카메라 로그?";
+
+"Wifi Message" = "WiFi 설정";
+"Confirm ?" = "설정을 확인 하시겠습니까?";
+"Restart Camera ?" = "정말로 카메라를 재시작 하시겠습니까?";
+"SDCardType" = "SD카드 유형";
+"SDCardSpeed" = "SD카드 테스트";
+"SD Card remove" = "SD카드 제거";
+"SD Card insert" = "SD카드 삽입";
+"video_output_dev_type" = "비디오 출력 모드";
+"Please Click To Get" = "클릭하고 가져오기";
+"Speeding" = "속도 테스트";
+"Version information" = "버전";
+"Hardware Version" = "펌웨어 버전";
+"Software Version" = "소프트웨어 버전";
+
+"warp_enable" = "렌즈 왜곡 보정 사용";
+"start_wifi_while_booted" = "시스템 부팅 후에 WiFi를 시작합니다.";
+"auto_power_off" = "자동 전원 Off";
+
+// alert tips
+"video_record_complete" = "녹화 종료";
+"start_video_record" = "녹화 시작";
+"No SDCard" = "SD카드가 존재하지 않습니다.";
+"Photo Start" = "사진 촬영 시작";
+//请求返回提示
+"SDCard-16K" = "SD카드 포멧 에러, 다시 포멧하시겠습니까?";
+
+"Failed" = "실패";
+"Success" = "성공";
+"Loading" = "로딩중";
+"Get Wifi Failed" = "WiFi 정보를 가져올 수 없습니다.";
+
+"Command Failed" = "명령 복귀 실패.";
+
+
+
+
+
+//相机参数转化值
+"on" = "ON";
+"off" = "OFF";
+"S.Fine" = "높음";
+"Fine" = "중간";
+"Normal" = "낮음";
+"date/time" = "날짜/시간";
+"high" = "높음";
+"low" = "낮음";
+"mute" = "음소거";
+"center" = "중앙 중점 측광";
+"average" = "평균 측광";
+"spot" = "스팟 측광";
+"precise quality" = "기본";
+"precise quality cont." = "시간경과";
+"precise self quality" = "타이머";
+"burst quality" = "연속촬영";
+"status_error" = "SD카드에 에러가 발생했습니다.";
+"slot_error" = "시스템 에러";
+"all enable" = "LED 전부 사용";
+"all disable" = "LED 전부 사용 안함";
+"status enable" = "LED 최소 사용";
+
+"firm_upload_percentage" = "%.0f%% 업로드";
+"firm_diary" = "업그레이드 공지";
+"firm_startUpdate" = "카메라 펌웨어 업로드";
+"firm_updating" = "펌웨어 업로드, \n스마트폰을 카메라 가까이 놓으세요.";
+"firm_connecting" = "업로드 준비가 완료 되었습니다. 연결 중입니다.";
+"firm_start_fw_update" = "업그레이드를 시작 합니다.";
+"firm_not_supported" = "하드웨어가 지원되지 않습니다.";
+"firm_quit" = "업데이트 중입니다. 잠시만 기다려 주세요.";
+"firm_error_unknownError" = "이름 변경 시 발생하는 문제.";
+"firm_error_invalidParam" = "잘못된 매개변수";
+"firm_error_invalidPath" = "잘못된 경로";
+"firm_error_cardNotExist" = "SD카드가 존재하지 않습니다.";
+"firm_error_title" = "펌웨어 업그레이드 중 오류가 발생했습니다.";
+"firm_success_title" = "성공";
+"firm_success_message" = "업데이트 하는 동안 카메라에서 삐~ 소리가 납니다. \n업데이트가 완료 되면, \n 카메라가 자동으로 종료됩니다.";
+"firm_alreadyNewest" = "업그레이드 할 필요가 없습니다.";
+"firm_lowBattery" = "카메라 배터리가 부족합니다. 업그레이드 전에 전원을 연결해주세요.";
+
+"firm_unsupported" = "카메라 펌웨어 업그레이드";
+"firm_finishDownload" = "v%@ 다운로드";
+"firm_warning" = "경고";
+"firm_wwan" = "WiFi 네트워크가 아직 연결되지 않았습니다. 다운로드된 펌웨어로 데이터 트래픽을 생성합니다. 계속 하시겠습니까?";
+"firm_notDownload" = "취소";
+"firm_continueDownload" = "다운로드";
+"firm_wifiWillDownload" = "WiFi에 연결되면 펌웨어가 자동으로 다운로드 됩니다.";
+"firm_willUpdateIn5s" = "5초 안에 카메라가 자동으로 업그레이드 됩니다.";
+"firm_mistake" = "에러";
+"firm_sure" = "OK";
+"firm_prompt" = "공지";
+"firm_newFirmToUpdate" = "새로운 펌웨어가 출시되었습니다. 업그레이드 하시겠습니까?";
+"firm_nextTime" = "다음 기회에";
+"firm_updateNow" = "지금 업데이트";
+"firm_downloadNow" = "다운로드";
+"firm_tryAgain" = "재시도";
+"firm_uploadAgain" = "재시도";
+"firm_help_message" = "마지막 업데이트가 실패한 것으로 감지되었습니다. 다음의 내용을 참조하여 다시 시도해주세요:\n\n1.카메라 배터리가 50% 이상 충전되어있는지 확인하세요\n2. 카메라 또는 카메라 WiFi를 종료하지 마세요\n3. 스마트폰을 카메라 가까이에 놓아두세요\n4. 업그레이드가 완료되기 전까지 카메라를 움직이지 마세요\n\n 이 방법으로 업그레이드가 이루어지지 않는다면, 수동으로 업그레이드 할 것을 제안합니다. PC나 Mac에서 확인 할 수 있습니다\n 안내링크 : http://www.xiaoyi.com/update/sports";
+"firm_goHelp" = "도움말 보기";
+"firm_recommendDownload_message" = "카메라를 최신 버전으로 업그레이드 할 것을 추천합니다.";
+"firm_forceUpdate_message" = "카메라 업데이트 파일이 준비되었습니다. 이 과정은 몇 분 정도 소요됩니다.";
+"firm_tip_message" = "최신 업데이트에 실패하였습니다. 도움말을 보시면 더 많은 정보를 확인 할 수 있습니다.";
+"firm_recommendUpdate_message" = "카메라 업데이트 파일이 준비 되었습니다. 이 과정은 몇 분 정도 소요됩니다.";
+"firm_downloading" = "다운로드 중...";
+"firm_finishDownloading" = "카메라를 연결해주세요.";
+"firm_putFileFail" = "펌웨어 업로드 실패";
+"firm_putFileFailToDo" = "다시 시도해주세요.";
+"firm_updateFirmwareFail" = "펌웨어 업그레이드 실패";
+"firm_wrongMD5" = "검사합계 조회 에러, 다시 다운로드 해주세요.";
+"firm_finishDownloadShort" = "다운로드 완료";
+"firm_no_infomation" = "정상적인 사용을 위해 최신 버전으로 업그레이드 할 것을 추천 합니다. \n셀롤러 데이터 또는 WiFi에 연결하면, 최신 버전을 엑세스 할 수 있습니다.";
+"firm_network_refresh" = "새로고침";
+"firm_version_title" = "버전: %@";
+"firm_pause_download" = "정지";
+"setting_timeout" = "시간제한 설정";
+"unbind_bluetooth_failed" = "연결 해제 실패";
+"unbind_bluetooth_succeeded" = "연결 해제 성공";
+"unbind_bluetooth_unbinded" = "연결된 장치가 존재하지 않습니다.";
+
+/**
+ *  ywc 我自己翻的
+ */
+"new_noSound" = "현재 해상도에는 오디오가 없습니다.";
+"new_joinNow" = "회원가입";
+"new_jump" = "건너뛰기 >>";
+"new_wechat" = "WeChat 세션";
+"new_moments" = "WeChat 타임라인";
+"new_collection" = "WeChat 즐겨찾기";
+"new_weibo" = "Sina Weibo";
+"new_qq" = "QQ";
+"new_qzone" = "Q존";
+"new_more" = "더 많은 자료";
+"new_sharePhoto" = "사진 공유";
+"new_shareVideo" = "비디오 공유";
+
+
+
+
+
+
+"lead_image_click_camera"         = "카메라 연결";
+"lead_image_file_manger"          = "갤러리";
+"lead_image_button_capture"       = "촬영 버튼";
+"lead_image_button_record"        = "녹화 시작";
+"lead_image_capture_model_change" = "사진 모드 전환";
+"lead_image_capture_model"        = "기본,카운트 다운,타임랩스&연속촬영";
+"lead_image_record_model_change"  = "비디오 모드 전환";
+"lead_image_record_model"         = "기본,타임랩스,비디오+사진";
+"lead_image_button_zhuapai"       = "스냅샷";
+"lead_image_lead_message"         = "녹화 중 사진 캡쳐";
+"lead_image_mode_message"         = "여기에서 모든 모드를 변경 할 수 있습니다.";
+
+"3 minutes"         = "3분";
+"5 minutes"         = "5분";
+"10 minutes"        = "10분";
+
+"Thank_you_for_your_corporation" = "협력해주셔서 감사합니다.";
+
+"timelapse_duration_title" = "비디오 길이";
+"timelapse_interval_title" = "시간 간격";
+"timelapse_speed_massage"  = "%dX";
+"timelapse_shootingtime_off" = "OFF";
+"timelapse_shootingtime_label" = "촬영 시간: ";
+"timelapse_shootingtime_day" = "%ldD";
+"timelapse_shootingtime_hour" = "%ldH";
+"timelapse_shootingtime_minute" = "%ldM";
+"timelapse_shootingtime_second" = "%ldS";
+
+//自动取帧
+"auto_sample_title"       = "순간";
+"auto_sampling_uploading" = "업로드 중...";
+"auto_sampling_checkInternet" = "네트워크 연결을 확인하시기 바랍니다";
+"auto_sampling_not_support" = "2K 동영상은 지원하지 않습니다 %@";
+
+"file_manager_loading_file" = "로드 앨범";
+
+"sns_login" = "로그인";
+"sns_quit_login" = "로그 아웃";
+"sns_sure_quit" = "로그 아웃해야합니다";
+"sns_xiaomi_login" = "Xiaomi 계정에 로그인";
+
+"open_log_save_alert" = "카메라는 로그를 확인 하시겠습니까?";
+
+"connect_see_tutorial" = "자습서를 참조하십시오";
+
+"float_setting_countdown" = "카운트 다운";
+"float_setting_frequency" = "주파수";

@@ -1,0 +1,978 @@
+/*
+ Localizable.strings
+ MoveApp
+ 
+ Created by li.gang on 14-4-24.
+ Copyright (c) 2014ๅนด LG. All rights reserved.
+ */
+
+
+/**
+ *  Square
+ */
+"sns_home_found" = "ค้นหา";
+"sns_video_download_file"           = "คุณยังไม่ได้โหลดวีดีโอออกจากกล้อง.";
+"sns_video_mine"                    = "วีดีโอของฉัน";
+"sns_error_get_user_info"           = "รับข้อมูลโปรไฟล์ไม่สำเร็จ";
+"sns_loading"                       = "กำลังโหลด...";
+"sns_recommend"                     = "แนะนำ";
+//"sns_second_square_failed_get" = "คำขอมีปัญหา %@ จาก second square A";
+"sns_network_error"                 = "ไม่พบเครือข่าย";
+"sns_nothing_in_server"             = "ไม่พบไฟล์ในเซิร์ฟเวอร์";
+//"" = "ยังไม่ถูกเชื่อมต่อ หรือเซิร์ฟเวอร์ไม่ว่าง";
+"sns_hot_photo"                     = "รูปเด็ด";
+"sns_download_firmware_renew"       = "ดาวน์โหลด";
+"sns_cancel"                        = "ยกเลิก";
+"sns_todo_download_firmware_renew"  = "ดาวน์โหลดเฟิร์มแวร์อัพเกรดแพ็ค";
+"sns_camera_firmware_renew"         = "xiaoyiGuJian%@.bin";
+"sns_exit_firmware_renew_file"      = "พบเฟิร์มแวร์อัพเกรดแพ็คแล้ว, กำลังตรวจสอบ...";
+"sns_exit_connect_camera"           = "พบเฟิร์มแวร์อัพเกรดแพ็คแล้ว, โปรดเชื่อมต่อกับกล้องและอัพเดต";
+"sns_success"                       = "เสร็จสมบูรณ์";
+"sns_download_firmware_renew_again" = "อัพเกรดแพ็คมีปัญหา โปรดลองใหม่";
+"sns_firmware_no_md5"               = "ไม่พบ MD5 โปรดดาวน์โหลดอัพเกรดแพ็คใหม่อีกครั้ง";
+"sns_take_care"              = "คำเตือน";
+"sns_download_alert_message" = "กำลังใช้อินเตอร์เนตของมือถือ การดาวน์โหลดใช้แพคเกจอินเตอร์เนตจำนวนมาก";
+"sns_download_go_on"         = "ดำเนินการต่อ";
+"sns_download_cancel"        = "ยกเลิก";
+
+
+"sns_no_network"                        = "ไม่พบเครือข่าย";
+"sns_button_confirm"                    = "ยืนยัน";
+"sns_unknow_network_link"               = "ไม่ทราบสาเหตุเครือข่ายขัดข้อง";
+//"" = "ยืนยัน";
+"sns_accomplish"                        = "เสร็จสมบูรณ์";
+"sns_can_not_link_server"               = "เซิร์ฟเวอร์ไม่ว่าง โปรดลองใหม่ในภายหลัง";
+"sns_keep_live_download"                = "กำลังดาวน์โหลด โปรดรอ";
+"sns_failed_download_again"             = "การดาวน์โหลดล้มเหลว โปรดลองใหม่";
+"sns_check_firmware_renew_file"         = "กำลังตรวจสอบข้อมูล...";
+"sns_download_again"                    = "โปรดดาวน์โหลดอีกครั้ง";
+"sns_download_successed_connect_camera" = "ดาวน์โหลดเสร็จสมบูรณ์แล้ว โปรดเชื่อมต่อกล้องและอัพเดตเฟิร์มแวร์";
+//"sns_download_file_destory_again" = "แพ็คเกจติดตั้งมีปัญหา โปรดดาวน์โหลดใหม่";
+"sns_unknow"                            = "ไม่พบดาวน์โหลดไฟล์";
+"sns_download_finish_not_save"          = "ไม่สามารถเก็บบันทึกดาวน์โหลดไฟล์ได้";
+"sns_setting"                           = "การติดตั้ง";
+"sns_have_new_edition"                  = "เวอร์ชั่นใหม่";
+
+"sns_app_edition"                       = "เวอร์ชั่นแอพพลิเคชั่น";
+"sns_firmware_edition"                  = "เฟิร์มแวร์";
+"sns_firmware_download_title"           = "เฟิร์มแวร์";
+"sns_firmware_last_connected_updated"   = "กล้องตัวล่าสุดได้อัพเดทเฟิร์มแวร์ใหม่แล้ว.";
+"sns_firmware_no_update"                = "ไม่มีเฟิร์มแวร์อัพเดท";
+"sns_firmware_ready"                    = "เฟิร์มแวร์ตัวล่าสุดได้ถูกดาวน์โหลด โปรดเชื่อมต่อกล้องและอัพเดท";
+"sns_firmware_new"                      = "มีอัพเดทเวอร์ชั่นใหม่";
+"sns_user_use_lead"                     = "คู่มือผู้ใช้";
+"sns_setting_feedback"                  = "ลูกค้าสัมพันธ์";
+"sns_setting_about"                     = "เกี่ยวกับเรา";
+"sns_edition_is_new"                    = "แอพของคุณเป็นตัวล่าสุดแล้ว";
+"sns_failed_network_is_bad"             = "การอัพเกรดล้มเหลว";
+"sns_failed_download_pic"               = "ดาวน์โหลดรูปภาพไม่สำเร็จ";
+"sns_normal_questions" = "คำถามที่พบบ่อย";
+"sns_buy" = "ซื้อ";
+"sns_content_of_share"            = "แชร์";
+
+"sns_test"                        = "เทสต์";
+"sns_test_message"                = "นี่คือข้อความทดสอบ";
+"sns_checkUpdates" = "อัพเดทการตรวจสอบ";
+//"sns_no_network" = "ไม่พบเครือข่าย";
+//"" = "คำเตือน";
+"sns_alert_3g_network"            = "กำลังใช้อินเตอร์เนตของมือถือ การดูวิดีโอใช้แพคเกจอินเตอร์เนตจำนวนมาก ดำเนินการต่อหรือไม่?";
+//"" = "ดำเนินการต่อ";
+//"" = "ยกเลิก";
+//"" = "ยืนยัน";
+//"" = "ไม่พบสาเหตุเครือข่ายขัดข้อง";
+//"" = "ยืนยัน";
+"sns_watch_finish_download_video" = "กำลังดูวีดีโอ~";
+"sns_failed_create_video_file"    = "การสร้างโฟล์เดอร์วีดีโอล้มเหลว";
+"sns_video_file_exit"             = "พบไฟล์วีดีโอ";
+"sns_download_to_background"      = "กำลังดาวน์โหลดแบ๊คกราวน์";
+"sns_download_progress"           = "โหลดแล้ว%@";
+"sns_alert_tapped_again"          = "คุณได้กด~~";
+"sns_already_download" = "ค้นพบไฟล์ในดาวน์โหลดลิสท์";
+"sns_noDownloading" = "ไม่มีการดาวน์โหลด";
+//"sns_no_network" = "ไม่พบเครือข่าย";
+"sns_confirm" = "ยืนยัน";
+//"" = "ไม่พบสาเหตุเครือข่ายขัดข้อง";
+//"" = "ยืนยัน";
+"sns_more" = "เพิ่มเติม";
+//"" = "เพิ่มเติม";
+"sns_video_play_alert" = "กำลังโหลด...";
+//"" = "ยังไม่ถูกเชื่อมต่อหรือเซิร์ฟเวอร์ไม่ว่าง";
+//"" = "ไม่พบดาวน์โหลดไฟล์";
+"sns_file_all_video" = "วีดีโอทั้งหมด";
+"sns_square_title"          = "เมนูหลัก";
+"sns_network_can_not_used"   = "ไม่พบเครือข่าย";
+
+"sns_link_network_try_again" = "โปรดตรวจสอบสัญญาณเชื่อมต่อเครือข่าย";
+"sns_try_again"              = "ลองใหม่";
+"sns_send_message_failed"    = "ไม่พบเครือข่ายปัจจุบัน";
+"sns_classify"               = "ประเภท";
+"sns_not_login"              = "นิรนาม";
+"sns_login_button"           = "ล็อคอินโดยการคลิกที่รูปโปรไฟล์";
+//"" = "ไม่ล็อคอิน";
+//"" = "ล็อคอินโดยการคลิกที่รูปโปรไฟล์";
+"sns_content_personal"       = "หมุนกล้อง";
+"sns_download_management" = "ระบบจัดการดาวน์โหลด";
+
+/**
+ *  ๅผ•ๅฏผ้กต้ข
+ */
+"sns_header_one" = "เปิดกล้อง";
+"sns_header_two" = "เปิดโหมด Wi-Fi ของกล้อง";
+"sns_header_three" = "เชื่อมต่อกับกล้อง";
+"sns_detail_one" = "กดปุ่ม power เพื่อเปิดกล้อง";
+"sns_detail_two" = "กดปุ่มด้านข้างเพื่อเปิด Wi-Fi ของกล้อง";
+"sns_detail_three" = "เชื่อมต่อกับ Wi-Fi ของ XiaoYi Camera";
+"sns_next" = "ถัดไป";
+"sns_set" = "ไปที่การติดตั้งระบบ";
+"sns_attention" = "ชื่ออัตโนมัติคือ YDXJ และรหัส SN 7 ตัวหลัง (รหัส SN จะอยู่ด้านหลังของช่องเสียบแบตเตอรี่ ส่วนรหัสผ่านอัตโนมัติคือ 1234567890";
+"sns_phone_pic" = "ywc_en_iphone";
+"sns_attention_tail" = "ผิดพลาด?";
+"sns_restore_tutor_title" = "คืนค่าติดตั้งจากโรงงาน";
+"sns_restore_tutor_detail1" = "กดค้าง %@ จนกว่าจะได้ยินเสียงสัญญาณ \nและเชื่อมต่อกล้องอีกครั้งหลังรีสตาร์ท \n\n\n%@";
+"sns_restore_tutor_key" = "ปุ่มเปิดและปุ่มWi-Fi";
+"sns_restore_tutor_detail2" = "รหัสผ่านตั้งต้น: 1234567890\n ชื่อตั้งต้น: YDXJ และรหัส SN 7 ตัวหลัง (รหัส SN จะอยู่ด้านหลังของช่องเสียบแบตเตอรี่";
+
+/**
+ *  ไธๆๅทๆ–ฐ
+ */
+"refresh_FooterPullToRefresh" = "เลื่อนขึ้นเพื่อโหลดเพิ่ม";
+
+"refresh_Footer_All_Data_Loaded" = "โหลดข้อมูลทั้งหมดแล้ว";
+"refresh_FooterReleaseToRefresh" = "ปล่อยเพื่อโหลดเพิ่ม";
+"refresh_FooterRefreshing" = "กำลังโหลด...";
+"refresh_HeaderPullToRefresh" = "เลื่อนลงและรีเฟรช";
+"refresh_HeaderReleaseToRefresh" = "ปล่อยและรีเฟรช";
+"refresh_HeaderRefreshing" = "กำลังรีเฟรช...";
+
+/**
+ *  ไฟๅญๅฐ็ธๅ
+ */
+"save_image_success" = "เซฟลงอัลบั้ม";
+"save_image_notExist" = "ไม่พบรูปภาพ";
+"save_image_fail" = "การเซฟภาพล้มเหลว";
+"save_cannot_get" = "ไม่ได้รับอนุญาต";
+"save_saveBtn" = "เซฟ";
+"save_toPhotoAlbum" = "เซฟลงอัลบั้ม";
+/**
+ *  ๆ่งๅ้ฆ
+ */
+"feedback_contactWay" = "ติดต่อ:";
+
+"feedback_feedbackContent" = "ฟีดแบ็ค:";
+"feedback_contactWayDetail" = "ผ่านทาง qq/อีเมล์/โทรศัพท์";
+"feedback_feedbackContentDetail" = "คำแนะนำของคุณ";
+"feedback_cancel" = "ยกเลิก";
+"feedback_submit" = "ส่ง";
+"feedback_submitSuccess" = "ส่งสำเร็จ";
+"feedback_thanks" = "ได้รับคำแนะนำเรียบร้อยแล้ว ทางเราขอขอบคุณในทุกความเห็นของคุณ";
+"feedback_confirm" = "ยืนยัน";
+"feedback_fail" = "สัญญาณเชื่อมต่อขัดข้องทำให้ส่งไม่ผ่าน";
+"feedback_failForOtherReasons" = "ล้มเหลว อาจเพราะเกิดการส่งซ้ำ";
+"ywc_xiaoyi_qrcode" = "ywc_xiaoyi_qrcode_en";
+"ywc_step_one_scan" = "ywc_step_one_scan_en";
+"ywc_step_two_ablum" = "ywc_step_two_ablum_en";
+"ywc_step_three_public" = "ywc_step_three_public_en";
+
+"wechat_iknow_title" = "ตกลง";
+
+/**
+ *  faq
+ */
+"faq_camera" = "คำถามทั่วไป";
+"faq_connection" = "คำถามเกี่ยวกับสัญญาณเชื่อมต่อ";
+"faq_takingPhotos" = "คำถามเกี่ยวกับรูปภาพ";
+"faq_battery" = "คำถามเกี่ยวกับแบตเตอรี่";
+"faq_sdCard" = "คำถามเกี่ยวกับSD การ์ด";
+
+"faq_on_off" = "คำถามเกี่ยวกับเปิดปิด";
+
+"faq_others" = "คำถามอื่นๆ";
+
+"faq_logo_title" = "คำถามที่พบบ่อย";
+
+/**
+ *  ๅฟซๆ
+ */
+"original"    = "ไม่ใส่";
+"brightbeau"  = "Brightbeau";
+"curvelevel"  = "Curvelevel";
+"deepquit"    = "Deepquit";
+"retro"       = "Retro";
+"sepia"       = "Sepia";
+"_8mmfilm"    = "film";
+"documentary" = "สารคดี";
+
+"template"    = "แม่แบบ";
+"effect"      = "เอฟเฟคท์";
+"effect_edit_format_choose" = "เลือกฟอร์แมท";
+"effect_edit_format_MP4"    = "ฟอร์แมท MP4";
+"effect_edit_format_GIF"    = "ฟอร์แมท GIF";
+"effect_edit_back_button"   = "ย้อนกลับ";
+"effect_edit_share_button"  = "การแชร์";
+"generate_MP4" = "การสร้างวีดีโอ";
+"generate_GIF" = "การสร้าง GIF ";
+
+"effect_save_file_error"         = "เข้าอัลบั้มไม่สำเร็จ";
+"effect_save_file_error_message" = "เปลี่ยนเซตติ้งค่าความเป็นส่วนตัวของรูปภาพ";
+"effect_save_file_error_cancel"  = "ตกลง";
+"effect_shareVieo" = "ไม่รองรับการแชร์ในขณะนี้";
+
+"effect_video_load_again" = "โหลดสแนปช็อคใหม่";
+
+"effect_not_support" = "ขณะนี้ไม่รองรับ";
+
+
+/**
+ *  ็ธๆบ่ฎพ็ฝฎ
+ */
+"tvVideoSetting" = "การติดตั้งวีดีโอ";
+"setting_video"             = "วีดีโอ";
+"setting_video_quality"     = "คุณภาพวีดีโอ";
+"setting_video_time_stamp"  = "ประทับเวลาบันทึกวีดีโอ";
+"setting_video_resolution"  = "ค่าความละเอียดวีดีโอ";
+"setting_video_standard"    = "ค่ามาตรฐานวีดีโอ";
+"setting_meter_mode"        = "โหมดวัด";
+
+"setting_photo"                 = "รูปภาพ";
+"setting_photo_size"            = "ค่าความละเอียดภาพ";
+"setting_capture_default_mode"  = "โหมดตั้งภาพอัตโนมัติ";
+"setting_system_default_mode"   = "โหมดเริ่มใหม่อัตโนมัติ";
+"setting_photo_stamp"           = "ประทับเวลาบันทึกภาพ";
+"setting_camera"                  = "กล้อง";
+
+"setting_preview_status"          = "พรีวิวสด";
+"setting_auto_low_light"          = "แสงน้อยอัตโนมัติ";
+"setting_loop_record"             = "การอัดแบบลูป";
+"setting_warp_enable"             = "การแก้ไขค่าความเบี่ยงเบนแสง";
+"setting_start_wifi_while_booted" = "การตั้งค่าเริ่มแรก Wi-Fi";
+"setting_av_output"               = "ส่งออกทาง AV";
+"setting_video_rotate"            = "การพลิกกลับภาพ";
+
+"emergency_file_backup"           = "การแบ็คอัพฉุกเฉิน";
+"setting_buzzer_volume"           = "การตั้งเสียงกล้อง";
+"setting_default_record_mode"     = "เริ่มต้นโหมดบันทึก";
+"setting_wifi"                    = "การตั้งค่า Wi-Fi";
+"setting_led_mode"                = "โหมด LED";
+"setting_camera_clock"            = "นาฬิกากล้อง";
+"setting_auto_power_off"          = "ปิดอัตโนมัติ";
+
+"setting_device" = "อุปกรณ์";
+//"setting_bluetooth"                = "อุปกรณ์เสริม";
+"setting_hw_version"               = "เวอร์ชั่นกล้อง";
+"setting_serial_number"            = "ค่าซีเรียลนัมเบอร์";
+"setting_sw_version"               = "เวอร์ชั่นเฟิร์มแวร์";
+"setting_sdcard"                   = "ไมโคร SD การ์ด";
+"setting_buzzer_ring"              = "ค้นหากล้อง";
+"setting_restore_factory_settings" = "คืนค่าติดตั้งจากโรงงาน";
+"setting_save_log"                 = "บันทึกของกล้อง";
+"setting_failed"                   = "การติดตั้งล้มเหลว";
+"setting_unsupported_resolution"   = "ไม่สามารถใช้ค่าแสงน้อยอัตโนมัติกับค่าความละเอียดวีดีโอปัจจุบัน";
+"format_SD_error" = "ดาวน์โหลดแล้ว ต้องการรีฟอร์แมทไมโคร SD การ์ดหรือไม่?";
+
+/**
+ *  ็ธๆบ่ฎพ็ฝฎๅๆ•ฐ
+ */
+"videoquality_fine"      = "ละเอียดปานกลาง";
+"videoquality_superfine" = "ละเอียดสูง";
+"videoquality_normal"    = "ละเอียดต่ำ";
+"auto_low_light"         = "แสงน้อยอัตโนมัติ";
+"loop_record"            = "การบันทึกภาพแบบลูป";
+
+"wrap_enable"            = "การแก้ไขค่าเบี่ยงเบนแสง";
+"set_on"                 = "เปิด";
+"set_off"                = "ปิด";
+"date"                   = "วันที่";
+"date_and_time"          = "วันที่/เวลา";
+"time"                   = "เวลา";
+"buzzer_volume_high"     = "เสียงดัง";
+"buzzer_volume_low"      = "เสียงเบา";
+
+"buzzer_volume_mute"     = "ปิดเสียง";
+"second"                 = "วินาที";
+"pic_second"             = "ภาพต่อวินาที";
+"pic_two_second"         = "ภาพต่อ2วินาที";
+"single_pic"             = "รูปเดียว";
+"nomal_pic"              = "รูปภาพ";
+"cont_pic"               = "โหมด Burst";
+"time_lapes_photo"       = "ถ่ายภาพอย่างช้าๆ";
+"time_lapse_pic"         = "โหมดถ่ายภาพอย่างช้าๆ";
+"keep_cont_pic"          = "ถ่าย Burst";
+"meter_spot"             = "วัดที่จุด";
+
+"meter_center"           = "วัดตรงกลาง";
+"meter_average"          = "วัดโดยเฉลี่ยทั้งภาพ";
+"meter_manual"           = "วัดปรับเอง";
+"led_all_enable"         = "เปิดทั้งหมด";
+"led_all_disable"        = "ปิดทั้งหมด";
+"led_status_enable"      = "เปิดแต่สถานะ LEDs";
+"sd_hc"                  = "การ์ดความเร็วทั่วไป";
+"sd_xc"                  = "การ์ดความเร็วสูง";
+"none"                   = "ไม่ทราบประเภท";
+"sd_error"               = "ไม่พบการ์ด";
+"record"                 = "วีดีโอ";
+"capture"                = "รูปภาพ";
+
+"sdcard_size"           = "%@ ที่มี / %@ ทั้งหมด";
+
+"sdcard_size_available" = "ที่มี";
+"sdcard_size_total"     = "ทั้งหมด";
+
+"camera_setting_alertlabel"   = "กำลังติดตั้ง...";
+"camera_setting_alertmessage" = "รีสตาร์ทกล้องหลังเสียงสัญญาณดัง 3 ครั้ง";
+
+
+
+/**
+ *  ็ธๆบ่ฟๆฅ่ฟๅบฆ็•้ข
+ */
+"camera_connect_head_label"  = "การเชื่อมต่อ";
+"camera_connect_alert_label" = "โปรดรอ...";
+"camera_connect_back_button" = "ย้อนกลับ";
+
+"camera_connect_failed_search"        = "การเชื่อมต่อล้มเหลว";
+"camera_connect_failed_label_message" = "โปรดเชื่อมต่อจนกว่าสัญญาณไฟ Wi-Fi จะเป็นสีฟ้า ";
+"camera_connect_failed_again"         = "เชื่อมต่ออีกครั้ง";
+"camera_connect_failed_by_other"      = "ได้เชื่อมต่อกับโทรศัพท์เครื่องอื่นอยู่";
+"camera_connect_failed"      = "การเชื่อมต่อล้มเหลว";
+"camera_connect_failed_back_square"   = "ย้อนกลับสู่เมนูหลัก";
+
+"camera_connect_button" = "เชื่อมต่อกับกล้อง";
+
+/**
+ *  Wifi็•้ข
+ */
+"wifi_name_label"                  = "ชื่อ:";
+"wifi_name_placeholder"            = "ใส่ชื่อ Wi-Fi";
+"wifi_password_lalbel"             = "รหัสผ่าน:";
+"wifi_password_placeholder"        = "ใส่รหัสผ่าน Wi-Fi";
+"wifi_password_show_label"         = "แสดงรหัสผ่าน";
+"wifi_alert_nothing_change"        = "ไม่มีการเปลี่ยนแปลง ";//iOSไธ“ๆ
+"wifi_alert_enter_right_name"      = "ชื่อ Wi-Fi รองรับได้ 1-32 ตัวอักษรเท่านั้น";
+//"wifi_alert_name_count_failed"     = "หน่วยของชื่อ Wi-Fi ไม่ถูกต้อง";
+"wifi_alert_enter_right_password"  = "รหัสผ่านรองรับได้ 8-64 ตัวอักษรเท่านั้น";
+
+//"wifi_alert_password_count_failed" = "หน่วยของรหัสผ่าน Wi-Fi ไม่ถูกต้อง";
+"wifi_alert_restart_wifi"          = "กำลังจะรีสตาร์ทอัตโนมัติหลังแก้ไขข้อมูล Wi-Fi ต้องการดำเนินการต่อหรือไม่?";
+
+"wifi_camera_state_message"        = "กล้องอาจอยู่ในสถานะถ่ายวีดีโอ ไม่สามารถตั้งค่าได้ในขณะนี้";
+"wifi_content_alter_success"       = "เปลี่ยนแปลงข้อมูล Wi-Fi เรียบร้อยแล้ว โปรดเชื่อมต่อกับกล้องอีกครั้ง";
+
+/**
+ *  ShareSDKๅไบซ
+ */
+"share_iWantToShare" = "ฉันพบเนื้อหาน่าสนใจที่ XiaoYi สแควร์";
+"share_myShare" = "การแชร์ของฉันผ่านกล้อง XiaoYi actiYon ";
+"share_opening" = "กำลังเปิดแอพพลิเคชั่น";
+"share_success" = "แชร์สำเร็จแล้ว";//ๅฝ้…ๅ–
+"share_fail" = "การแชร์ล้มเหลว ";//ๅฝ้…ๅ–
+"share_fail_code" = "รหัสไม่ถูกต้อง";//ๅฝ้…ๅ–Y
+"share_fail_desc" = "คำอธิบายไม่ถูกต้อง";//ๅฝ้…ๅ–
+"share_local_video" = "ไม่รองรับการแชร์วีดีโอ";
+/**
+ *  ๅบไปถๅ็บง
+ */
+"camera_firmware_upgrade"            = "การอัพเดทเฟิร์มแวร์";
+"please_select_wifi"                 = "เลือก Wi-Fi";
+"wifi_password_hint"                 = "โปรดใส่รหัสผ่าน Wi-Fi ";
+"no_new_version"                     = "เป็นเวอร์ชั่นใหม่ล่าสุดแล้ว";
+"no_new_firmware_version"            = "เป็นเวอร์ชั่นใหม่ล่าสุดแล้ว";
+"firmware_download_failed"           = "ดาวน์โหลดอัพเกรดไม่สำเร็จ!";
+"firmware_upgrade_switch_wifi"       = "กำลังเปลี่ยนเป็น Wi-Fi...";
+"firmware_upgrade_download_firmware" = "กำลังดาวน์โหลดเฟิร์มแวร์...";
+"firmware_upgrade_tip"               = "กำลังอัพโหลดกล้อง โปรดอย่าปิด Wi-Fi ของกล้อง";
+"sure_to_cancel_firmware_upgrade"    = "ยืนยันยกเลิกการอัพเกรดกล้องหรือไม่?";
+"should_connect_to_outside_wifi"     = "ต้องการการเชื่อมต่ออินเตอร์เน็ตเพื่ออัพเกรดกล้อง ยืนยันเลิกการเชื่อมต่อกับกล้องหรือไม่?";
+
+"video_ratio"                        = "อัตราส่วน 4:3";
+"video_format"                       = "ฟอร์แมท MP4";
+"new_video"                          = "วีดีโอสแนปช็อตใหม่";
+"video_filter"                       = "ฟิลเตอร์";
+"video_musicbg"                      = "ดนตรี";
+"firmware_no_sdcard"                 = "โปรดใส่ SD การ์ด";
+
+
+
+
+/**
+ *  ็ธๆบๆจกๅผ
+ */
+"tvRecordMode"     = "วีดีโอ";
+"tvQuickShotMode"  = "สแนปช็อต";
+"tvPhotographMode" = "รูปภาพ";
+
+/**
+ *  ็ธๆบใ€ๆๆบ็ถๆ€ๆพ็คบ
+ */
+"caera_battery_level" = "แบตเตอรี่กล้อง ";
+"phone_battery_level" = "แบตเตอรี่โทรศัพท์";
+
+/**
+ *  ็ธๆบ็ไธป่ฆๆดป่ท็ถๆ€
+ */
+"camera_activity_mode_record"     = "วีดีโอ";
+"camera_activity_mode_quick_shot" = "สแนปช็อต";
+"camera_activity_mode_photograph" = "รูปภาพ";
+
+"alert_user_label"          = "แตะสองครั้งเพื่อย้อนกลับไปสู่พรีวิวกล้อง";
+
+"photo_edit_download_label" = "ดาวน์โหลด";
+"photo_edit_delete_label"   = "ลบ";
+"photo_edit_edit_label"     = "แก้ไข";
+"photo_button_cancel"       = "ยกเลิก";
+"photo_choose_count"        = "เลือกแล้ว1รูป";
+
+
+
+/**
+ *  ็ธๆบๆ็…งๆจกๅผ
+ */
+"tv_normal"    = "เดี่ยว";
+"tv_timelapes" = "ถ่ายภาพอย่างช้าๆ";
+"tv_timer"     = "ตั้งเวลา";
+"tv_burst"     = "การ Burst";
+
+"tv_record_normal"     = "ปกติ";
+"tv_record_time_lapse"     = "ถ่ายภาพอย่างช้าๆ";
+"tv_record_photo"     = "วีดีโอและรูปภาพ";
+
+/**
+ * ๆ–ไปถ็ฎก็
+ */
+"tvPhoto"    = "รูปภาพ";
+"tvVideo"    = "วีดีโอ";
+"tvDownLoad" = "ดาวน์โหลด";
+"camer_file_loading_not_delete" = "กำลังดาวน์โหลด หยุดชั่วครู่ก่อน";
+
+"camer_file_downloading" = "กำลังดาวน์โหลด";
+"camer_file_downloaded"  = "ดาวน์โหลดเสร็จเรียบร้อย";
+
+"camer_file_downloading_exit_or_not"  = "การดาวน์โหลดถูกหยุดชั่วขณะ ต้องการออก๏ผ";
+
+
+"camera_file_no_photo"            = "ไม่มีรูปภาพ";
+"camera_file_no_video"            = "ไม่มีวีดีโอ";
+"camera_file_get_file"            = "กำลังโหลด...";
+"camera_file_SDCard_remove"       = "SD การ์ดถูกถอดออกแล้ว";
+"camera_file_not_support_effect"  = "ไม่สามารถแก้ไขได้";
+"camera_file_selected"            = "ถูกเลือกแล้ว %d ";
+
+"camera_file_can_select"          = "เลือกไฟล์";
+"camera_file_have_download_photo" = "ดาวน์โหลดรูปภาพบางส่วนแล้ว";
+"camera_file_select_is_download"  = "กำลังดาวน์โหลดรูปภาพบางส่วน";
+"camera_file_video_is_download"   = "ไฟล์วิดีโอที่กำลังดาวน์โหลด";
+"camera_file_video_delete_loading"= "ไฟล์ถูกดาวน์โหลดแล้ว ต้องการลบหรือไม่?";
+//"camera_file_not_delete"          = "ยกเลิก";
+//"camera_file_sure_delete"         = "ลบ";
+"camera_file_not_delete"          = "ยกเลิก";
+"camera_file_sure_delete"         = "ลบ";
+"camera_http_wwan_alert_message"  = "ถ้าพรีวิวหรือดาวน์โหลดไม่ได้ กรุณาปิดสัญญาณมือถือแล้วลองใหม่อีกครั้ง";
+"camera_download_file_cancel_button" = "ยกเลิก";
+"camera_file_video_formate" = "ฟอร์แมทวีดีโอ";
+"camera_file_video_cancel"  = "ย้อนกลับ";
+"camera_file_video_high"    = "ค่าความละเอียดสูง";
+"camera_file_video_middle"  = "ค่าความละเอียดต่ำ";
+
+"camera_file_download_add"  = "เพิ่มเพื่อดาวน์โหลด";
+"camera_file_download_exit" = "กำลังเซฟ";
+"camera_file_download"      = "เซฟแล้ว";
+"file_deleted_loading"      = "ไฟล์ดาวน์โหลด ";
+"camera_file_download_error"= "ความจุของโทรศัพท์ไม่เพียงพอ";
+"camera_file_system_space"  = "ยังว่าง%@, จากทั้งหมด %@";
+
+"camera_file_video_not_suport_play" = "ไฟล์ดังกล่าวเล่นไม่ได้";
+"camera_file_save_video_failed" = "ยังไม่สามารถวีดีโอบน %@ ";
+
+
+
+/**
+ *  ็ธๆบ็•้ข
+ */
+"camera_main_caching"                     = "กำลังแคช ";
+"camera_main_piv_complete"                = "แคพเชอร์สำเร็จ";
+"camera_main_piv_failed"                  = "แคพเชอร์ล้มเหลว";//?
+"camera_main_prompt"                      = "แจ้งให้ทราบ";
+"camera_main_sure_disconnect_from_camera" = "ยืนยันหยุดการเชื่อมต่อกับกล้องหรือไม่๏ผ";
+
+"camera_main_disconnect_yes"              = "ใช่";
+
+"camera_main_disconnect_no"               = "ไม่";
+
+"camera_main_not_exit_SD_card"            = "ไม่พบ SD การ์ด";
+
+"camera_main_set_model_defeat"            = "โหมดติดตั้งไม่สำเร็จ";
+
+
+/**
+ *  ็ธๆบๅทฅไฝ็ถๆ€
+ */
+"camera_take_photo_timelapse" = "กำลังถ่ายภาพอย่างช้าๆ";//?
+"camera_take_photo_burst"     = "กำลัง Bursting ";
+"camera_take_photo_normal"    = "กำลังถ่ายภาพ";
+"camera_take_photo_timing"    = "เวลา";
+"camera_camera" = "กล้อง";
+
+
+/**
+ *  ็ธๆบ้”่ฏฏ่ฟ”ๅไฟกๆฏ
+ */
+"camera_error_unknow"             = "ไม่ทราบสาเหตุขัดข้อง";
+"camera_error_session"            = "ขัดข้องที่ Session ";
+"camera_error_token"              = "ขัดข้องที่โทเค็น";
+"camera_error_no_more_space"      = "SD การ์ดไม่เหลือพื้นที่ว่างแล้ว";
+"camera_error_no_more_save_space" = "โทรศัพท์ไม่เหลือพื้นที่ว่างแล้ว";
+
+"camera_error_system_busy"        = "ระบบไม่ว่าง";
+"camera_error_no_sd_card"         = "ไม่พบ SD การ์ด";
+"camera_error_save_error"       = "การเซฟขัดข้อง";
+"camera_error_sd_hc"            = "SD การ์ดความเร็วต่ำ";
+"camera_error_index_limit"      = "อินเด็กซ์จำกัด";
+"camera_error_file_limit"       = "ไฟล์จำกัด";
+
+"camera_error_sd_card_remove"   = "SD การ์ดถูกถอดออกแล้ว";
+
+"camera_error_sd_card_inserd"   = "ใส่ SD การ์ดแล้ว";
+
+"camera_error_piv_error"        = "ค่าความละเอียดปัจจุบันไม่รองรับการแคพเชอร์";
+"camera_error_sd_card_not_exit" = "ไม่พบ SD การ์ด";
+"camera_error_sd_card_not_support" = "ไม่รองรับ SD การ์ดความจุน้อยกว่า 4G ";
+
+
+
+
+
+
+
+/**
+ *  ็ถ็ฑปVCๆ็คบ
+ */
+
+"camera_enter_usb_storage" = "โหมดความจุ USB";
+
+
+//title
+"Back" = "ย้อนกลับ";
+
+"Home" = "เมนูหลัก";
+
+"OK" = "ตกลง";
+
+"Nothing" = "ไม่พบไฟล์";
+"Notice" = "แจ้งให้ทราบ";
+"Cancel" = "ยกเลิก";
+"Save" = "เซฟ";
+"Edit" = "แก้ไข";
+"Square" = "สแควร์";
+
+"Camera" = "กล้อง";
+"TakePhoto" = "รูปภาพ";
+"Cameras" = "กล้อง";
+"All_Select" = "เลือกทั้งหมด";
+"No_Select" = "ไม่เลือก";
+
+"Me" = "ฉัน";
+
+"FileManage" = "จัดการไฟล์";
+
+"LocalFile" = "ไฟล์ที่มี";
+
+"EquipManage" = "จัดการอุปกรณ์";
+
+"SDCard" = "SD การ์ด";
+
+"Setting" = "การตั้งค่า";
+
+"Manager" = "ผู้ทำการ";
+
+
+
+// Operation
+"TryAgain" = "ลองใหม่อีกครั้ง";
+
+"DeleteConfirm" = "ยืนยันลบไฟล์นี้หรือไม่๏ผ";
+
+"FormatSDCard" = "ฟอร์แมท SD การ์ด";
+
+"Format SDCard or not" = "ยืนยันฟอร์แมท SD การ์ดหรือไม่?";
+
+"TotalCapacity" = "ความจุทั้งหมด";
+
+"AvailableCapacity" = "ความจุที่มี";
+
+"SDCardCapacity" = "SD การ์ด";
+
+"Camert Time" = "เวลาในกล้อง";
+
+"Same Time" = "ตั้งเวลาและวันที่";
+
+
+
+"video_quality" = "คุณภาพวีดีโอ";
+
+"video_stamp" = "ประทับเวลาบนวีดีโอ";
+
+"video_resolution" = "ค่าความละเอียดวีดีโอ";
+
+"video_standard" = "รูปแบบวีดีโอ";
+
+"meter_mode" = "โหมดการวัด";
+"photo_size" = "ค่าความละเอียดภาพ";
+"capture_default_mode" = "โหมดแคปเจอร์อัตโนมัติ";
+"photo_stamp" = "ประทับเวลาที่ภาพ";
+"capture_mode" = "โหมดแคปเจอร์";
+"buzzer_volume" = "ระดับเสียง Buzzer";
+
+"precise_cont_time" = "ตั้งเวลาถ่ายภาพ";
+"burst_capture_number" = "จำนวนของ burst ช็อต";
+"restore_factory_settings" = "คืนค่าติดตั้งจากโรงงาน";
+"led_mode" = "โหมด LED";
+
+"usb_storage_enable" = "ใช้ความจุ USB";
+
+
+"serial_number" = "รหัส Serial Number ";
+
+
+
+
+
+
+
+
+
+
+
+
+"Preview Switch" = "ปุ่มพรีวิว";
+
+
+
+
+
+
+
+"CameraSetting" = "การติดตั้งกล้อง";
+
+"Single" = "รูปเดี่ยว";
+
+"Continu" = "การ Burst";
+
+"Delay" = "นับถอยหลัง";
+
+"FailedToStart" = "1. เปิด Wi-Fi ของกล้อง;\n\n2. เชื่อมต่อโทรศัพท์และ Wi-Fiของกล้องเข้าด้วยกัน;\n\n3. ตรวจสอบว่ากล้องไม่ได้เชื่อมต่อกับสิ่งอื่นใด ;\n\n4. รีสตาร์ทกล้องอีกครั้งหากไม่สามารถเชื่อมต่อได้ภายใน 30 วินาที\n\n";
+
+"NetFail" = "เชื่อมต่อ Wi-Fi ของกล้องไม่สำเร็จ, โปรดตรวจสอบสถานะ Wi-Fi ของกล้อง";
+
+"Photo" = "รูปภาพ";
+"Vidoe" = "วีดีโอ";
+"Download" = "ดาวน์โหลด";
+"SettingSuccess" = "เปลี่ยนแปลงการตั้งค่าเรียบร้อยแล้ว";
+"SettingFailed" = "เปลี่ยนแปลงการตั้งค่าไม่สำเร็จ";
+"operation_failed" = "กระบวนการล้มเหลว";
+
+
+//tips
+
+"Camera Recording" = "กำลังบันทึกวีดีโอ";
+
+"Taking Photo" = "กำลังถ่ายภาพ";
+
+"PleaseCloseTheCamera" = "โปรดหยุดบันทึกวีดีโอ";
+
+"PleaseStopPhoto" = "โปรดหยุดถ่ายภาพ";
+
+"Preview is Closed" = "ไม่ได้เปิดใช้งานพรีวิววีดีโอ";
+
+"Precise Quality Conting" = "กำลังถ่ายภาพแบบตั้งเวลา...";
+
+"Burst Quality photoing" = "กำลังถ่าย burst ช็อต...";
+
+"Timelapse Record" = "กำลังถ่ายภาพอย่างช้าๆ...";
+
+"Does not support Preview" = "ค่าความละเอียดปัจจุบันไม่รองรับการพรีวิว";
+
+"Resolution not support Capture" = "ค่าความละเอียดปัจจุบันไม่รองรับสแนปช็อต";
+
+"not_support_automatic_low_light" = "ค่าความละเอียดปัจจุบันไม่รองรับการตั้งค่าแสงน้อยอัตโนมัติ";
+
+"file_saving" = "กำลังเซฟไฟล์";
+
+
+
+"TFCardIsFull" = "SD การ์ดเต็ม";
+
+"stdDefVideo" = "ไม่มีการพรีวิววีดีโอ";
+
+"This resolution video no preview and side stream" = "ค่าความละเอียดขณะนี้ไม่รองรับการทำ side stream หรือพรีวิววีดีโอ .";
+
+"no preview" = "ไม่มีพรีวิว";
+
+"This resolution has no side stream video" = "ค่าความละเอียดขณะนี้ไม่รองรับการทำ side stream";
+
+
+//UI title
+"Connect Success" = "การเชื่อมต่อสำเร็จ";
+
+"Connect failed" = "การเชื่อมต่อล้มเหลว";
+
+"Connectting" = "กำลังเชื่อมต่อ";
+
+
+"VidoeMode" = "โหมดวีดีโอ";
+
+"PhotoMode" = "โหมดรูปภาพ";
+
+
+
+
+"Photo Success" = "ถ่ายรูปสำเร็จ";
+
+"Photo Failed" = "ถ่ายรูปไม่สำเร็จ";
+
+"No File" = "ไม่พบไฟล์ดังกล่าว";
+
+"Delete" = "ลบ";
+
+"Deleteing" = "กำลังลบ";
+
+"System Busy" = "ระบบไม่ว่าง";
+
+"Clear Cache" = "เคลียร์แคช";
+
+
+"Saving" = "กำลังเซฟ";
+
+"Finished" = "เสร็จสิ้น";
+
+
+
+
+
+"Find Camera" = "กำลังค้นหากล้อง";
+
+"Camera connection failed, please check your WiFi connection is normal" = "เชื่อมต่อกล้องไม่สำเร็จ โปรดตรวจสอบการตั้งค่า Wi-Fi";
+
+"No Select File" = "ยังไม่ได้เลือกไฟล์";
+
+"Delete Success" = "ลบแล้ว";
+
+"Delete Failed" = "ลบไม่สำเร็จ";
+
+"Restore Factory Or Not ?" = "ยืนยันคืนค่าติดตั้งจากโรงงานหรือไม่?";
+"Unbind bluetooth controller Or Not ?" = "ยืนยันปลดสัญญาณต่อเชื่อมทุกอุปกรณ์บลูทูธหรือไม่?";
+"Time synchronous camera" = "ยืนยันซิงค์เวลาของกล้องหรือไม่?";
+"btc_delete_all_binded_dev" = "ปลดสัญญาณต่อเชื่อมอุปกรณ์บลูทูธ";
+"Fetch log from camera" = "ดาวน์โหลดเข้าสู่ระบบจากกล้องหรือไม่?";
+"Upload_camera_log" = "อัพโหลดบันทึกของกล้อง OK?";
+
+"Wifi Message" = "การตั้งค่า Wi-Fi";
+
+"Confirm ?" = "ยืนยันการติดตั้งหรือไม่?";
+
+"Restart Camera ?" = "ยืนยันรีสตาร์ทกล้องหรือไม่?";
+"SDCardType" = "ประเภท SD การ์ด";
+"SDCardSpeed" = "ทดสอบ SD การ์ด";
+"SD Card remove" = "ถอด SD การ์ดออกแล้ว";
+"SD Card insert" = "เสียบ SD การ์ดแล้ว";
+"video_output_dev_type" = "โหมดส่งภาพออกทางวีดีโอ";
+"Please Click To Get" = "โปรดคลิกเพื่อรับ";
+"Speeding" = "ทดสอบความเร็ว";
+"Version information" = "เวอร์ชั่น";
+"Hardware Version" = "เวอร์ชั่นเฟิร์มแวร์";
+"Software Version" = "เวอร์ชั่นซอฟท์แวร์";
+
+
+"warp_enable" = "ยอมให้แก้ไขภาพบิดเบี้ยวที่เกิดจากเลนส์";
+
+"start_wifi_while_booted" = "เริ่ม Wi-Fi หลังระบบบูธเสร็จสิ้น";
+
+"auto_power_off" = "ปิดอัตโนมัติ";
+
+// alert tips
+"video_record_complete" = "การบันทึกภาพสิ้นสุด";
+
+"start_video_record" = "เริ่มต้นการบันทึกภาพ";
+"No SDCard" = "ไม่พบ SD การ์ด";
+"Photo Start" = "เริ่มถ่ายภาพ";
+//请求返回提示
+"SDCard-16K" = "การ์ด SD ข้อผิดพลาดการจัดรูปแบบใหม่ที่จัดรูปแบบ?";
+
+//่ฏทๆฑ่ฟ”ๅๆ็คบ
+
+"Failed" = "ล้มเหลว";
+"Success" = "สำเร็จ";
+"Loading" = "กำลังโหลด...";
+"Get Wifi Failed" = "ไม่สามารถรับข้อมูล Wi-Fi";
+
+"Command Failed" = "คำสั่งล้มเหลว";
+
+
+
+
+
+//็ธๆบๅๆ•ฐ่ฝฌๅ–ๅ€ผ
+"on" = "เปิด";
+"off" = "ปิด";
+"S.Fine" = "ละเอียดสูง";
+"Fine" = "ละเอียดปานกลาง";
+"Normal" = "ละเอียดต่ำ";
+"date/time" = "วันที่/เวลา";
+"high" = "เสียงดัง";
+"low" = "เสียงเบา";
+"mute" = "ปิดเสียง";
+"center" = "วัดแสงจากตรงกลาง";
+
+"average" = "วัดแสงโดยเฉลี่ย";
+"spot" = "วัดแสงจากจุด";
+"precise quality" = "เดี่ยว";
+"precise quality cont." = "ถ่ายภาพอย่างช้าๆ";
+"precise self quality" = "ตั้งเวลา";
+"burst quality" = "Burst";
+
+"status_error" = "ขัดข้องเมื่อเช็คสถานะ SD การ์ด";
+"slot_error" = "ระบบขัดข้อง";
+"all enable" = "เปิดใช้ LEDs ทั้งหมด";
+"all disable" = "ปิดการใช้ LEDs ทั้งหมด";
+
+"status enable" = "เปิดใช้สถานะ LEDs";
+
+"firm_upload_percentage" = "อัพโหลดแล้ว %.0f%% ";
+"firm_diary" = "แจ้งเตือนอัพเกรด";
+"firm_startUpdate" = "อัพโหลดเฟิร์มแวร์กล้อง";
+"firm_updating" = "อัพโหลดเฟิร์มแวร์กล้อง โปรดวางกล้องและโทรศัพท์ไว้ใกล้กัน";
+"firm_connecting" = "พร้อมจะอัพโหลด กำลังเชื่อมต่อ";
+"firm_start_fw_update" = "เริ่มอัพเกรด";
+"firm_not_supported" = "ไม่รองรับฮาร์ดแวร์";
+"firm_quit" = "กำลังอัพเดท โปรดรอ";
+"firm_error_unknownError" = "IO ผิดปกติขณะเปลี่ยนชื่อไฟล์ ";
+"firm_error_invalidParam" = "พารามิเตอร์ไม่ถูกต้อง";
+"firm_error_invalidPath" = "พาธไม่ถูกต้อง";
+"firm_error_cardNotExist" = "ไม่พบ SD การ์ด";
+
+"firm_error_title" = "เกิดขัดข้องขณะอัพเกรดเฟิร์มแวร์";
+"firm_success_title" = "สำเร็จ";
+
+"firm_success_message" = "กล้องจะส่งเสียงขณะอัพเดต และกล้องจะปิดตัวเองอัตโนมัติเมื่อการอัพเดตเสร็จสิ้น";
+
+"firm_alreadyNewest" = "ไม่จำเป็นต้องอัพเกรด";
+"firm_lowBattery" = "แบตเตอรี่อ่อน กรุณาชาร์ตก่อนการอัพเกรด";
+"firm_unsupported" = "อัพเกรดเฟิร์มแวร์ของกล้อง";
+
+"firm_finishDownload" = "ดาวน์โหลดแล้ว v%@";
+
+"firm_warning" = "คำเตือน";
+
+"firm_wwan" = "ยังไม่ได้เชื่อมต่อสัญญาณ  Wi-Fi  การดาวน์โหลดเฟิร์มแวร์ใช้งานแพคเกจอินเตอร์เนตมือถือจำนวนมาก ยืนยันดำเนินการต่อหรือไม่?";
+"firm_notDownload" = "ยกเลิก";
+"firm_continueDownload" = "ดาวน์โหลด";
+"firm_wifiWillDownload" = "เฟิร์มแวร์จะดาวน์โหลดเองอัตโนมัติเมื่อเชื่อมต่อสัญญาณ Wi-Fi.";
+"firm_willUpdateIn5s" = "กล้องจะอัพเกรดในอีก 5 วินาที.";
+"firm_mistake" = "ขัดข้อง";
+
+"firm_sure" = "ตกลง";
+"firm_prompt" = "แจ้งให้ทราบ";
+"firm_newFirmToUpdate" = "มีเฟิร์มแวร์เวอร์ชั่นใหม่ออกมาแล้ว ต้องการอัพเกรดหรือไม่?";
+"firm_nextTime" = "ภายหลัง";
+"firm_updateNow" = "อัพเดตทันที";
+"firm_downloadNow" = "ดาวน์โหลด";
+"firm_tryAgain" = "ลองอีกครั้ง";
+"firm_uploadAgain" = "ลองอีกครั้ง";
+"firm_help_message" = "การอัพเดทล้มเหลว โปรดอ่านหมายเหตุต่อไปนี้ก่อนเริ่มใหม่อีกครั้ง: \n\n 1. แบตเตอรี่กล้องต้องเหลือมากกว่า 50% ก่อนเริ่ม\n 2. ระหว่างการอัพเดท ต้องไม่ปิดกล้องหรือโหมด Wi-Fi ของกล้อง \n 3. วางโทรศัพท์และกล้องไว้ใกล้กัน \n 4. รอจนกว่าการอัพเกรดสิ้นสุดและกล้องจะปิดตัวเองโดยอัตโนมัติ \n \n โปรดอัพเดทเองสำหรับผู้ใช้ระบบ PC/Mac ผ่านลิงค์: http://www.xiaoyi.com/update/sports";
+
+"firm_goHelp" = "ดู Help";
+
+"firm_recommendDownload_message" = "ขอแนะนำให้อัพเกรดกล้องเวอร์ชั่นล่าสุด";
+"firm_forceUpdate_message" = "เตรียมการอัพเดตไฟล์เรียบร้อยแล้ว กำลังเริ่มต้นอัพเดตในอีกไม่กี่นาทีข้างหน้า";
+"firm_tip_message" = "การอัพเดทครั้งล่าสุดล้มเหลว โปรดอ่านข้อมูลเพิ่มเติมใน help";
+
+"firm_recommendUpdate_message" = "เตรียมการอัพเดตไฟล์เรียบร้อยแล้ว กำลังเริ่มต้นอัพเดตในอีกไม่กี่นาทีข้างหน้า";
+
+"firm_downloading" = "กำลังดาวน์โหลด...";
+
+"firm_finishDownloading" = "ดาวน์โหลดสำเร็จแล้ว โปรดเชื่อมต่อกล้อง";
+
+"firm_putFileFail" = "การอัพโหลดเฟิร์มแวร์ล้มเหลว";
+"firm_putFileFailToDo" = "ลองใหม่อีกครั้ง";
+"firm_updateFirmwareFail" = "การอัพเกรดเฟิร์มแวร์ล้มเหลว";
+
+"firm_wrongMD5" = "การยืนยัน Checksum ล้มเหลว โปรดดาวน์โหลดอีกครั้ง";
+"firm_finishDownloadShort" = "ดาวน์โหลดเสร็จสมบูรณ์ โปรดเชื่อมต่อกล้อง";
+"firm_no_infomation" = "คุณจะแนะนำให้อัพเกรดเป็น latestverison สำหรับการใช้งานปกติ. \ n กรุณาเปิดข้อมูลโทรศัพท์มือถือหรือใช้ Wi-Fi เพื่อเข้าถึงรุ่นล่าสุด";
+"firm_network_refresh" = "รีเฟรช";
+"firm_version_title" = "เวอร์ชัน: %@";
+"firm_pause_download" = "หยุดชั่วคราว";
+"setting_timeout" = "การตั้งเวลา";
+"unbind_bluetooth_failed" = "การปลดเชื่อมต่อบลูทูธล้มเหลว!";
+"unbind_bluetooth_succeeded" = "การปลดเชื่อมต่อบลูทูธสำเร็จ!";
+"unbind_bluetooth_unbinded" = "ไม่พบอุปกรณ์ที่จับคู่กัน.";
+
+
+/**
+ *  ywc ๆ‘่ชๅทฑ็ฟป็
+ */
+"new_noSound" = "ไม่มีเสียง ณ ค่าความละเอียดปัจจุบัน";
+"new_joinNow" = "เข้าร่วมทันที";
+"new_jump" = "ข้ามไป>>";
+
+"new_wechat" = "WeChat Session";
+
+"new_moments" = "WeChat Timeline";
+
+"new_collection" = "รายการโปรดใน Wechat";
+
+"new_weibo" = "Sina Weibo";
+"new_qq" = "QQ";
+"new_qzone" = "QZone";
+"new_more" = "เพิ่มเติม";
+"new_sharePhoto" = "แชร์รูปภาพ";
+
+"new_shareVideo" = "แชร์วีดีโอ";
+
+
+"lead_image_click_camera"         = "เชื่อมต่อกล้อง";
+"lead_image_file_manger"          = "แกลอรี่รูปภาพ";
+"lead_image_button_capture"       = "ปุ่มชัตเตอร์";
+"lead_image_button_record"        = "เริ่มต้นบันทึกภาพ";
+"lead_image_capture_model_change" = "เปลี่ยนโหมด";
+"lead_image_capture_model"        = "เดี่ยว,นับถอยหลัง,ถ่ายภาพอย่างช้าๆ และ Burst";
+
+"lead_image_record_model_change"  = "เปลี่ยนโหมด";
+"lead_image_record_model"         = "เดี่ยว,ถ่ายภาพอย่างช้าๆ, วีดีโอและรูปภาพ ";
+"lead_image_button_zhuapai"       = "ปุ่มแคพเชอร์";
+"lead_image_lead_message"         = "แคพเชอร์รูประหว่างบันทึกภาพ";
+"lead_image_mode_message"         = "เปลี่ยนโหมดทั้งหมดที่นี่";
+
+"3 minutes"         = "3 นาที";
+"5 minutes"         = "5 นาที";
+"10 minutes"        = "10 นาที";
+
+"Thank_you_for_your_corporation" = "ขอขอบคุณสำหรับ บริษัท ของคุณ";
+
+"timelapse_duration_title" = "ความยาวของวิดีโอ";
+"timelapse_interval_title" = " ช่วงเวลา";
+"timelapse_speed_massage"  = "%dX";
+"timelapse_shootingtime_off" = "ปิด";
+"timelapse_shootingtime_label" = "เวลาถ่ายภาพ: ";
+"timelapse_shootingtime_day" = "%ldD";
+"timelapse_shootingtime_hour" = "%ldH";
+"timelapse_shootingtime_minute" = "%ldM";
+"timelapse_shootingtime_second" = "%ldS";
+
+//自动取帧
+"auto_sample_title"       = "ไฮไลท์";
+"auto_sampling_uploading" = "อัพโหลด";
+"auto_sampling_checkInternet" = "กรุณาตรวจสอบการเชื่อมต่อเครือข่ายของคุณ";
+"auto_sampling_not_support" = "2Kวิดีโอที่ไม่สนับสนุน %@";
+
+"file_manager_loading_file" = "โหลดอัลบั้ม";
+
+"sns_login" = "เข้าสู่ระบบ";
+"sns_quit_login" = "ออกจากระบบ";
+"sns_sure_quit" = "แน่นอนว่าจะออกจากระบบ";
+"sns_xiaomi_login" = "Xiaomi บัญชีเข้าสู่ระบบ";
+
+"open_log_save_alert" = "คุณแน่ใจที่จะเปิดเข้าสู่ระบบกล้อง?";
+
+"connect_see_tutorial" = "ดูการสอน";
+
+"float_setting_countdown" = "นับถอยหลัง";
+"float_setting_frequency" = "ความถี่";

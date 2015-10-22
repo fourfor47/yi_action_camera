@@ -1,0 +1,867 @@
+/*
+ Localizable.strings
+ MoveApp
+ 
+ Created by li.gang on 14-4-24.
+ Copyright (c) 2014年 LG. All rights reserved.
+ */
+
+
+/**
+ *  Square
+ */
+"sns_home_found" = "Discover";
+
+"sns_video_download_file"           = "You haven't download any video from your camera yet.";
+"sns_video_mine"                    = "My video";
+"sns_error_get_user_info"           = "Fail to get profile data";
+"sns_loading"                       = "Loading...";
+"sns_recommend"                     = "Recommend";
+//"sns_second_square_failed_get" = "Request error %@ of The second square A";
+"sns_network_error"                 = "No network available";
+"sns_nothing_in_server"             = "No file in server";
+//"" = "You are not connectioned or Server is busy";
+"sns_hot_photo"                     = "Hot Photos";
+"sns_download_firmware_renew"       = "Download";
+"sns_cancel"                        = "Cancel";
+"sns_todo_download_firmware_renew"  = "Download firmware upgrade pack";
+"sns_camera_firmware_renew"         = "xiaoyiGuJian%@.bin";
+"sns_exit_firmware_renew_file"      = "Firmware upgrade pack existed, validating...";
+"sns_exit_connect_camera"           = "Firmware upgrade pack existed, connect camera and update";
+"sns_success"                       = "Complete";
+"sns_download_firmware_renew_again" = "Upgrade pack is corrupted, please try again";
+"sns_firmware_no_md5"               = "No MD5 found, download upgrade pack again";
+
+"sns_take_care"              = "Attention";
+"sns_download_alert_message" = "You are using cellular data. Download consumes data package";
+"sns_download_go_on"         = "Continue";
+"sns_download_cancel"        = "Cancel";
+
+"sns_no_network"                        = "No network";
+"sns_button_confirm"                    = "Confirm";
+"sns_unknow_network_link"               = "unknown network error";
+//"" = "Confirm";
+"sns_accomplish"                        = "Complete";
+"sns_can_not_link_server"               = "Server is busy, please try later";
+"sns_keep_live_download"                = "Downloading, please wait";
+"sns_failed_download_again"             = "Download failed, please try again";
+"sns_check_firmware_renew_file"         = "Data validating...";
+"sns_download_again"                    = "Download again";
+"sns_download_successed_connect_camera" = "Download completed, please connect camera and upgrade firmware";
+//"sns_download_file_destory_again" = "Installation pack is corrupted, please download again";
+"sns_unknow"                            = "oops, download file cannot be found";
+"sns_download_finish_not_save"          = "Download file cannot be stored";
+"sns_setting"                           = "Settings";
+"sns_have_new_edition"                  = "New Version";
+"sns_app_edition"                       = "App Version";
+"sns_firmware_edition"                  = "Firmware";
+"sns_firmware_download_title"           = "Firmware";
+"sns_firmware_last_connected_updated"   = "Last connected camera already updated to the latest firmware.";
+"sns_firmware_no_update"                = "No firmware update";
+"sns_firmware_ready"                    = "Latest firmware already downloaded\nConnect the camera and update";
+"sns_firmware_new"                      = "New update available";
+"sns_user_use_lead"                     = "User Manual";
+"sns_setting_feedback"                  = "Customer Service";
+"sns_setting_about"                     = "About US";
+"sns_edition_is_new"                    = "Your app is up to date";
+"sns_failed_network_is_bad"             = "Upgrade failed";
+"sns_failed_download_pic"               = "Photo download failed";
+"sns_normal_questions" = "FAQ";
+
+"sns_buy" = "Purchase";
+
+"sns_content_of_share"            = "Sharing";
+"sns_test"                        = "test";
+"sns_test_message"                = "This is a testing message";
+"sns_checkUpdates" = "Update checking";
+//"sns_no_network" = "Not network available";
+//"" = "Attention";
+"sns_alert_3g_network"            = "You are using cellular data now. Watching video consumes data package, continue?";
+//"" = "Continue";
+//"" = "Cancel";
+//"" = "Confirm";
+//"" = "Unknown network error";
+//"" = "Confirm";
+"sns_watch_finish_download_video" = "You are watching local video~";
+"sns_failed_create_video_file"    = "Fail to create video folder";
+"sns_video_file_exit"             = "Video existed";
+"sns_download_to_background"      = "Background downloading";
+"sns_download_progress"           = "%@Complete";
+"sns_alert_tapped_again"          = "You have clicked~~";
+"sns_already_download" = "File has existed in download list";
+"sns_noDownloading" = "No downloading";
+
+//"sns_no_network" = "No network";
+"sns_confirm" = "Confirm";
+//"" = "Unknown network error";
+//"" = "Confirm";
+
+"sns_more" = "More";
+//"" = "More";
+
+"sns_video_play_alert" = "Loading...";
+
+//"" = "You are not connected or Server is busy";
+//"" = "oops, download file cannot be found";
+"sns_file_all_video" = "All video";
+
+"sns_square_title"          = "Home";
+"sns_network_can_not_used"   = "No network";
+"sns_link_network_try_again" = "Please check network connection";
+"sns_try_again"              = "Retry";
+"sns_send_message_failed"    = "Current network is not available";
+"sns_classify"               = "Category";
+"sns_not_login"              = "Anonymous";
+"sns_login_button"           = "Login by click profile photo";
+//"" = "not login";
+//"" = "Login by clicking profile photo";
+"sns_content_personal"       = "My Camera Roll";
+"sns_download_management" = "Download manager";
+/**
+ *  引导页面
+ */
+"sns_header_one" = "Turn on Your Camera";
+"sns_header_two" = "Enable Camera Wi-Fi";
+"sns_header_three" = "Connect to Camera";
+"sns_detail_one" = "Press power button to turn camera on";
+"sns_detail_two" = "Press side button to enable camera Wi-Fi";
+"sns_detail_three" = "Connect to XiaoYi Camera Wi-Fi";
+"sns_next" = "Next";
+"sns_set" = "Go to System Settings";
+"sns_attention" = "Default Name is YDXJ + Last 7 digits of SN\n(SN can be found in battery compartments)\n Default password is 1234567890";
+"sns_phone_pic" = "ywc_en_iphone";
+"sns_attention_tail" = "\nWrong?";
+
+"sns_restore_tutor_title" = "Restore Factory Settings";
+"sns_restore_tutor_detail1" = "Long press %@ until hearing a beep.\nReconnect the camera after restart.\n\n\n%@";
+"sns_restore_tutor_key" = "Power and Wi-Fi";
+"sns_restore_tutor_detail2" = "Restore password: 1234567890\nRestore name: YDXJ + Last 7 SN digits\nSN can be found in battery compartment";
+/**
+ *  上拉刷新
+ */
+"refresh_FooterPullToRefresh" = "Slide up to load more";
+"refresh_Footer_All_Data_Loaded" = "All data was loaded";
+"refresh_FooterReleaseToRefresh" = "Release to load more";
+"refresh_FooterRefreshing" = "Loading...";
+"refresh_HeaderPullToRefresh" = "Slide down and refresh";
+"refresh_HeaderReleaseToRefresh" = "Release and refresh";
+"refresh_HeaderRefreshing" = "Refreshing...";
+
+/**
+ *  保存到相册
+ */
+"save_image_success" = "Saved to album";
+"save_image_notExist" = "Not photo existed";
+"save_image_fail" = "Photo save failed";
+"save_cannot_get" = "No permission";
+"save_saveBtn" = "Save";
+"save_toPhotoAlbum" = "Save to album";
+/**
+ *  意见反馈
+ */
+"feedback_contactWay" = "Contact:";
+"feedback_feedbackContent" = "Feedback:";
+"feedback_contactWayDetail" = "qq/email/cellphone";
+"feedback_feedbackContentDetail" = "Your advice";
+"feedback_cancel" = "Cancel";
+"feedback_submit" = "Submit";
+"feedback_submitSuccess" = "Submit success";
+"feedback_thanks" = "Your advice has been well received, we highly appreciate your opinion";
+"feedback_confirm" = "Confirm";
+"feedback_fail" = "Connection problem, submission failed";
+"feedback_failForOtherReasons" = "Fail, probably because of duplicated submission";
+
+"ywc_xiaoyi_qrcode" = "ywc_xiaoyi_qrcode_en";
+"ywc_step_one_scan" = "ywc_step_one_scan_en";
+"ywc_step_two_ablum" = "ywc_step_two_ablum_en";
+"ywc_step_three_public" = "ywc_step_three_public_en";
+
+"wechat_iknow_title" = "OK";
+/**
+ *  faq
+ */
+"faq_camera" = "Common";
+"faq_connection" = "Connection";
+"faq_takingPhotos" = "Photo/Video";
+"faq_battery" = "Battery";
+"faq_sdCard" = "SD Card";
+"faq_on_off" = "On/Off";
+"faq_others" = "Others";
+"faq_logo_title" = "FAQ";
+/**
+ *  快拍
+ */
+"original"    = "None";
+"brightbeau"  = "Brightbeau";
+"curvelevel"  = "Curvelevel";
+"deepquit"    = "Deepquit";
+"retro"       = "Retro";
+"sepia"       = "Sepia";
+"_8mmfilm"    = "film";
+"documentary" = "Documentary";
+"template"    = "Template";
+"effect"      = "Effect";
+"effect_edit_format_choose" = "Choose format";
+"effect_edit_format_MP4"    = "MP4 format";
+"effect_edit_format_GIF"    = "GIF format";
+"effect_edit_back_button"   = "Return";
+"effect_edit_share_button"  = "Sharing";
+"generate_MP4" = "Video generation";
+"generate_GIF" = "GIF generation";
+
+"effect_save_file_error"         = "Fail to retrieve album permission";
+"effect_save_file_error_message" = "Change settings in Setting-Privacy-Photo";
+"effect_save_file_error_cancel"  = "OK";
+
+"effect_shareVieo" = "Sharing is not currently supported";
+
+"effect_video_load_again" = "Reload Snapshot";
+
+"effect_not_support" = "Not currently supported ";
+
+
+/**
+ *  相机设置
+ */
+"tvVideoSetting" = "Video Settings";
+
+"setting_video"             = "Video";
+"setting_video_quality"     = "Video Quality";
+"setting_video_time_stamp"  = "Video Timestamp";
+"setting_video_resolution"  = "Video Resolution";
+"setting_video_standard"    = "Video Standard";
+"setting_meter_mode"        = "Metering Mode";
+
+"setting_photo"                 = "Photo";
+"setting_photo_size"            = "Photo Resolution";
+"setting_capture_default_mode"  = "Default Photo Mode";
+"setting_system_default_mode"   = "Default Start-up Mode";
+"setting_photo_stamp"           = "Photo Timestamp";
+
+"setting_camera"                  = "Camera";
+"setting_preview_status"          = "Live Preview";
+"setting_auto_low_light"          = "Auto Low Light";
+"setting_loop_record"             = "Loop Recording";
+"setting_warp_enable"             = "Lens Aberration Correction";
+"setting_start_wifi_while_booted" = "Wi-Fi Start-up";
+"setting_av_output"               = "AV Output";
+"setting_video_rotate"            = "Image Reversal";
+"emergency_file_backup"           = "Emergency Backup";
+"setting_buzzer_volume"           = "Camera Volume";
+"setting_default_record_mode"     = "Default Record Mode";
+"setting_wifi"                    = "Wi-Fi Settings";
+"setting_led_mode"                = "LED Mode";
+"setting_camera_clock"            = "Camera Clock";
+"setting_auto_power_off"          = "Auto Power-Off";
+
+"setting_device" = "Device";
+//"setting_bluetooth"                = "Accessories";
+"setting_hw_version"               = "Camera Version";
+"setting_serial_number"            = "Serial Number";
+"setting_sw_version"               = "Firmware Version";
+"setting_sdcard"                   = "MicroSD Card";
+"setting_buzzer_ring"              = "Find Camera";
+"setting_restore_factory_settings" = "Restore Factory Settings";
+"setting_save_log"                 = "Camera log";
+"setting_failed"                   = "Setting Failed";
+"setting_unsupported_resolution"   = "Auto Low Light is not available for current video resolution.";
+
+"format_SD_error" = "You have downloads currently, do you want to reformat the MicroSD Card?";
+
+/**
+ *  相机设置参数
+ */
+"videoquality_fine"      = "Medium";
+"videoquality_superfine" = "High";
+"videoquality_normal"    = "Low";
+"auto_low_light"         = "Auto Low Light";
+"loop_record"            = "Loop Recording";
+"wrap_enable"            = "Lens Aberration Correction";
+"set_on"                 = "Turn on";
+"set_off"                = "Disable";
+"date"                   = "Date";
+"date_and_time"          = "Date/Time";
+"time"                   = "Time";
+"buzzer_volume_high"     = "High";
+"buzzer_volume_low"      = "Low";
+"buzzer_volume_mute"     = "Mute";
+"second"                 = "s";
+"pic_second"             = "p/s";
+"pic_two_second"         = "p/2s";
+"single_pic"             = "Photo";
+"nomal_pic"              = "Photo";
+"cont_pic"               = "Burst Mode";
+"time_lapes_photo"       = "Time-lapse";
+"time_lapse_pic"         = "Time-lapse Mode";
+"keep_cont_pic"          = "Burst Shot";
+"meter_spot"             = "Spot Metering";
+"meter_center"           = "Center Metering";
+"meter_average"          = "Average Metering";
+"meter_manual"           = "Manual Metering";
+"led_all_enable"         = "Enable All";
+"led_all_disable"        = "Disable All";
+"led_status_enable"      = "Only Status LEDs";
+"sd_hc"                  = "Normal Speed Card";
+"sd_xc"                  = "High Speed Card";
+"none"                   = "Unknown Type";
+"sd_error"               = "No Card";
+"record"                 = "Video";
+"capture"                = "Photo";
+
+"sdcard_size"           = "%@ available / %@ total";
+"sdcard_size_available" = "Available";
+"sdcard_size_total"     = "Total";
+
+"camera_setting_alertlabel"   = "Setting...";
+"camera_setting_alertmessage" = "Restart the camera after hearing three beeps";
+
+
+
+/**
+ *  相机连接过度界面
+ */
+"camera_connect_head_label"  = "Connect";
+"camera_connect_alert_label" = "Please wait...";
+"camera_connect_back_button" = "Back";
+
+"camera_connect_failed_search"        = "Connection Failed";
+"camera_connect_failed_label_message" = "Please reconnect until Wi-Fi light flashing blue";
+"camera_connect_failed_again"         = "Reconnect";
+"camera_connect_failed_by_other"      = "Already connected by another Phone";
+"camera_connect_failed"      = "Connection Failed";
+"camera_connect_failed_back_square"   = "Back to Home";
+
+
+"camera_connect_button" = "Connect to Camera";
+
+
+/**
+ *  Wifi界面
+ */
+"wifi_name_label"                  = "Name:";
+"wifi_name_placeholder"            = "Enter Wi-Fi name";
+"wifi_password_lalbel"             = "Password:";
+"wifi_password_placeholder"        = "Enter Wi-Fi password";
+"wifi_password_show_label"         = "Show password";
+"wifi_alert_nothing_change"        = "No Modification ";//iOS专有
+"wifi_alert_enter_right_name"      = "Wi-Fi name only supports 1-32 characters";
+//"wifi_alert_name_count_failed"     = "Wrong digit for Wi-Fi name";
+"wifi_alert_enter_right_password"  = "Password only supports 8-64 characters";
+//"wifi_alert_password_count_failed" = "Wrong digit for Wi-Fi password";
+"wifi_alert_restart_wifi"          = "Automatically restart Wi-Fi after Wi-Fi information modified, continue?";
+"wifi_camera_state_message"        = "Camera may be in video status, cannot be set now";
+"wifi_content_alter_success"       = "Wi-Fi information is modified successfully, please reconnect the camera.";
+
+/**
+ *  ShareSDK分享
+ */
+"share_iWantToShare" = "I found a very interesting content at XiaoYi Square";
+"share_myShare" = "My share of XiaoYi action camera";
+"share_opening" = "Opening the App";
+"share_success" = "Share successfully";//国际化
+"share_fail" = "Failed to share ";//国际化
+"share_fail_code" = "Wrong code";//国际化Y
+"share_fail_desc" = "Error description";//国际化
+"share_local_video" = "Local video sharing is not supported";
+
+/**
+ *  固件升级
+ */
+"camera_firmware_upgrade"            = "Firmware Update";
+"please_select_wifi"                 = "Select Wi-Fi";
+"wifi_password_hint"                 = "Please enter Wi-Fi Password";
+"no_new_version"                     = "Latest version already";
+"no_new_firmware_version"            = "Latest version already";
+"firmware_download_failed"           = "Failed to download upgrades!";
+"firmware_upgrade_switch_wifi"       = "Switching Wi-Fi...";
+"firmware_upgrade_download_firmware" = "Downloading Firmware...";
+"firmware_upgrade_tip"               = "Uploading camera, please do not turn off the camera Wi-Fi";
+"sure_to_cancel_firmware_upgrade"    = "Confirm to cancel camera upgrade?";
+"should_connect_to_outside_wifi"     = "Camera Upgrade needs internet connection, confirm to disconnect the camera?";
+"video_ratio"                        = "4:3";
+"video_format"                       = "MP4";
+"new_video"                          = "New Snapshot Video";
+"video_filter"                       = "Filter";
+"video_musicbg"                      = "Music";
+"firmware_no_sdcard"                 = "Please insert SD card";
+
+
+
+
+/**
+ *  相机模式
+ */
+"tvRecordMode"     = "Video";
+"tvQuickShotMode"  = "Snapshot";
+"tvPhotographMode" = "Photo";
+
+
+/**
+ *  相机、手机状态显示
+ */
+"caera_battery_level" = "Camera Battery ";
+"phone_battery_level" = "Phone Battery";
+
+
+/**
+ *  相机的主要活跃状态
+ */
+"camera_activity_mode_record"     = "Video";
+"camera_activity_mode_quick_shot" = "Snapshot";
+"camera_activity_mode_photograph" = "Photo";
+
+
+
+"alert_user_label"          = "Double tap to back to Camera Preview";
+"photo_edit_download_label" = "Download";
+"photo_edit_delete_label"   = "Delete";
+"photo_edit_edit_label"     = "Edit";
+"photo_button_cancel"       = "Cancel";
+"photo_choose_count"        = "1 Selected";
+
+
+/**
+ *  相机拍照模式
+ */
+"tv_normal"    = "Photo";
+"tv_timelapes" = "Time-lapse";
+"tv_timer"     = "Timer";
+"tv_burst"     = "Burst";
+
+"tv_record_normal"     = "Video";
+"tv_record_time_lapse"     = "Time-lapse";
+"tv_record_photo"     = "+Photo";
+
+/**
+ * 文件管理
+ */
+"tvPhoto"    = "Photo";
+"tvVideo"    = "Video";
+"tvDownLoad" = "Download";
+
+"camer_file_loading_not_delete" = "Downloading, Pause First";
+
+
+"camer_file_downloading" = "Downloading";
+"camer_file_downloaded"  = "Downloaded";
+
+"camer_file_downloading_exit_or_not"  = "Downloading will Paused, Exit？";
+
+
+"camera_file_no_photo"            = "No Photo";
+"camera_file_no_video"            = "No Video";
+"camera_file_get_file"            = "Loading...";
+"camera_file_SDCard_remove"       = "SD Card Removed";
+"camera_file_not_support_effect"  = "Edit not Available";
+"camera_file_selected"            = "%d Selected";
+"camera_file_can_select"          = "Select File";
+"camera_file_have_download_photo" = "Some Photos are Already Downloaded";
+"camera_file_select_is_download"  = "Some Photos are Downloading";
+"camera_file_video_is_download"   = "Video files are being downloaded";
+"camera_file_video_delete_loading"= "Files were Downloading, Delete?";
+//"camera_file_not_delete"          = "Cancel";
+//"camera_file_sure_delete"         = "Delete";
+"camera_file_not_delete"          = "Cancel";
+"camera_file_sure_delete"         = "Delete";
+
+"camera_http_wwan_alert_message"  = "If preview and download is not working, please turn off the cellular network and try again.";
+
+"camera_download_file_cancel_button" = "Cancel";
+
+"camera_file_video_formate" = "Video Format";
+"camera_file_video_cancel"  = "Back";
+"camera_file_video_high"    = "High Resolution";
+"camera_file_video_middle"  = "Low Resolution";
+
+"camera_file_download_add"  = "Add to Download";
+"camera_file_download_exit" = "Saving";
+"camera_file_download"      = "Saved";
+"file_deleted_loading"      = "Downloads ";
+"camera_file_download_error"= "No Enough Space on Phone";
+"camera_file_system_space"  = "%@ Free, %@ Total";
+
+"camera_file_video_not_suport_play" = "This File is not support play";
+"camera_file_save_video_failed" = "Saving this video to Album is not supported on %@. You can find it in My Camera Roll.";
+
+
+
+/**
+ *  相机界面
+ */
+"camera_main_caching"                     = "Caching";
+"camera_main_piv_complete"                = "Capture succeed";
+"camera_main_piv_failed"                  = "Capture failed";//?
+"camera_main_prompt"                      = "Notice";
+"camera_main_sure_disconnect_from_camera" = "Are your sure to disconnect from camera？";
+"camera_main_disconnect_yes"              = "Yes";
+"camera_main_disconnect_no"               = "No";
+"camera_main_not_exit_SD_card"            = "No SD card";
+
+"camera_main_set_model_defeat"            = "Set mode failed";
+
+
+/**
+ *  相机工作状态
+ */
+"camera_take_photo_timelapse" = "Time-lapsing";//?
+"camera_take_photo_burst"     = "Bursting";
+"camera_take_photo_normal"    = "Photoing";
+"camera_take_photo_timing"    = "Timing";
+
+"camera_camera" = "Camera";
+
+
+
+/**
+ *  相机错误返回信息
+ */
+"camera_error_unknow"             = "Unknown error";
+"camera_error_session"            = "Session error";
+"camera_error_token"              = "Token error";
+"camera_error_no_more_space"      = "No space left on SD card";
+"camera_error_no_more_save_space" = "No space left on phone";
+"camera_error_system_busy"        = "System busy";
+"camera_error_no_sd_card"         = "No SD card";
+
+"camera_error_save_error"       = "Save error";
+"camera_error_sd_hc"            = "Low speed SD card";
+"camera_error_index_limit"      = "Index limit";
+"camera_error_file_limit"       = "File limit";
+"camera_error_sd_card_remove"   = "SD card removed";
+"camera_error_sd_card_inserd"   = "SD card inserted";
+"camera_error_piv_error"        = "Current resolution is not support for capture";
+"camera_error_sd_card_not_exit" = "No SD card";
+
+"camera_error_sd_card_not_support" = "SD card less than 4G is not supported";
+
+
+
+
+
+
+
+/**
+ *  父类VC提示
+ */
+
+"camera_enter_usb_storage" = "USB Storage Mode";
+//title
+"Back" = "Back";
+"Home" = "Home";
+"OK" = "OK";
+"Nothing" = "No File";
+"Notice" = "Notice";
+"Cancel" = "Cancel";
+"Save" = "Save";
+"Edit" = "Edit";
+"Square" = "Square";
+"Camera" = "Camera";
+"TakePhoto" = "Photo";
+"Cameras" = "Cameras";
+"All_Select" = "Select All";
+"No_Select" = "Inverse";
+"Me" = "Me";
+"FileManage" = "File Manage";
+"LocalFile" = "LocalFile";
+"EquipManage" = "Equip Manage";
+"SDCard" = "SD Card";
+"Setting" = "Settings";
+"Manager" = "Manager";
+
+// Operation
+"TryAgain" = "Try Again";
+"DeleteConfirm" = "Are you sure to delete this file？";
+"FormatSDCard" = "Format SD card";
+"Format SDCard or not" = "Are you sure to format SD card?";
+"TotalCapacity" = "Total capacity";
+"AvailableCapacity" = "Available capacity";
+"SDCardCapacity" = "SD card";
+"Camert Time" = "Camera time";
+"Same Time" = "Set date and time";
+
+"video_quality" = "Video quality";
+"video_stamp" = "Video stamp";
+"video_resolution" = "Video resolution";
+"video_standard" = "Video format";
+"meter_mode" = "Metering mode";
+"photo_size" = "Photo resolution";
+"capture_default_mode" = "Default Capture Mode";
+"photo_stamp" = "Photo Stamp";
+"capture_mode" = "Capture Mode";
+"buzzer_volume" = "Buzzer Volume";
+"precise_cont_time" = "Delay of taking photo with timer";
+"burst_capture_number" = "Number of burst shots";
+"restore_factory_settings" = "Restore factory settings";
+"led_mode" = "LED Mode";
+"usb_storage_enable" = "Enable USB Storage";
+
+"serial_number" = "Serial Number";
+"Preview Switch" = "Preview Switch";
+"CameraSetting" = "Camera Settings";
+
+"Single" = "Single";
+"Continu" = "Burst";
+"Delay" = "Countdown";
+
+"FailedToStart" = "1. Please enable camera Wi-Fi;\n\n2. Please make sure your phone connected to camera Wi-Fi;\n\n3. Make sure no one else is connecting to your camera;\n\n4. Please restart your camera while fail to connect within 30 seconds.\n\n";
+
+"NetFail" = "Fail to Connect camera Wi-Fi, please checkout Wi-Fi status of your camera.";
+"Photo" = "Photo";
+"Vidoe" = "Video";
+"Download" = "Download";
+"SettingSuccess" = "Change settings successfully";
+"SettingFailed" = "Fail to change settings";
+"operation_failed" = "Operation failed";
+
+//tips
+
+"Camera Recording" = "Recording video";
+"Taking Photo" = "Taking photo";
+
+"PleaseCloseTheCamera" = "Please stop recording video";
+"PleaseStopPhoto" = "Please stop taking photo";
+"Preview is Closed" = "Preview Video Disabled";
+"Precise Quality Conting" = "Taking time-lapse photos...";
+"Burst Quality photoing" = "Taking burst shots...";
+"Timelapse Record" = "Recording time-lapse video...";
+
+"Does not support Preview" = "Current resolution doesn't support preview.";
+"Resolution not support Capture" = "Current resolution doesn't support snapshot.";
+"not_support_automatic_low_light" = "Current resolution doesn't support auto low light.";
+
+
+"file_saving" = "Saving file";
+
+
+
+"TFCardIsFull" = "SD card full";
+"stdDefVideo" = "No Preview Video";
+
+"This resolution video no preview and side stream" = "Current resolution has no side stream nor preview video.";
+
+"no preview" = "No Preview";
+
+
+"This resolution has no side stream video" = "Current resolution has no side stream video";
+
+
+
+//UI title
+"Connect Success" = "Connection Succeed";
+"Connect failed" = "Connection Failed";
+"Connectting" = "Connecting";
+
+
+"VidoeMode" = "Video Mode";
+"PhotoMode" = "Photo Mode";
+
+"Photo Success" = "Take photo successfully";
+"Photo Failed" = "Fail to take photo";
+"No File" = "File not exist.";
+"Delete" = "Delete";
+"Deleteing" = "Deleting";
+
+"System Busy" = "System Busy";
+"Clear Cache" = "Clear Cache";
+
+"Saving" = "Saving";
+"Finished" = "Done";
+
+"Find Camera" = "Searching Camera";
+"Camera connection failed, please check your WiFi connection is normal" = "Fail to connect camera, please checkout your Wi-Fi settings.";
+"No Select File" = "No file selected";
+"Delete Success" = "Delete succeed";
+"Delete Failed" = "Delete failed";
+"Restore Factory Or Not ?" = "Are you sure to restore factory settings?";
+"Unbind bluetooth controller Or Not ?" = "Are you sure to unbind all Bluetooth devices?";
+"Time synchronous camera" = "Are you sure to sync time of camera?";
+"btc_delete_all_binded_dev" = "Unbind Bluetooth devices";
+"Fetch log from camera" = "Download log from camera or not?";
+"Upload_camera_log" = "OK Upload camera log?";
+
+
+"Wifi Message" = "Wi-Fi Settings";
+"Confirm ?" = "Do you confirm the setting?";
+"Restart Camera ?" = "Are you sure to restart camera?";
+"SDCardType" = "SD card type";
+"SDCardSpeed" = "SD card testing";
+"SD Card remove" = "SD card removed";
+"SD Card insert" = "SD card inserted";
+"video_output_dev_type" = "Video output mode";
+"Please Click To Get" = "Click to get";
+"Speeding" = "Testing speed";
+"Version information" = "Version";
+"Hardware Version" = "Firmware version";
+"Software Version" = "Software version";
+
+"warp_enable" = "Enable lens distortion correction";
+"start_wifi_while_booted" = "Start Wi-Fi after system booted.";
+"auto_power_off" = "Auto power off";
+
+// alert tips
+"video_record_complete" = "End recording";
+"start_video_record" = "Start recording";
+"No SDCard" = "SD card doesn't exist";
+"Photo Start" = "Start to take photo";
+//请求返回提示
+"SDCard-16K" = "SD card formatting error, re-formatted?";
+
+"Failed" = "Failed";
+"Success" = "Succeed";
+"Loading" = "Loading";
+"Get Wifi Failed" = "Unable to get Wi-Fi information";
+
+"Command Failed" = "Command return failure.";
+
+
+
+
+
+//相机参数转化值
+"on" = "ON";
+"off" = "OFF";
+"S.Fine" = "High";
+"Fine" = "Medium";
+"Normal" = "Low";
+"date/time" = "Date/Time";
+"high" = "High";
+"low" = "Low";
+"mute" = "Mute";
+"center" = "Center-weighted Metering";
+"average" = "Average Metering";
+"spot" = "Spot Metering";
+"precise quality" = "Single";
+"precise quality cont." = "Time-lapse";
+"precise self quality" = "Timer";
+"burst quality" = "Burst";
+"status_error" = "Error occurred when query SD card status";
+"slot_error" = "System Error";
+"all enable" = "Enable all LEDs";
+"all disable" = "Disable all LEDs";
+"status enable" = "Enable status LEDs";
+
+"firm_upload_percentage" = "%.0f%% uploaded";
+"firm_diary" = "Upgrade Notice";
+"firm_startUpdate" = "Upload firmware to camera";
+"firm_updating" = "Upload the firmware,\nplease keep camera close to phone";
+"firm_connecting" = "Ready to upload, connecting";
+"firm_start_fw_update" = "Start to upgrade";
+"firm_not_supported" = "Hardware not supported";
+"firm_quit" = "Updating now, please wait";
+"firm_error_unknownError" = "IO exception when renaming file";
+"firm_error_invalidParam" = "Invalid parameters";
+"firm_error_invalidPath" = "Invalid path";
+"firm_error_cardNotExist" = "SD card doesn't exist.";
+"firm_error_title" = "Error occurred when upgrading firmware";
+"firm_success_title" = "Succeed";
+"firm_success_message" = "The camera will beep while updating.\nWhen updating completed, \nthe camera will shut down automatically.";
+"firm_alreadyNewest" = "No need to upgrade.";
+"firm_lowBattery" = "Camera's currently at low battery, please connect to power before upgrade.";
+
+"firm_unsupported" = "Camera Firmware Upgrade";
+"firm_finishDownload" = "v%@ downloaded";
+"firm_warning" = "Warning";
+"firm_wwan" = "Wi-Fi network is not currently connected, download firmware will generate data traffic, are you sure to continue?";
+"firm_notDownload" = "Cancel";
+"firm_continueDownload" = "Download";
+"firm_wifiWillDownload" = "Firmware will be auto-downloaded when connecting Internet Wi-Fi.";
+"firm_willUpdateIn5s" = "Camera'll upgrade within 5 seconds.";
+"firm_mistake" = "Error";
+"firm_sure" = "OK";
+"firm_prompt" = "Notice";
+"firm_newFirmToUpdate" = "New Firmware has been released, do you want to upgrade?";
+"firm_nextTime" = "Next Time";
+"firm_updateNow" = "Update Now";
+"firm_downloadNow" = "Download";
+"firm_tryAgain" = "Try Again";
+"firm_uploadAgain" = "Try Again";
+"firm_help_message" = "It is detected that last update failed, please read following notes before try again:\n\n1. Make sure that your camera is at least 50% charged\n2. Do not power off camera or camera Wi-Fi\n3. Keep the camera close to your phone\n4. Be patient until upgrade completes and the camera turns off\n\nWe also suggest you update manually by PC/Mac\nGuide link: http://www.xiaoyi.com/update/sports";
+"firm_goHelp" = "See Help";
+"firm_recommendDownload_message" = "You are recommended to upgrade your camera to the latest version.";
+"firm_forceUpdate_message" = "Camera update file prepared, the process takes only few minutes.";
+"firm_tip_message" = "Last update failed, you can see help for more information.";
+"firm_recommendUpdate_message" = "Camera update file prepared, the process takes only few minutes.";
+"firm_downloading" = "Downloading...";
+"firm_finishDownloading" = "Please connect camera";
+"firm_putFileFail" = "Upload firmware failed";
+"firm_putFileFailToDo" = "Please try again";
+"firm_updateFirmwareFail" = "Firmware upgrade failed";
+"firm_wrongMD5" = "Checksum verification error, please download again.";
+"firm_finishDownloadShort" = "Download completed";
+"firm_no_infomation" = "You are recommended to upgrade to latestverison for normal use.\nPlease turn on cellular data or use Wi-Fi to access the latest version.";
+"firm_network_refresh" = "Refresh";
+"firm_version_title" = "Version: %@";
+"firm_pause_download" = "Pause";
+"setting_timeout" = "Timeout Setting";
+"unbind_bluetooth_failed" = "Unbind failed!";
+"unbind_bluetooth_succeeded" = "Unbind succeeded!";
+"unbind_bluetooth_unbinded" = "No paired device exists.";
+
+/**
+ *  ywc 我自己翻的
+ */
+"new_noSound" = "Current resolution no audio.";
+"new_joinNow" = "Join now";
+"new_jump" = "Jump >>";
+"new_wechat" = "WeChat Session";
+"new_moments" = "WeChat Timeline";
+"new_collection" = "Wechat Favorites";
+"new_weibo" = "Sina Weibo";
+"new_qq" = "QQ";
+"new_qzone" = "QZone";
+"new_more" = "More";
+"new_sharePhoto" = "Photo Sharing";
+"new_shareVideo" = "Video Sharing";
+
+
+
+
+
+
+"lead_image_click_camera"         = "Connect Camera";
+"lead_image_file_manger"          = "Gallery";
+"lead_image_button_capture"       = "Shutter Button";
+"lead_image_button_record"        = "Start to Record";
+"lead_image_capture_model_change" = "Mode Switch";
+"lead_image_capture_model"        = "Single,Count-down,Time-lapse&Burst";
+"lead_image_record_model_change"  = "Mode Switch";
+"lead_image_record_model"         = "Single,Time-lapse,Video+Photo";
+"lead_image_button_zhuapai"       = "Snapshot";
+"lead_image_lead_message"         = "Capture photo during recording";
+"lead_image_mode_message"         = "All mode switch here";
+
+"3 minutes"         = "3 minutes";
+"5 minutes"         = "5 minutes";
+"10 minutes"        = "10 minutes";
+
+"Thank_you_for_your_corporation" = "Thank you for your corporation";
+
+"timelapse_duration_title" = "Video Length";
+"timelapse_interval_title" = " Time Interval";
+"timelapse_speed_massage"  = "%dX";
+"timelapse_shootingtime_off" = "OFF";
+"timelapse_shootingtime_label" = "Shooting Time: ";
+"timelapse_shootingtime_day" = "%ldD";
+"timelapse_shootingtime_hour" = "%ldH";
+"timelapse_shootingtime_minute" = "%ldM";
+"timelapse_shootingtime_second" = "%ldS";
+
+//自动取帧
+"auto_sample_title"       = "Highlights";
+"auto_sampling_uploading" = "Uploading";
+"auto_sampling_checkInternet" = "Please check your network connection";
+"auto_sampling_not_support" = "2K videos don't support %@ yet";
+
+"file_manager_loading_file" = "Loading Album";
+
+"sns_login" = "Log in";
+"sns_quit_login" = "Log out";
+"sns_sure_quit" = "Sure to log out";
+"sns_xiaomi_login" = "Xiaomi account Login";
+
+"open_log_save_alert" = "Are you sure to turn on the camera log?";
+
+"connect_see_tutorial" = "See Tutorial";
+
+"float_setting_countdown" = "Countdown";
+"float_setting_frequency" = "Frequency";

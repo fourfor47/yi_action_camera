@@ -1,0 +1,910 @@
+/*
+ Localizable.strings
+ MoveApp
+ 
+ Created by li.gang on 14-4-24.
+ Copyright (c) 2014Âπ?LG. All rights reserved.
+ */
+
+
+/**
+ *  Square
+ */
+"sns_home_found" = "Temukan";
+
+"sns_video_download_file"           = "Anda belum mengunduh video apapun dari kamera anda.";
+"sns_video_mine"                    = "Video Saya";
+"sns_error_get_user_info"           = "Gagal untuk mendapatkan profil data";
+"sns_loading"                       = "Memuat...";
+"sns_recommend"                     = "Rekomendasi";
+//"sns_second_square_failed_get" = "Permohonan gagal";
+"sns_network_error"                 = "Jaringan tidak tersedia";
+"sns_nothing_in_server"             = "Tidak ada dokumen dalam server";
+//"" = "Anda tidak terhubung dengan jaringan atau jaringan sedang sibuk";
+"sns_hot_photo"                     = "Foto Terbaru";
+"sns_download_firmware_renew"       = "Download";
+"sns_cancel"                        = "Batalkan";
+"sns_todo_download_firmware_renew"  = "Download firmware dan perbaharui";
+"sns_camera_firmware_renew"         = "xiaoyiGuJian%@.bin";
+"sns_exit_firmware_renew_file"      = "Versi baru Firmware sudah tersedia, perbarui dan validasi";
+"sns_exit_connect_camera"           = "Versi baru Firmware sudah tersedia,sambungkan kamera dan perbarui";
+"sns_success"                       = "Selesai";
+"sns_download_firmware_renew_again" = "Tidak berhasil diperbarui ke versi baru, silahkan coba kembali";
+"sns_firmware_no_md5"               = "MD5 tidak ditemukan, silahkan download verse baru kembali";
+
+"sns_take_care"              = "Perhatian";
+"sns_download_alert_message" = "Anda menggunakan data internet dari handphone anda. Perhatikan bahwa proses download akan memakan banyak kuota internet";
+"sns_download_go_on"         = "Lanjutkan";
+"sns_download_cancel"        = "Batalkan";
+
+"sns_no_network"                        = "Tidak ada jaringan";
+"sns_button_confirm"                    = "Konfirmasi";
+"sns_unknow_network_link"               = "Jaringan gagal";
+//"" = "Konfirm";
+"sns_accomplish"                        = "Selesai";
+"sns_can_not_link_server"               = "Server sibuk, silahkan coba kembali";
+"sns_keep_live_download"                = "Proses Download, silahkan tunggu";
+"sns_failed_download_again"             = "Download gagal, silahkan coba kembali";
+"sns_check_firmware_renew_file"         = "Proses validasi data...";
+"sns_download_again"                    = "Download kembali";
+"sns_download_successed_connect_camera" = "Download selesai, silahkan hubungkan kamera dan perbarui Firmware";
+//"sns_download_file_destory_again" = "Versi baru yang tidak dapat digunakan, silahkan coba kembali";
+"sns_unknow"                            = "oops, file yang didownload tidak dapat ditemukan";
+"sns_download_finish_not_save"          = "File yang didownload tidak dapat disimpan";
+"sns_setting"                           = "Pengaturan";
+"sns_have_new_edition"                  = "Versi Baru";
+"sns_app_edition"                       = "Appikasi versi baru";
+"sns_firmware_edition"                  = "Firmware";
+"sns_firmware_download_title"           = "Firmware";
+"sns_firmware_last_connected_updated"   = "Kamera yang terakhir terhubung telah berhasil diperbarui dengan Firmware versi terbaru.";
+"sns_firmware_no_update"                = "Tidak ada versi Firmware terbaru";
+"sns_firmware_ready"                    = "Firmware terbaru telah didownload, sambungkan kamera dan perbarui";
+"sns_firmware_new"                      = "Versi terbaru sudah tersedia";
+"sns_user_use_lead"                     = "Panduan penggunaan";
+"sns_setting_feedback"                  = "Customer Service";
+"sns_setting_about"                     = "Tentang Kami";
+"sns_edition_is_new"                    = "Applikasi anda sudah diperbarui";
+"sns_failed_network_is_bad"             = "Anda gagal memperbarui versi terbaru";
+"sns_failed_download_pic"               = "Foto gagal didownload";
+"sns_normal_questions" = "FAQ";
+
+"sns_buy" = "Purchase";
+
+"sns_content_of_share"            = "Sebarkan";
+"sns_test"                        = "tes";
+"sns_test_message"                = "ini adalah pesan percobaan ";
+"sns_checkUpdates" = "Cek versi terbaru";
+//"sns_no_network" = "Tidak ada jaringan tersedia";
+//"" = "Perhatian ";
+"sns_alert_3g_network"            = "Anda menggunakan data internet dari handphone anda. Menonton video akan memakan banyak kuota internet, lanjutkan ? ";
+//"" = "Lanjutkan";
+//"" = "Batalkan";
+//"" = "Konfirm";
+//"" = "Jaringan gagal tidak ketahui";
+//"" = "Konfirm";
+"sns_watch_finish_download_video" = "Anda sedang menonton video lokal~";
+"sns_failed_create_video_file"    = "Gagal membuat folder video";
+"sns_video_file_exit"             = "Video sudah tersedia";
+"sns_download_to_background"      = "Download latar belakang";
+"sns_download_progress"           = "%@Selesai";
+"sns_alert_tapped_again"          = "Anda telah memilih~~";
+"sns_already_download" = "File tersedia di daftar download";
+"sns_noDownloading" = "Tidak ada proses download";
+
+//"sns_no_network" = "Tidak ada jaringan ";
+"sns_confirm" = "Konfirm";
+//"" = "Jaringan gagal tidak ketahui";
+//"" = "Konfirm";
+
+"sns_more" = "Lainnya";
+//"" = "Lainnya";
+
+"sns_video_play_alert" = "Memuat…";
+
+//"" = "Koneksi gagal atau server sedang sibuk";
+//"" = "oops, file yang didownload tidak dapat ditemukan";
+"sns_file_all_video" = "Semua video";
+
+"sns_square_title"          = "Beranda";
+"sns_network_can_not_used"   = "Tidak ada jaringan";
+"sns_link_network_try_again" = "Silahkan cek koneksi jaringan";
+"sns_try_again"              = "Coba Kembali";
+"sns_send_message_failed"    = "Jaringan tidak tersedia sekarang";
+"sns_classify"               = "Kategori";
+"sns_not_login"              = "Anonim";
+"sns_login_button"           = "Login dengan klik pada foto profile";
+//"" = "belum login";
+//"" = "Login dengan klik pada foto profile";
+"sns_content_personal"       = "Foto dari kamera saya";
+"sns_download_management" = "Pengaturan Download ";
+/**
+ *  ÂºïÂØºÈ°µÈù¢
+ */
+"sns_header_one" = "Hidupkan kamera anda";
+"sns_header_two" = "Hidupkan Wi-Fi kamera anda";
+"sns_header_three" = "Hubungkan dengan kamera";
+"sns_detail_one" = "Tekan tombol power untuk menghidupkan kamera anda";
+"sns_detail_two" = "Tekan tombol yang ada disamping untuk menghidupkan Wi-Fi Kamera";
+"sns_detail_three" = "Hubungkan dengan Wi-Fi Kamera XiaoYi";
+"sns_next" = "Selanjutnya";
+"sns_set" = "Kunjungi Pengaturan Sistem";
+"sns_attention" = "Nama dasar adalah YDXJ + 7 angka dari SN\nPassword dasar is 1234567890";
+"sns_phone_pic" = "ywc_en_iphone";
+"sns_attention_tail" = "\nSalah?";
+
+"sns_restore_tutor_title" = "Kembalikan ke Pengaturan Awal";
+"sns_restore_tutor_detail1" = "Tekan lama pada %@  sampai anda mendengar bunyi beep.\nHubungkan kamera kembali setelah proses restart.\n\n\n%@";
+"sns_restore_tutor_key" = "Power dan Wi-Fi";
+"sns_restore_tutor_detail2" = "Kembalikan password: 1234567890\nKembalikan nama: YDXJ 7 angka dari SN/n dapat ditemukan di baterai";
+/**
+ *  ‰∏äÊãâÂà∑Êñ∞
+ */
+"refresh_FooterPullToRefresh" = "Geser keatas untuk melihat lebih";
+"refresh_Footer_All_Data_Loaded" = "Semua data sudah ditampilkam";
+"refresh_FooterReleaseToRefresh" = "Lepaskan untuk memuat lebih";
+"refresh_FooterRefreshing" = "Memuat…";
+"refresh_HeaderPullToRefresh" = "Geser kebawah dan refresh";
+"refresh_HeaderReleaseToRefresh" = "Lepaskan dan refresh";
+"refresh_HeaderRefreshing" = "Refreshing...";
+
+/**
+ *  ‰øùÂ≠òÂà∞Áõ∏ÂÜ? */
+"save_image_success" = "Simpan foto ke album";
+"save_image_notExist" = "Foto tidak tersedia";
+"save_image_fail" = "Foto tidak berhasil disimpan";
+"save_cannot_get" = "Tidak ada ijin";
+"save_saveBtn" = "Simpan";
+"save_toPhotoAlbum" = "Simpan ke album ";
+/**
+ *  ÊÑèËßÅÂèçÈ¶à
+ */
+"feedback_contactWay" = "Kontak:";
+"feedback_feedbackContent" = "Feedback:";
+"feedback_contactWayDetail" = "qq/email/nomor telepon";
+"feedback_feedbackContentDetail" = "Saran anda ";
+"feedback_cancel" = "Batalkan";
+"feedback_submit" = "Kumpulkan";
+"feedback_submitSuccess" = "Berhasil dikumpulkan";
+"feedback_thanks" = "Saran anda telah diterima, kami sangat menghargai pendapat anda";
+"feedback_confirm" = "Konfirm";
+"feedback_fail" = "Masalah koneksi, proses gagal";
+"feedback_failForOtherReasons" = "Gagal, dapat dikarenakan adanya duplikasi proses permintaan yang sama";
+
+"ywc_xiaoyi_qrcode" = "ywc_xiaoyi_qrcode_en";
+"ywc_step_one_scan" = "ywc_tahap_pertama_scan_en";
+"ywc_step_two_ablum" = "ywc_tahap_kedua_album_en";
+"ywc_step_three_public" = "ywc_tahap_ketiga_publik_en";
+
+"wechat_iknow_title" = "OK";
+/**
+ *  faq
+ */
+"faq_camera" = "Umum";
+"faq_connection" = "Koneksi";
+"faq_takingPhotos" = "Foto/Video";
+"faq_battery" = "Baterai";
+"faq_sdCard" = "Kartu Memori SD";
+"faq_on_off" = "On/Off";
+"faq_others" = "Lainnya";
+"faq_logo_title" = "FAQ";
+/**
+ *  Âø´Êãç
+ */
+"original"    = "Tidak ada";
+"brightbeau"  = "Cahaya";
+"curvelevel"  = "CurveLevel";
+"deepquit"    = "Deepquit";
+"retro"       = "Retro";
+"sepia"       = "Sepia";
+"_8mmfilm"    = "film";
+"documentary" = "Documenter";
+"template"    = "Template";
+"effect"      = "Efek";
+"effect_edit_format_choose" = "Pilih format";
+"effect_edit_format_MP4"    = "MP4 format";
+"effect_edit_format_GIF"    = "GIF format";
+"effect_edit_back_button"   = "Kembali";
+"effect_edit_share_button"  = "Sebarkan";
+"generate_MP4" = "Buat Video";
+"generate_GIF" = "Buat GIF";
+
+"effect_save_file_error"         = "Gagal untuk mengubah album";
+"effect_save_file_error_message" = "Ubah di Pengaturan - Privasi Foto";
+"effect_save_file_error_cancel"  = "OK";
+
+"effect_shareVieo" = "Tidak dapat disebarkan";
+
+"effect_video_load_again" = "Muat kembali Snapshot";
+
+"effect_not_support" = "efek tidak tersedia ";
+
+
+/**
+ *  Áõ∏Êú∫ËÆæÁΩÆ
+ */
+"tvVideoSetting" = "Video Settings";
+
+"setting_video"             = "Video";
+"setting_video_quality"     = "Kualitas Video";
+"setting_video_time_stamp"  = "Timestamp Video";
+"setting_video_resolution"  = "Resolusi Video";
+"setting_video_standard"    = "Standard Video";
+"setting_meter_mode"        = "Metering Mode";
+
+"setting_photo"                 = "Foto";
+"setting_photo_size"            = "Resolusi Foto";
+"setting_capture_default_mode"  = "Gunakan pengaturan foto dasar";
+"setting_system_default_mode"   = "Gunakan pengaturan dasar";
+"setting_photo_stamp"           = "Timestamp Foto";
+
+"setting_camera"                  = "Kamera";
+"setting_preview_status"          = "Tampilan Langsung";
+"setting_auto_low_light"          = "Otomatis Resolusi Pencahayaan Rendah";
+"setting_loop_record"             = "Rekam Loop";
+"setting_warp_enable"             = "Lens Aberration Correction";
+"setting_start_wifi_while_booted" = "Hidupkan Wi-Fi ";
+"setting_av_output"               = "AV Output";
+"setting_video_rotate"            = "Balik gambar";
+"emergency_file_backup"           = "Cadangan Darurat";
+"setting_buzzer_volume"           = "Volume Kamera";
+"setting_default_record_mode"     = "Modus video Boot";
+"setting_wifi"                    = "Pengaturan Wi-Fi";
+"setting_led_mode"                = "Mode LED";
+"setting_camera_clock"            = "Jam Kamera";
+"setting_auto_power_off"          = "Power-Off Otomatis";
+
+"setting_device" = "Device";
+//"setting_bluetooth"                = "Aksesoris";
+"setting_hw_version"               = "Versi Kamera";
+"setting_serial_number"            = "Nomor Seri";
+"setting_sw_version"               = "Versi Firmware ";
+"setting_sdcard"                   = "Kartu Memori MicroSD";
+"setting_buzzer_ring"              = "Temukan Kamera";
+"setting_restore_factory_settings" = "Kembalikan Pengaturan Dasar";
+"setting_save_log"                 = "log kamera";
+"setting_failed"                   = "Pengaturan Gagal";
+"setting_unsupported_resolution"   = "Pengaturan otomatis untuk cahaya rendah tidak tersedia untuk video dengan resolusi ini";
+
+"format_SD_error" = "Anda memiliki file yang sudah didownload, apakah mau ingin memformat ulang Kartu Memori MicroSD anda?";
+
+/**
+ *  Áõ∏Êú∫ËÆæÁΩÆÂèÇÊï∞
+ */
+"videoquality_fine"      = "Medium";
+"videoquality_superfine" = "Tinggi";
+"videoquality_normal"    = "Rendah";
+"auto_low_light"         = "Pengaturan Otomatis Cahaya Rendah";
+"loop_record"            = "Rekam Loop";
+"wrap_enable"            = "Lens Aberration Correction";
+"set_on"                 = "Hidupkan";
+"set_off"                = "Matikan";
+"date"                   = "Tanggal";
+"date_and_time"          = "Tanggal/Waktu";
+"time"                   = "Waktu";
+"buzzer_volume_high"     = "Tinggi";
+"buzzer_volume_low"      = "Rendah";
+"buzzer_volume_mute"     = "Matikan";
+"second"                 = "s";
+"pic_second"             = "p/s";
+"pic_two_second"         = "p/2s";
+"single_pic"             = "Single";
+"nomal_pic"              = "Foto";
+"cont_pic"               = "Burst Mode";
+"time_lapes_photo"       = "Time-lapse";
+"time_lapse_pic"         = "Time-lapse Mode";
+"keep_cont_pic"          = "Burst Shot";
+"meter_spot"             = "Spot Metering";
+"meter_center"           = "Center Metering";
+"meter_average"          = "Average Metering";
+"meter_manual"           = "Manual Metering";
+"led_all_enable"         = "Hidupkan semua";
+"led_all_disable"        = "Matikan semua";
+"led_status_enable"      = "StatusLED";
+"sd_hc"                  = "Kecepatan kartu normal";
+"sd_xc"                  = "Kartu dengan kecepatan tinggi";
+"none"                   = "Tidak diketahui";
+"sd_error"               = "Tidak ada kartu";
+"record"                 = "Video";
+"capture"                = "Foto";
+
+"sdcard_size"           = "%@ tersedia / %@ total";
+"sdcard_size_available" = "Tersedia";
+"sdcard_size_total"     = "Total";
+
+"camera_setting_alertlabel"   = "Pengaturan…";
+"camera_setting_alertmessage" = "Hidupkan kembali kamera setelah mendengar bunyi beep sebanyak 3 kali";
+
+
+
+/**
+ *  Áõ∏Êú∫ËøûÊé•ËøáÂ∫¶ÁïåÈù¢
+ */
+"camera_connect_head_label"  = "Hubungkan";
+"camera_connect_alert_label" = "Silahkan tunggu…";
+"camera_connect_back_button" = "Kembali";
+
+"camera_connect_failed_search"        = "Koneksi Gagal";
+"camera_connect_failed_label_message" = "Silahkan coba hubungkan kembali sampai anda melihat lampu biru Wi-Fi menyala";
+"camera_connect_failed_again"         = "Coba koneksi kembali";
+"camera_connect_failed_by_other"      = "Telah terhubung dengan handphone lain";
+"camera_connect_failed"      = "Koneksi gagal";
+"camera_connect_failed_back_square"   = "Kembali ke beranda";
+
+
+"camera_connect_button" = "Hubungkan dengan kamera";
+
+
+/**
+ *  WifiÁïåÈù¢
+ */
+"wifi_name_label"                  = "Name:";
+"wifi_name_placeholder"            = "Masukan nama password";
+"wifi_password_lalbel"             = "Password:";
+"wifi_password_placeholder"        = "Masukan password Wi-Fi";
+"wifi_password_show_label"         = "Lihatpassword";
+"wifi_alert_nothing_change"        = "Tidak ada modifikasi ";//iOS‰∏ìÊúâ
+"wifi_alert_enter_right_name"      = "Format nama Wi-Fi hanya terdiri dari 1-32 karakter";
+//"wifi_alert_name_count_failed"     = "Nomor salah untuk nama Wi-Fi";
+"wifi_alert_enter_right_password"  = "Password hanya dapat menggunakan  8-64 karakter";
+//"wifi_alert_password_count_failed" = "Nomor salah untuk password";
+"wifi_alert_restart_wifi"          = "Wi-Fi otomatis akan diproses kembali setelah informasi Wi-Fi diperbarui, lanjutkan?";
+"wifi_camera_state_message"        = "Kamera mungkin sedang digunakan untuk video, tidak dapat melakukan pengaturan kamera sekarang";
+"wifi_content_alter_success"       = "Informasi Wi-Fi telah sukses dimodifikasi, silahkan coba hubungkan kamera kembali";
+/**
+ *  ShareSDKÂàÜ‰∫´
+ */
+"share_iWantToShare" = "Saya menemukan informasi menarik di XiaoYi Square";
+"share_myShare" = "Sebarkan aktivitas saya di XiaoYi actiYon camera";
+"share_opening" = "Buka Applikasi";
+"share_success" = "Share successfully";//ÂõΩÈôÖÂå?
+"share_fail" = "Gagal untuk sebarkan  ";//ÂõΩÈôÖÂå?
+"share_fail_code" = "Kode Salah";//ÂõΩÈôÖÂåñY
+"share_fail_desc" = "Deskripsi Salah ";//ÂõΩÈôÖÂå?
+"share_local_video" = "Anda tidak dapat menyebarkan video lokal ini";
+
+/**
+ *  Âõ∫‰ª∂ÂçáÁ∫ß
+ */
+"camera_firmware_upgrade"            = "Perbarui Firmware ";
+"please_select_wifi"                 = "Pilih Wi-Fi";
+"wifi_password_hint"                 = "Silahkan masukan password Wi-Fi";
+"no_new_version"                     = "Tersedia versi terbaru";
+"no_new_firmware_version"            = "Tersedia versi terbaru";
+"firmware_download_failed"           = "Gagal untuk mendownload versi terbaru!";
+"firmware_upgrade_switch_wifi"       = "Ganti Wi-Fi...";
+"firmware_upgrade_download_firmware" = "Download Firmware...";
+"firmware_upgrade_tip"               = "Memproses kamera, jangan matikan Wi-Fi Kamera ";
+"sure_to_cancel_firmware_upgrade"    = "Konfirmasi untuk batalkan proses memperbarui versi kamera?";
+"should_connect_to_outside_wifi"     = "Diperlukan internet untuk memperbarui versi kamera, setuju untuk mematikan koneksi kamera ?" ;
+"video_ratio"                        = "4:3";
+"video_format"                       = "MP4";
+"new_video"                          = "Snapshot Video Baru";
+"video_filter"                       = "Filter";
+"video_musicbg"                      = "Musik";
+"firmware_no_sdcard"                 = "Silahkan masukan kartu memori";
+
+
+
+
+/**
+ *  Áõ∏Êú∫Ê®°Âºè
+ */
+"tvRecordMode"     = "Video";
+"tvQuickShotMode"  = "Snapshot";
+"tvPhotographMode" = "Foto";
+
+
+/**
+ *  Áõ∏Êú∫„ÄÅÊâãÊú∫Áä∂ÊÄÅÊòæÁ§? */
+"caera_battery_level" = "Baterai Kamera";
+"phone_battery_level" = "Baterai Telepon";
+
+
+/**
+ *  Áõ∏Êú∫ÁöÑ‰∏ªË¶ÅÊ¥ªË∑ÉÁä∂ÊÄ? */
+"camera_activity_mode_record"     = "Video";
+"camera_activity_mode_quick_shot" = "Snapshot";
+"camera_activity_mode_photograph" = "Foto";
+
+
+
+"alert_user_label"          = "Klik dua kali untuk kembali melihat hasil kamera ";
+"photo_edit_download_label" = "Download";
+"photo_edit_delete_label"   = "Hapus";
+"photo_edit_edit_label"     = "Ubah";
+"photo_button_cancel"       = "Batalkan ";
+"photo_choose_count"        = "Pilih 1 ";
+
+
+/**
+ *  Áõ∏Êú∫ÊãçÁÖßÊ®°Âºè
+ */
+"tv_normal"    = "Single";
+"tv_timelapes" = "Time-lapse";
+"tv_timer"     = "Timer";
+"tv_burst"     = "Burst";
+
+"tv_record_normal"     = "Normal";
+"tv_record_time_lapse"     = "Time-lapse";
+"tv_record_photo"     = "video+foto";
+
+/**
+ * Êñá‰ª∂ÁÆ°ÁêÜ
+ */
+"tvPhoto"    = "Foto";
+"tvVideo"    = "Video";
+"tvDownLoad" = "Download";
+
+"camer_file_loading_not_delete" = "Download, Hentikan proses lain terlebih dahulu";
+
+
+"camer_file_downloading" = "Download";
+"camer_file_downloaded"  = "Download berhasil";
+
+"camer_file_downloading_exit_or_not"  = "Download akan terhenti, ExitÔº?";
+
+
+"camera_file_no_photo"            = "Tidak ada Foto";
+"camera_file_no_video"            = "Tidak ada video";
+"camera_file_get_file"            = "Memuat…";
+"camera_file_SDCard_remove"       = "Tidak ada kartu memori";
+"camera_file_not_support_effect"  = "Tidak dapat diubah";
+"camera_file_selected"            = "Pilih %d ";
+"camera_file_can_select"          = "Pilih berkas";
+"camera_file_have_download_photo" = "Beberapa foto sudah didownload";
+"camera_file_select_is_download"  = "Beberapa foto sedang didownload";
+"camera_file_video_is_download"   = "File video yang sedang didownload";
+"camera_file_video_delete_loading"= "File sudah didownload, Hapus ?";
+//"camera_file_not_delete"          = "Batalkan";
+//"camera_file_sure_delete"         = "Hapus";
+"camera_file_not_delete"          = "Batalkan";
+"camera_file_sure_delete"         = "Hapus";
+
+"camera_http_wwan_alert_message"  = "Jika anda tidak dapat melihat hasil foto, silahkan matikan jaringan internet handphone dan coba kembali.";
+
+"camera_download_file_cancel_button" = "Batalkan";
+
+"camera_file_video_formate" = "Format Video";
+"camera_file_video_cancel"  = "Kembali";
+"camera_file_video_high"    = "Resolusi Tinggi";
+"camera_file_video_middle"  = "Resolusi Rendah";
+
+"camera_file_download_add"  = "Tambahkan untuk Download";
+"camera_file_download_exit" = "Simpan";
+"camera_file_download"      = "Berhasil disimpan";
+"file_deleted_loading"      = "Downloads ";
+"camera_file_download_error"= "Memori handphone tidak cukup";
+"camera_file_system_space"  = "%@ Tersedia, %@ Total";
+
+"camera_file_video_not_suport_play" = "File ini tidak dapat diputar";
+"camera_file_save_video_failed" = "Menyimpan video ini ke Album tidak didukung pada %@. Anda dapat menemukannya di Foto dari kamera saya.";
+
+
+
+/**
+ *  Áõ∏Êú∫ÁïåÈù¢
+ */
+"camera_main_caching"                     = "Sembunyikan";
+"camera_main_piv_complete"                = "Berhasil direkam";
+"camera_main_piv_failed"                  = "Tidak berhasil direkam";//?
+"camera_main_prompt"                      = "Pemberitahuan";
+"camera_main_sure_disconnect_from_camera" = "Anda yakin untuk memutuskan koneksi di kamera ?";
+"camera_main_disconnect_yes"              = "Ya";
+"camera_main_disconnect_no"               = "No";
+"camera_main_not_exit_SD_card"            = "Tidak ada kartu memori";
+
+"camera_main_set_model_defeat"            = "Pengaturan gagal ";
+
+
+/**
+ *  Áõ∏Êú∫Â∑•‰ΩúÁä∂ÊÄ? */
+"camera_take_photo_timelapse" = "Time-lapsing";//?
+"camera_take_photo_burst"     = "Bursting";
+"camera_take_photo_normal"    = "Ambil foto";
+"camera_take_photo_timing"    = "Timing";
+
+"camera_camera" = "Camera";
+
+
+
+/**
+ *  Áõ∏Êú∫ÈîôËØØËøîÂõû‰ø°ÊÅØ
+ */
+"camera_error_unknow"             = "gagal tidak diketahui";
+"camera_error_session"            = "Sesi ini gagal";
+"camera_error_token"              = "Token error";
+"camera_error_no_more_space"      = "Tidak ada memori tersisa di kartu memori";
+"camera_error_no_more_save_space" = "Tersedia versi terbaru:";
+"camera_error_system_busy"        = "Sistem sibuk";
+"camera_error_no_sd_card"         = "Tidak ada kartu memori";
+
+"camera_error_save_error"       = "Tidak dapat disimpan";
+"camera_error_sd_hc"            = "Kartu memori berkecepatan rendah";
+"camera_error_index_limit"      = "Batas Indeks ";
+"camera_error_file_limit"       = "Batas file";
+"camera_error_sd_card_remove"   = "Tidak ada kartu memori";
+"camera_error_sd_card_inserd"   = "Kartu memori telah dimasukan ";
+"camera_error_piv_error"        = "Resolusi ini tidak tersedia untuk pengambilan gambar:";
+"camera_error_sd_card_not_exit" = "Tidak ada kartu memori";
+
+"camera_error_sd_card_not_support" = "Kartu Memori dibawah 4G tidak dapat digunakan";
+
+
+
+
+
+
+
+/**
+ *  Áà∂Á±ªVCÊèêÁ§∫
+ */
+
+"camera_enter_usb_storage" = "Mode Penyimpanan USB ";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//title
+"Back" = "Kembali";
+"Home" = "Beranda";
+"OK" = "OK";
+"Nothing" = "Tidak ada data";
+"Notice" = "Pemberitahuan";
+"Cancel" = "Batalkan";
+"Save" = "Simpan";
+"Edit" = "Ubah";
+"Square" = "Square";
+"Camera" = "Kamera";
+"TakePhoto" = "Foto";
+"Cameras" = "Kamera";
+"All_Select" = "Pilih semua ";
+"No_Select" = "Inverse";
+"Me" = "Saya";
+"FileManage" = "Atur Fle";
+"LocalFile" = "FileLokal";
+"EquipManage" = "Lengkapi Pengaturan";
+"SDCard" = "Kartu Memori";
+"Setting" = "Pengaturan";
+"Manager" = "Manager";
+
+
+
+// Operation
+"TryAgain" = "Coba Kembali";
+"DeleteConfirm" = "Apa anda yakin untuk menghapus file ini?";
+"FormatSDCard" = "Format Kartu memori";
+"Format SDCard or not" = "Anda yakin untuk memformat kartu memori ?";
+"TotalCapacity" = "Total Kapasitas";
+"AvailableCapacity" = "Kapasitas Tersedia";
+"SDCardCapacity" = "kartu Memori";
+"Camert Time" = "Waktu Kamera";
+"Same Time" = "Atur tanggal dan waktu";
+
+
+
+"video_quality" = "Kualitas Video";
+"video_stamp" = "Video stamp";
+"video_resolution" = "Resolusi video";
+"video_standard" = "Format video";
+"meter_mode" = "Metering mode";
+"photo_size" = "Resolusi foto";
+"capture_default_mode" = "Rekam dengan pengaturan dasar";
+"photo_stamp" = "Photo Stamp";
+"capture_mode" = "Rekam";
+"buzzer_volume" = "Volume ";
+"precise_cont_time" = "Mengambil foto dengan timer tertunda";
+"burst_capture_number" = "Jumlah burst shots";
+"restore_factory_settings" = "Kembali ke pengaturan dasar ";
+"led_mode" = "LED Mode";
+"usb_storage_enable" = "Hidupkan penyimpanan USB";
+
+"serial_number" = "Nomor Seri ";
+
+"Preview Switch" = "Ubah Tampilan ";
+
+
+
+
+
+
+
+"CameraSetting" = "Pengaturan Kamera";
+
+"Single" = "Single";
+"Continu" = "Burst";
+"Delay" = "Countdown";
+
+"FailedToStart" = "1. Silahkan hidupkan Wi-Fi kamera;\n\n2. Pastikan handphone anda terhubung dengan Wi-Fi Kamera;\n\n3. Pastikan tidak ada koneksi lain yang terhubung dengan kamera anda ;\n\n4. Silahkan matikan dan nyalakan kembali kamera selama 30 detik apabila anda gagal terhubung.";
+"NetFail" = "Fail to Connect camera Wi-Fi, please checkout Wi-Fi status of your camera.";
+"Photo" = "Foto";
+"Vidoe" = "Video";
+"Download" = "Download";
+"SettingSuccess" = "Berhasil mengubah pengaturan";
+"SettingFailed" = "Gagal mengubah pengaturan ";
+"operation_failed" = "Gagal beroperasi";
+
+//tips
+
+"Camera Recording" = "Rekam video";
+"Taking Photo" = "Ambil gambar ";
+
+"PleaseCloseTheCamera" = "Harap berhenti merekam video ";
+"PleaseStopPhoto" = "Harap berhenti mengambil foto ";
+"Preview is Closed" = "Anda tidak dapat melihat video ";
+"Precise Quality Conting" = "Mengambil foto dengan  timer...";
+"Burst Quality photoing" = "Mengambil burst shots...";
+"Timelapse Record" = "Merekam dengan timelapse ...";
+
+"Does not support Preview" = "Resolusi ini tidak tersedia untuk ditampilkan.";
+"Resolution not support Capture" = "Resolusi ini tidak tersedia untuk snapshot.";
+"not_support_automatic_low_light" = "Resolusi ini tidak tersedia untuk pengaturan cahaya rendah";
+
+
+"file_saving" = "Simpan File";
+
+
+
+"TFCardIsFull" = "kartu Memori penuh";
+"stdDefVideo" = "Video tidak dapat ditampilkan ";
+
+"This resolution video no preview and side stream" = "Resolusi ini tidak dapat ditampilkan di video";
+
+"no preview" = "Tidak dapat ditampilkan";
+
+
+"This resolution has no side stream video" = "Resolusi ini tidak dimiliki oleh stream video";
+
+
+
+//UI title
+"Connect Success" = "Koneksi Berhasil";
+"Connect failed" = "Koneksi Gagal";
+"Connectting" = "Terhubung";
+
+
+"VidoeMode" = "Video Mode";
+"PhotoMode" = "Foto Mode";
+
+
+
+
+"Photo Success" = "Berhasil mengambil foto";
+"Photo Failed" = "Gagal mengambil foto";
+"No File" = "File tidak tersedia.";
+"Delete" = "Hapus";
+"Deleteing" = "Menghapus";
+
+"System Busy" = "Sistem sibuk";
+"Clear Cache" = "Bersihkan histori";
+
+"Saving" = "Menyimpan";
+"Finished" = "Selesai";
+
+
+
+
+
+
+
+"Find Camera" = "Cari kamera";
+"Camera connection failed, please check your WiFi connection is normal" = "Gagal terhubung dengan kamera, silahkan cek pengaturan  Wi-Fi .";
+"No Select File" = "Tidak ada file dipilih";
+"Delete Success" = "Sukses dihapus";
+"Delete Failed" = "Gagal dihapus ";
+"Restore Factory Or Not ?" = "Anda yakin untuk kembali ke pengaturan dasar?";
+"Unbind bluetooth controller Or Not ?" = "Anda yakin untuk menghapus semua koneksi bluetooth ?";
+"Time synchronous camera" = "Anda yakin melakukan sinkronisasi waktu di kamera?";
+"btc_delete_all_binded_dev" = "Hapus koneksi bluetooth";
+"Fetch log from camera" = "Ambil log dari kamera atau tidak?";
+"Upload_camera_log" = "OK Unggah log kamera?";
+
+"Wifi Message" = "Pengaturan Wi-Fi";
+"Confirm ?" = "Konfirmasi untuk pengaturan ini?";
+"Restart Camera ?" = "Restart ulang kamera ?";
+"SDCardType" = "Tipe Kartu Memori";
+"SDCardSpeed" = "Tes Kartu Memori";
+"SD Card remove" = "Tidak ada Kartu Memori ";
+"SD Card insert" = "Kartu memori berhasil dimasukkan ";
+"video_output_dev_type" = "Video output mode";
+"Please Click To Get" = "Klik untuk mendapatkan";
+"Speeding" = "Tes kecepatan";
+"Version information" = "Versi";
+"Hardware Version" = "Versi Firmware ";
+"Software Version" = "Versi Software ";
+
+"warp_enable" = "Matikan lens distortion correction";
+"start_wifi_while_booted" = "Hidupkan Wi-Fi setelah sistem diubah.";
+"auto_power_off" = "Otomatis power off";
+
+
+
+// alert tips
+"video_record_complete" = "Selesai merekam";
+"start_video_record" = "Mulai merekam";
+"No SDCard" = "Tidak ada kartu memori ";
+"Photo Start" = "Mulai mengambil gambar";
+//ËØ∑Ê±ÇËøîÂõûÊèêÁ§∫
+"SDCard-16K" = "SD card kesalahan format, diformat ulang?";
+
+"Failed" = "Gagal";
+"Success" = "Berhasil";
+"Loading" = "Memuat";
+"Get Wifi Failed" = "Tidak mendapatkan informasi Wi-Fi";
+"Command Failed" = "Perintah kembali gagal.";
+
+
+
+
+
+//Áõ∏Êú∫ÂèÇÊï∞ËΩ¨ÂåñÂÄ?
+"on" = "ON";
+"off" = "OFF";
+"S.Fine" = "Tinggi";
+"Fine" = "Rendah";
+"Normal" = "Rendah";
+"date/time" = "Tanggal/Waktu";
+"high" = "Tinggi";
+"low" = "Rendah";
+"mute" = "Matikan ";
+"center" = "Center-weighted metering ";
+"average" = "Average metering";
+"spot" = "Spot metering";
+"precise quality" = "Single";
+"precise quality cont." = "Time-lapse";
+"precise self quality" = "Timer";
+"burst quality" = "Burst";
+"status_error" = "Terjadi kesalahan saat memproses status kartu memori";
+"slot_error" = "Sistem gagal";
+"all enable" = "Hidupkan LED";
+"all disable" = "Matikan LEDs";
+"status enable" = "Nyalakan status LED";
+
+"firm_upload_percentage" = "%.0f%% sudah dimuat";
+"firm_diary" = "Perbarui Pemberitahuan";
+"firm_startUpdate" = "Perbarui firmware di kamera ";
+"firm_updating" = "Perbarui firmware,\n dan letakan kamera didekat telepon";
+"firm_connecting" = "Siap untuk memuat, terhubung";
+"firm_start_fw_update" = "Mulai perbarui";
+"firm_not_supported" = "Hardware tidak sesuai";
+"firm_quit" = "Perbarui sekarang, silahkan tunggu";
+"firm_error_unknownError" = "IO pengecualian saat memberi nama file ";
+"firm_error_invalidParam" = "parameter tidak valid";
+"firm_error_invalidPath" = "jalur tidak valid";
+"firm_error_cardNotExist" = "Tidak ada kartu memori";
+"firm_error_title" = "Terjadi kesalahan saat memperbarui firmware";
+"firm_success_title" = "Sukses";
+"firm_success_message" = "Kamera akan memberikan tanda beep saat memperbarui versi. Setelah selesai kamera akan mati secara otomatis.";
+"firm_alreadyNewest" = "Tidak perlu diperbarui.";
+"firm_lowBattery" = "Baterai akan habis , silahkan sambungkan dengan listrik sebelum memperbarui versi.";
+
+"firm_unsupported" = "Firmware kamera sedang diperbarui";
+"firm_finishDownload" = "v%@ download selesai";
+"firm_warning" = "Peringatan ";
+"firm_wwan" = "Anda tidak terhubung dengan jaringan Wi-Fi, proses download firmware akan memakan kuota internet anda, yakin untuk melanjutkan ?";
+"firm_notDownload" = "Batalkan";
+"firm_continueDownload" = "Download";
+"firm_wifiWillDownload" = "Firmware akan otomatis didownload saat terhubung dengan jaringan.";
+"firm_willUpdateIn5s" = "Kamera akan diperbarui dalam waktu 5 detik.";
+"firm_mistake" = "Gagal";
+"firm_sure" = "OK";
+"firm_prompt" = "Pemberitahuan";
+"firm_newFirmToUpdate" = "Versi baru Firmware sudah diluncurkan, mau perbaharui ?";
+"firm_nextTime" = "Waktu lainnya";
+"firm_updateNow" = "Perbarui Sekarang";
+"firm_downloadNow" = "Download";
+"firm_tryAgain" = "Coba Kembali";
+"firm_uploadAgain" = "Coba Kembali ";
+"firm_help_message" = "Anda gagal memperbarui ke versi terbaru, silahkan baca pesan ini sebelum mencoba kembali:\n\n1.Pastikan baterai kamera anda terisi minimal 50% \n2. Jangan matikan kamera dan Wi-Fi Kamera \n3. Letakan posisi kamera dekat dengan handphone anda \n4. Silahkan tunggu sampai proses selesai dan kamera anda mati secara otomatis\n\nKami menyarankan anda untuk memperbarui versi secara manual melalui Komputer/Mac/ Link Panduan: http://www.xiaoyi.com/update/sports";
+"firm_goHelp" = "Lihat Bantuan";
+"firm_recommendDownload_message" = "Anda disarankn untuk memperbarui kamera ke versi terbaru.";
+"firm_forceUpdate_message" = "File untuk memperbarui kamera sedang disiapkan, proses ini akan memakan waktu beberapa menit.";
+"firm_tip_message" = "Proses untuk memperbarui versi yang terakhir gagal, silahkan lihat bantuan untuk informasi lebih lanjut.";
+"firm_recommendUpdate_message" = "Camera update file prepared, the process takes only few minutes.";
+"firm_downloading" = "Proses Download…";
+"firm_finishDownloading" = "Silahkan hubungkan kamera";
+"firm_putFileFail" = "Gagal memperbarui firmware";
+"firm_putFileFailToDo" = "Silahkan coba kembali ";
+"firm_updateFirmwareFail" = "Gagal memperbarui firmware";
+"firm_wrongMD5" = "Pengecekan verifikasi gagal, silahkan download kembali.";
+"firm_finishDownloadShort" = "Download berhasil";
+"firm_no_infomation" = "Silakan terhubung ke Internet melalui Wi-Fi atau jaringan selular.";
+"firm_network_refresh" = "Menyegarkan";
+"firm_version_title" = "Versi: %@";
+"firm_pause_download" = "Berhenti sebentar";
+"setting_timeout" = "Pengaturan Timeout ";
+"unbind_bluetooth_failed" = "Gagal dihapus!";
+"unbind_bluetooth_succeeded" = "Berhasil dihapus!";
+"unbind_bluetooth_unbinded" = "Tidak ada devices yang terhubung.";
+
+/**
+ *  ywc ÊàëËá™Â∑±ÁøªÁö? */
+"new_noSound" = "Resolusi ini tidak memiliki suara.";
+"new_joinNow" = "Bergabung Sekarang";
+"new_jump" = "Lewati >>";
+"new_wechat" = "Sesi WeChat";
+"new_moments" = "WeChat Timeline";
+"new_collection" = "Favorit di Wechat";
+"new_weibo" = "Sina Weibo";
+"new_qq" = "QQ";
+"new_qzone" = "QZone";
+"new_more" = "Lainnya";
+"new_sharePhoto" = "Sebarkan foto";
+"new_shareVideo" = "Sebarkan video";
+
+
+
+
+
+
+"lead_image_click_camera"         = "Hubungkan";
+"lead_image_file_manger"          = "Galeri";
+"lead_image_button_capture"       = "Tombol Shutter ";
+"lead_image_button_record"        = "Mulai merekam";
+"lead_image_capture_model_change" = "Ubah Mode";
+"lead_image_capture_model"        = "Single,Count-down,Time-lapse&Burst";
+"lead_image_record_model_change"  = "Ubah Mode";
+"lead_image_record_model"         = "Single,Time-lapse,Video+Foto";
+"lead_image_button_zhuapai"       = "Tombol Rekam";
+"lead_image_lead_message"         = "Ambil foto saat merekam";
+"lead_image_mode_message"         = "Semua mode diubah disini";
+
+"10 minutes" = "10 menit";
+"3 minutes"  = "3 menit";
+"5 minutes"  = "5 menit";
+
+"Thank_you_for_your_corporation" = "Terima kasih atas kerja sama anda";
+
+"timelapse_duration_title" = "Video Durasi";
+"timelapse_interval_title" = "Jarak Waktu";
+"timelapse_speed_massage"  = "%dX";
+"timelapse_shootingtime_off" = "OFF";
+"timelapse_shootingtime_label" = "Shooting Waktu: ";
+"timelapse_shootingtime_day" = "%ldD";
+"timelapse_shootingtime_hour" = "%ldH";
+"timelapse_shootingtime_minute" = "%ldM";
+"timelapse_shootingtime_second" = "%ldS";
+
+//自动取帧
+"auto_sample_title"       = "Highlights";
+"auto_sampling_uploading" = "Meng-upload";
+"auto_sampling_checkInternet" = "Periksa koneksi jaringan Anda";
+"auto_sampling_not_support" = "2K video tidak mendukung %@";
+
+"file_manager_loading_file" = "Loading Album";
+
+"sns_login" = "masuk";
+"sns_quit_login" = "Log out";
+"sns_sure_quit" = "OK untuk keluar";
+"sns_xiaomi_login" = "Xiaomi login account";
+
+"open_log_save_alert" = "Apakah Anda yakin akan mengaktifkan log kamera?";
+
+"connect_see_tutorial" = "Lihat Tutorial";
+
+"float_setting_countdown" = "Countdown";
+"float_setting_frequency" = "Frekuensi";
